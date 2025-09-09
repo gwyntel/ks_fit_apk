@@ -1,0 +1,71 @@
+{
+    "login": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Gjenopprett innloggingspassord",
+                    "subtitle": "Glemt passord, kan tilbakestilles",
+                    "detail": "Tilbakestill passord:\nPå innloggingssiden, finn «Glemt passord», gå til siden for tilbakestilling av passord, skriv inn e-postadressen din og klikk «Send e-post». KS Fit sender en e-post for tilbakestilling. Følg instruksjonene i e-posten for å fullføre tilbakestillingen."
+                },
+                {
+                    "title": "E-posten fungerer ikke",
+                    "subtitle": "Opprinnelig e-postfeil, e-post må endres",
+                    "detail": "Oppdater den tilknyttede e-posten i KS Fit:\nGå til Konto og sikkerhet_ Endre tilknyttet e-post, og følg instruksjonene.\nHvis problemet vedvarer, kontakt kundeservice eller send inn tilbakemelding."
+                },
+                {
+                    "title": "Kan ikke motta e-poster fra KS Fit",
+                    "subtitle": "",
+                    "detail": "Sjekk søppelpostmappen, noen e-poster kan feilaktig bli markert som spam. Hvis problemet vedvarer, kontakt oss på kingsmithfitness@gmail.com."
+                }
+            ]
+        },
+        {
+            "groupTitle": "Vanlige spørsmål",
+            "children": [
+                {
+                    "title": "Hvordan registrere en KS Fit-konto",
+                    "subtitle": "",
+                    "detail": "KS Fit støtter kun registrering med e-post.\n\nFremgangsmåte:\nGå til KS Fit, finn «Registrer» på innloggingssiden, klikk og fyll inn e-post og opprett et passord for å fullføre registreringen."
+                },
+                {
+                    "title": "Hvordan koble/endre tredjepartskonto",
+                    "subtitle": "",
+                    "detail": "1. Kan logge inn normalt:\nGå til «Meg_Innstillinger_Konto og sikkerhet» for å koble/endre Google/Apple-konto.\n\n2. Kan ikke logge inn:\nKlikk «Gjenopprett konto» på forrige side, finn kontoen din, logg inn, og fortsett som beskrevet over."
+                },
+                {
+                    "title": "Hvordan slette en konto",
+                    "subtitle": "",
+                    "detail": "Gå til «Meg_Innstillinger_Konto og sikkerhet» etter å ha logget inn, og slett kontoen din."
+                }
+            ]
+        }
+    ],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Hva gjør man hvis enheten ikke blir funnet?",
+                    "subtitle": "",
+                    "detail": "1. Slå av enheten, vent 5 sekunder og slå den på igjen.\n2. Under søkingen:\n(1) Kontroller at enheten er slått på og i tilkoblingsventemodus (blåtann-lampen blinker), og at den er tilstrekkelig nær deg.\n(2) Hvis enheten ikke er i tilkoblingsventemodus og du ikke vet hvem som koblet den til, kan du prøve å tilbakestille enheten (eller slå den av hvis det ikke finnes en tilbakestillingsoptjon) og søke på nytt.\n(3) Kontroller at appen har fått følgende tillatelser: plassering, søk etter nærliggende enheter; innstillingsvei: Innstillinger - Applikasjonsadministrasjon - KS Fit - Tillatelsesadministrasjon - Sett disse tillatelsene som tillatt\n(4) Hvis enheten din er en rovemaskin, trek i håndtaget for å aktivere rovemaskinen og behold skjermen påslått under søkingen.\n(5) Hvis enheten din er en sykkel, tråd på sykkelen helt til blåtann-lampen blinker under søkingen.\n(6) Hvis enheten din er en smart halter, ryst eller berør panelen for å aktivere halteren under søkingen.\n(8) Hvis du bruker en Android-telefon, slå på bluetooth, søk etter nærliggende bluetooth-enheter og sjekk om enheten din vises i listen over nærliggende bluetooth-enheter; du må også sjekke om enheten er i listen over \"koblede enheter\", og hvis så er tilfelle, fjern koblingen.\nHvis du bruker en iOS-telefon, last ned \"nRF Connect\"-appen, åpne denne appen og sjekk om enheten din vises i kategorien for nærliggende bluetooth-enheter,\nHvis enheten din ikke vises i listen over nærliggende bluetooth-enheter, kan det hende at enheten har et problem, og du kan kontakte kundeservice for å løse det.\n3. Hvis de ovenfor nevnte situasjonene er utelukket, kan du sende brukerfeedback (med logg) i appen. Feedback-innholdet må inkludere følgende elementer: problembeskrivelse, bilde av enhetsinformasjonen på enhetskroppen, kontaktinformasjon, logg.\nEtter å ha mottatt din feedback, kan vi raskt identifisere problemet ditt, og kundeservicepersonaleet vil også kontakte deg aktivt etter å ha mottatt feedbacken."
+                },
+                {
+                    "title": "Hvordan legger jeg til et device?",
+                    "subtitle": "",
+                    "detail": "1. Først må du koble enheten til strøkilden og slå den på.\n2. Åpne KS Fit-appen, gå til「Sport」-siden, klikk på「+」i øvre høyre hjørne for å komme til「Legg til enhet」-siden.\n3. Når du er på「Legg til enhet」-siden, vil appen automatisk begynne å søke etter enheter i 30 sekunders tid.\n4. Finn enheten din i søkeresultatene og klikk på「Koble til」for å etablere forbindelsen.\nForsikre deg om at enheten er slått på og tilstrekkelig nært under søkingen."
+                },
+                {
+                    "title": "Hva gjør man hvis man ikke kjenner til navnet på sin enhet?",
+                    "subtitle": "",
+                    "detail": "Enhetsnavnet som vises i appen kan være ulikt navnet i enhetsmanualen.\nHvis du ikke finner enheten med dette navnet på siden「Legg til enhet」, kan du prøve å koble til en enhet som vises i søkeresultatene.\nHvis problemet ditt ikke er løst, kontakt kundeservice."
+                },
+                {
+                    "title": "Hva gjør man hvis koblingen til enheten mislykkes?",
+                    "subtitle": "",
+                    "detail": "Sjekk den tilsvarende løsningen basert på enhetstypen din:\n1. Kategori Treadmill/Gåmaskiner:\n1. Du kan slå av enheten, vente i 5 sekunder og deretter slå den på igjen.\n2. Ved tilkobling må enheten oppfylle følgende betingelser:\n   (1) Sørg for at enheten er slått på og i en tilkoblingsklar tilstand (Bluetooth-lyset blinker) og at den er nær nok deg.\n   (2) Sørg for at telefonen din har gitt appen tillatelser til stedstjenester og Bluetooth, og at Bluetooth alltid er på.\n3. Hvis enheten allerede vises på kortsiden, prøv å “fjerne bindingen” og prøv igjen.\n4. Hvis situasjonene ovenfor er utelukket, kan du sende inn brukertilbakemelding (med logg) i appen; tilbakemeldingen må inkludere: problembeskrivelse, bilder av enhetsinformasjonen på enhetens kropp, kontaktdetaljer, logg.\n   Etter å ha mottatt tilbakemeldingen din, kan vi raskt finne problemet ditt, og kundeserviceteamet vårt vil kontakte deg proaktivt.\n2. Kategori Ro-maskiner\n1. Du kan slå av enheten, vente i 5 sekunder og deretter slå den på igjen.\n2. Ved tilkobling må enheten oppfylle følgende betingelser:\n   (1) Under tilkoblingsprosessen, hold ro-bevegelsen i gang.\n   (2) Sørg for at enheten er slått på og i en tilkoblingsklar tilstand (Bluetooth-lyset blinker).\n   (3) Sørg for at telefonen din har gitt appen tillatelser til stedstjenester og Bluetooth, og at Bluetooth alltid er på.\n3. Hvis situasjonene ovenfor er utelukket, kan du sende inn brukertilbakemelding (med logg) i appen; tilbakemeldingen må inkludere: problembeskrivelse, bilder av enhetsinformasjonen på enhetens kropp, kontaktdetaljer, logg.\n   Etter å ha mottatt tilbakemeldingen din, kan vi raskt finne problemet ditt, og kundeserviceteamet vårt vil kontakte deg proaktivt.\n3. Kategori Hantler\n1. Ved tilkobling må enheten oppfylle følgende betingelser:\n   (1) Under tilkoblingsprosessen, hold svingbevegelsen med hantlene i gang.\n   (2) Sørg for at enheten er slått på og i en tilkoblingsklar tilstand (Bluetooth-lyset blinker).\n   (3) Sørg for at telefonen din har gitt appen tillatelser til stedstjenester og Bluetooth, og at Bluetooth alltid er på.\n2. Hvis situasjonene ovenfor er utelukket, kan du sende inn brukertilbakemelding (med logg) i appen; tilbakemeldingen må inkludere: problembeskrivelse, bilder av enhetsinformasjonen på enhetens kropp, kontaktdetaljer, logg.\n   Etter å ha mottatt tilbakemeldingen din, kan vi raskt finne problemet ditt, og kundeserviceteamet vårt vil kontakte deg proaktivt.\n4. Kategori Sykler\n1. Du kan slå av enheten, vente i 5 sekunder og deretter slå den på igjen.\n2. Ved tilkobling må enheten oppfylle følgende betingelser:\n   (1) Under tilkoblingsprosessen, fortsett å trå sykkelen.\n   (2) Sørg for at enheten er slått på og i en tilkoblingsklar tilstand (Bluetooth-lyset blinker).\n   (3) Sørg for at telefonen din har gitt appen tillatelser til stedstjenester og Bluetooth, og at Bluetooth alltid er på.\n3. Hvis situasjonene ovenfor er utelukket, kan du sende inn brukertilbakemelding (med logg) i appen; tilbakemeldingen må inkludere: problembeskrivelse, bilder av enhetsinformasjonen på enhetens kropp, kontaktdetaljer, logg.\n   Etter å ha mottatt tilbakemeldingen din, kan vi raskt finne problemet ditt, og kundeserviceteamet vårt vil kontakte deg proaktivt."
+                }
+            ]
+        }
+    ]
+}

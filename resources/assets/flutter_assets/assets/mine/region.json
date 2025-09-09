@@ -1,0 +1,133 @@
+{
+  "region": [
+    {
+      "name": "中国大陆",
+      "debugUrl": "",
+      "releaseUrl": ""
+    },
+    {
+      "name": "英国"
+    }
+  ],
+  "language": [
+    {
+      "name": "系统",
+      "locale": {
+        "languageCode": "sys",
+        "countryCode": ""
+      }
+    },
+    {
+      "name": "中文简体",
+      "locale": {
+        "languageCode": "zh",
+        "countryCode": "CN"
+      }
+    },
+    {
+      "name": "English",
+      "locale": {
+        "languageCode": "en",
+        "countryCode": ""
+      }
+    },
+    {
+      "name": "中文繁体",
+      "locale": {
+        "languageCode": "zh",
+        "countryCode": "TW"
+      }
+    },
+    {
+      "name": "한국어",
+      "locale": {
+        "languageCode": "ko",
+        "countryCode": ""
+      }
+    },
+    {
+      "name": "Polski",
+      "locale": {
+        "languageCode": "pl",
+        "countryCode": "PL"
+      }
+    },
+    {
+      "name": "Suomi",
+      "locale": {
+        "languageCode": "fi",
+        "countryCode": "FI"
+      }
+    },
+    {
+      "name": "Svenska",
+      "locale": {
+        "languageCode": "sv",
+        "countryCode": "SE"
+      }
+    },
+    {
+      "name": "Español",
+      "locale": {
+        "languageCode": "es",
+        "countryCode": "ES"
+      }
+    },
+    {
+      "name": "русский",
+      "locale": {
+        "languageCode": "ru",
+        "countryCode": "RU"
+      }
+    },
+    {
+      "name": "日本語",
+      "locale": {
+        "languageCode": "ja",
+        "countryCode": "JP"
+      }
+    },
+    {
+      "name": "Norsk",
+      "locale": {
+        "languageCode": "nb",
+        "countryCode": "NO"
+      }
+    },
+    {
+      "name": "German",
+      "locale": {
+        "languageCode": "de",
+        "countryCode": "DE"
+      }
+    },
+    {
+      "name": "Italian",
+      "locale": {
+        "languageCode": "it",
+        "countryCode": "IT"
+      }
+    },
+    {
+      "name": "Français",
+      "locale": {
+         "languageCode": "fr",
+         "countryCode": "FR"
+      }
+    },
+    {
+      "name": "Українська",
+      "locale": {
+        "languageCode": "uk",
+        "countryCode": "UA"
+      }
+    },
+    {
+      "name": "Türkçe",
+      "locale": {
+        "languageCode": "tr",
+        "countryCode": "TR"
+      }
+    }
+  ]
+}

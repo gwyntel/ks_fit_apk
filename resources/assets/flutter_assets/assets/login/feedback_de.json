@@ -1,0 +1,73 @@
+
+{
+  "login": [
+    {
+      "groupTitle": "",
+      "children": [
+        {
+          "title": "Passwort für Anmeldung wiederherstellen",
+          "subtitle": "Passwort vergessen, kann zurückgesetzt werden",
+          "detail": "Passwort zurücksetzen:\nAuf der Login-Seite „Passwort vergessen“ finden, E-Mail eingeben, auf „E-Mail senden“ klicken. KS Fit sendet eine E-Mail mit weiteren Anweisungen."
+        },
+        {
+          "title": "E-Mail funktioniert nicht",
+          "subtitle": "Alte E-Mail fehlerhaft, E-Mail muss geändert werden",
+          "detail": "Ändern Sie die mit KS Fit verknüpfte E-Mail:\nKonto & Sicherheit > E-Mail ändern und den Anweisungen folgen.\nFalls das nicht funktioniert, kontaktieren Sie den KS Fit Support."
+        },
+        {
+          "title": "KS Fit-E-Mails nicht erhalten",
+          "subtitle": "",
+          "detail": "Prüfen Sie den Spam-Ordner, falls die E-Mail dort gelandet ist. Wenn nicht, senden Sie Feedback oder kontaktieren Sie uns: kingsmithfitness@gmail.com."
+        }
+      ]
+    },
+    {
+      "groupTitle": "Häufig gestellte Fragen",
+      "children": [
+        {
+          "title": "Wie registriere ich ein KS Fit-Konto?",
+          "subtitle": "",
+          "detail": "KS Fit unterstützt nur die Registrierung per E-Mail.\n\nSchritte:\nIn KS Fit „Registrieren“ auf der Login-Seite finden, E-Mail eingeben, Passwort festlegen und abschließen."
+        },
+        {
+          "title": "Wie verknüpfe/ändere ich ein Drittanbieter-Konto?",
+          "subtitle": "",
+          "detail": "1. Bei erfolgreicher Anmeldung:\nGehen Sie zu „Ich > Einstellungen > Konto & Sicherheit“, um Google/Apple zu verknüpfen oder zu ändern.\n\n2. Bei Problemen mit der Anmeldung:\nNutzen Sie „Konto wiederherstellen“, melden Sie sich an und folgen Sie den oben genannten Schritten."
+        },
+        {
+          "title": "Wie lösche ich mein Konto?",
+          "subtitle": "",
+          "detail": "Nach erfolgreicher Anmeldung gehen Sie zu „Ich > Einstellungen > Konto & Sicherheit“, um das Konto zu löschen."
+        }
+      ]
+    }
+  ],
+  "addDevice": [
+    {
+      "groupTitle": "",
+      "children": [
+        {
+          "title": "Was tun, wenn das Gerät nicht gefunden wird?",
+          "subtitle": "",
+          "detail": "1. Schalte das Gerät aus, warte 5 Sekunden und schalte es wieder ein.\n2. Beim Suchen:\n(1) Stelle sicher, dass das Gerät eingeschaltet und im Verbindungswartemodus (Bluetooth-Licht blinkt) ist und ausreichend nahe bei dir ist.\n(2) Wenn das Gerät nicht im Verbindungswartemodus ist und du nicht weißt, wer es verbunden hat, kannst du versuchen, das Gerät zurückzusetzen (oder es auszuschalten, wenn keine Reset-Funktion vorhanden ist) und erneut zu suchen.\n(3) Stelle sicher, dass die App die folgenden Berechtigungen erhalten hat: Standort, Suche nach nahegelegenen Geräten; Einstellungs-Pfad: Einstellungen - App-Verwaltung - KS Fit - Berechtigungsverwaltung - Setze diese Berechtigungen auf erlaubt\n(4) Wenn dein Gerät ein Rudergerät ist, ziehe am Griff, um das Rudergerät zu aktivieren und behalte den Bildschirm während der Suche eingeschaltet.\n(5) Wenn dein Gerät ein Fitnessrad ist, tritt in die Pedale, bis das Bluetooth-Licht während der Suche blinkt.\n(6) Wenn dein Gerät eine intelligente Hantel ist, schüttle oder berühre das Panel, um die Hantel während der Suche zu aktivieren.\n(8) Wenn du ein Android-Telefon verwendest, aktiviere Bluetooth, suche nach nahegelegenen Bluetooth-Geräten und überprüfe, ob dein Gerät in der Liste der nahegelegenen Bluetooth-Geräte angezeigt wird; du musst auch überprüfen, ob das Gerät in der Liste der \"verbundenen Geräte\" steht, und wenn ja, trenne die Verbindung.\nWenn du ein iOS-Telefon verwendest, lade die \"nRF Connect\" -App herunter, öffne diese App und überprüfe, ob dein Gerät in der Kategorie der nahegelegenen Bluetooth-Geräte angezeigt wird,\nWenn dein Gerät nicht in der Liste der nahegelegenen Bluetooth-Geräte angezeigt wird, kann es ein Problem mit deinem Gerät geben, und du kannst den Kundendienst kontaktieren, um es zu beheben.\n3. Wenn die oben genannten Situationen ausgeschlossen sind, kannst du ein Benutzerfeedback (mit Protokoll) in der App senden. Der Feedback-Inhalt muss die folgenden Elemente enthalten: Problembeschreibung, Foto der Geräteinformationen auf dem Gerätekörper, Kontaktinformationen, Protokoll.\nNachdem wir dein Feedback erhalten haben, können wir dein Problem schnell lokalisieren, und das Kundenservice-Team wird auch aktiv mit dir in Kontakt treten, nachdem es das Feedback erhalten hat."
+        },
+        {
+          "title": "Wie füge ich ein Gerät hinzu?",
+          "subtitle": "",
+          "detail": "1. Schließen Sie zuerst Ihr Gerät an eine Stromquelle an und schalten Sie es ein.\n2. Öffnen Sie die KS Fit-App, gehen Sie zur Seite「Sport」, klicken Sie auf「+」in der oberen rechten Ecke, um zur Seite「Gerät hinzufügen」zu gelangen.\n3. Sobald Sie sich auf der Seite「Gerät hinzufügen」befinden, beginnt die App automatisch mit der Suche nach Geräten, die 30 Sekunden dauert.\n4. Suchen Sie Ihr Gerät in den Suchergebnissen und klicken Sie auf「Verbinden」, um die Verbindung herzustellen.\nStellen Sie während der Suche sicher, dass Ihr Gerät eingeschaltet und in ausreichender Nähe ist."
+        },
+        {
+          "title": "Was tun, wenn du den Namen deines Geräts nicht kennst?",
+          "subtitle": "",
+          "detail": "Der im App angezeigte Gerätename stimmt möglicherweise nicht mit dem im Gerätehandbuch überein.\nFalls Sie auf der Seite「Gerät hinzufügen」kein Gerät mit diesem Namen finden, können Sie versuchen, ein anderes Gerät aus den Suchergebnissen zu verbinden.\nWenn Ihr Problem weiterhin besteht, kontaktieren Sie bitte den Kundenservice."
+        },
+        {
+          "title": "Was tun, wenn die Geräteverbindung fehlschlägt?",
+          "subtitle": "",
+          "detail": "Überprüfen Sie die entsprechende Lösung basierend auf Ihrem Gerätetyp:\n1. Kategorie Laufbänder/Gehmaschinen:\n1. Sie können das Gerät ausschalten, 5 Sekunden warten und es dann wieder einschalten.\n2. Beim Verbinden muss das Gerät die folgenden Bedingungen erfüllen:\n   (1) Stellen Sie sicher, dass das Gerät eingeschaltet ist und sich im verbindungsbereiten Zustand befindet (Bluetooth-Lampe blinkt) und dass es nahe genug an Ihnen ist.\n   (2) Stellen Sie sicher, dass Ihr Telefon der App Berechtigungen für Standort und Bluetooth erteilt hat und dass Bluetooth immer eingeschaltet bleibt.\n3. Wenn das Gerät bereits auf der Kartenseite angezeigt wird, versuchen Sie, es zu “entbinden” und versuchen Sie es erneut.\n4. Wenn die oben genannten Situationen ausgeschlossen wurden, können Sie ein Benutzer-Feedback (mit Log) über die App einreichen; das Feedback muss Folgendes enthalten: Problembeschreibung, Fotos der Geräteinformationen auf dem Gerätekörper, Kontaktdaten, Log.\n   Nach Erhalt Ihres Feedbacks können wir Ihr Problem schnell lokalisieren, und unser Kundendienstteam wird Sie proaktiv kontaktieren.\n2. Kategorie Rudergeräte\n1. Sie können das Gerät ausschalten, 5 Sekunden warten und es dann wieder einschalten.\n2. Beim Verbinden muss das Gerät die folgenden Bedingungen erfüllen:\n   (1) Halten Sie während des Verbindungsprozesses die Ruderbewegung aufrecht.\n   (2) Stellen Sie sicher, dass das Gerät eingeschaltet ist und sich im verbindungsbereiten Zustand befindet (Bluetooth-Lampe blinkt).\n   (3) Stellen Sie sicher, dass Ihr Telefon der App Berechtigungen für Standort und Bluetooth erteilt hat und dass Bluetooth immer eingeschaltet bleibt.\n3. Wenn die oben genannten Situationen ausgeschlossen wurden, können Sie ein Benutzer-Feedback (mit Log) über die App einreichen; das Feedback muss Folgendes enthalten: Problembeschreibung, Fotos der Geräteinformationen auf dem Gerätekörper, Kontaktdaten, Log.\n   Nach Erhalt Ihres Feedbacks können wir Ihr Problem schnell lokalisieren, und unser Kundendienstteam wird Sie proaktiv kontaktieren.\n3. Kategorie Hanteln\n1. Beim Verbinden muss das Gerät die folgenden Bedingungen erfüllen:\n   (1) Halten Sie während des Verbindungsprozesses die Schwingbewegung der Hanteln aufrecht.\n   (2) Stellen Sie sicher, dass das Gerät eingeschaltet ist und sich im verbindungsbereiten Zustand befindet (Bluetooth-Lampe blinkt).\n   (3) Stellen Sie sicher, dass Ihr Telefon der App Berechtigungen für Standort und Bluetooth erteilt hat und dass Bluetooth immer eingeschaltet bleibt.\n2. Wenn die oben genannten Situationen ausgeschlossen wurden, können Sie ein Benutzer-Feedback (mit Log) über die App einreichen; das Feedback muss Folgendes enthalten: Problembeschreibung, Fotos der Geräteinformationen auf dem Gerätekörper, Kontaktdaten, Log.\n   Nach Erhalt Ihres Feedbacks können wir Ihr Problem schnell lokalisieren, und unser Kundendienstteam wird Sie proaktiv kontaktieren.\n4. Kategorie Fahrräder\n1. Sie können das Gerät ausschalten, 5 Sekunden warten und es dann wieder einschalten.\n2. Beim Verbinden muss das Gerät die folgenden Bedingungen erfüllen:\n   (1) Treten Sie während des Verbindungsprozesses weiterhin in die Pedale des Fahrrads.\n   (2) Stellen Sie sicher, dass das Gerät eingeschaltet ist und sich im verbindungsbereiten Zustand befindet (Bluetooth-Lampe blinkt).\n   (3) Stellen Sie sicher, dass Ihr Telefon der App Berechtigungen für Standort und Bluetooth erteilt hat und dass Bluetooth immer eingeschaltet bleibt.\n3. Wenn die oben genannten Situationen ausgeschlossen wurden, können Sie ein Benutzer-Feedback (mit Log) über die App einreichen; das Feedback muss Folgendes enthalten: Problembeschreibung, Fotos der Geräteinformationen auf dem Gerätekörper, Kontaktdaten, Log.\n   Nach Erhalt Ihres Feedbacks können wir Ihr Problem schnell lokalisieren, und unser Kundendienstteam wird Sie proaktiv kontaktieren."
+        }
+      ]
+    }
+  ]
+}
+  

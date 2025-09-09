@@ -1,0 +1,5 @@
+package com.baseflow.geolocator;
+
+/* loaded from: classes3.dex */
+public abstract /* synthetic */ class a {
+}

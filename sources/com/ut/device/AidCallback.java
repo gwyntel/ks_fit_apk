@@ -1,0 +1,7 @@
+package com.ut.device;
+
+@Deprecated
+/* loaded from: classes4.dex */
+public interface AidCallback {
+    void onAidEventChanged(int i2, String str);
+}

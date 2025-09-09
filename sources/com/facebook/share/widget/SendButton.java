@@ -1,0 +1,41 @@
+package com.facebook.share.widget;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import com.facebook.internal.AnalyticsEvents;
+import com.facebook.internal.CallbackManagerImpl;
+import com.facebook.internal.FacebookDialogBase;
+import com.facebook.share.R;
+import com.facebook.share.Sharer;
+import com.facebook.share.model.ShareContent;
+
+@Deprecated
+/* loaded from: classes3.dex */
+public final class SendButton extends ShareButtonBase {
+    public SendButton(Context context) {
+        super(context, null, 0, AnalyticsEvents.EVENT_SEND_BUTTON_CREATE, AnalyticsEvents.EVENT_SEND_BUTTON_DID_TAP);
+    }
+
+    @Override // com.facebook.FacebookButtonBase
+    protected int getDefaultRequestCode() {
+        return CallbackManagerImpl.RequestCodeOffset.Message.toRequestCode();
+    }
+
+    @Override // com.facebook.FacebookButtonBase
+    protected int getDefaultStyleResource() {
+        return R.style.com_facebook_button_send;
+    }
+
+    @Override // com.facebook.share.widget.ShareButtonBase
+    protected FacebookDialogBase<ShareContent, Sharer.Result> getDialog() {
+        return getFragment() != null ? new MessageDialog(getFragment(), getRequestCode()) : getNativeFragment() != null ? new MessageDialog(getNativeFragment(), getRequestCode()) : new MessageDialog(getActivity(), getRequestCode());
+    }
+
+    public SendButton(Context context, AttributeSet attributeSet) {
+        super(context, attributeSet, 0, AnalyticsEvents.EVENT_SEND_BUTTON_CREATE, AnalyticsEvents.EVENT_SEND_BUTTON_DID_TAP);
+    }
+
+    public SendButton(Context context, AttributeSet attributeSet, int i2) {
+        super(context, attributeSet, i2, AnalyticsEvents.EVENT_SEND_BUTTON_CREATE, AnalyticsEvents.EVENT_SEND_BUTTON_DID_TAP);
+    }
+}

@@ -1,0 +1,1745 @@
+[
+  {
+    "code": "297",
+    "pinyin": "ALuBa",
+    "isoCode": "ABW",
+    "areaName": "Aruba",
+    "domainAbbreviation": "AW"
+  },
+  {
+    "code": "1264",
+    "pinyin": "AnGuiLa",
+    "isoCode": "AIA",
+    "areaName": "Anguilla",
+    "domainAbbreviation": "AI"
+  },
+  {
+    "code": "1268",
+    "pinyin": "AnTiGuaHeBaBuDa",
+    "isoCode": "ATG",
+    "areaName": "Antigua és Barbuda",
+    "domainAbbreviation": "AG"
+  },
+  {
+    "code": "1246",
+    "pinyin": "BaBaDuoSi",
+    "isoCode": "BRB",
+    "areaName": "Barbados",
+    "domainAbbreviation": "BB"
+  },
+  {
+    "code": "1242",
+    "pinyin": "BaHaMa",
+    "isoCode": "BHS",
+    "areaName": "Bahamák",
+    "domainAbbreviation": "BS"
+  },
+  {
+    "code": "507",
+    "pinyin": "BaNaMa",
+    "isoCode": "PAN",
+    "areaName": "Panama",
+    "domainAbbreviation": "PA"
+  },
+  {
+    "code": "1441",
+    "pinyin": "BaiMuDa",
+    "isoCode": "BMU",
+    "areaName": "Bermuda",
+    "domainAbbreviation": "BM"
+  },
+  {
+    "code": "1787",
+    "pinyin": "BoDuoLiGe",
+    "isoCode": "PRI",
+    "areaName": "Puerto Rico",
+    "domainAbbreviation": "PR"
+  },
+  {
+    "code": "501",
+    "pinyin": "BoLizi",
+    "isoCode": "BLZ",
+    "areaName": "Belize",
+    "domainAbbreviation": "BZ"
+  },
+  {
+    "code": "1809",
+    "pinyin": "DuoMiNiJiaGongHeGuo",
+    "isoCode": "DOM",
+    "areaName": "Dominikai Köztársaság",
+    "domainAbbreviation": "DO"
+  },
+  {
+    "code": "1767",
+    "pinyin": "DuoMiNiKe",
+    "isoCode": "DMA",
+    "areaName": "Dominikus",
+    "domainAbbreviation": "DM"
+  },
+  {
+    "code": "590",
+    "pinyin": "ShengMaDing",
+    "isoCode": "MAF",
+    "areaName": "Saint Martin",
+    "domainAbbreviation": "MF"
+  },
+  {
+    "code": "506",
+    "pinyin": "GeSiDaLiJia",
+    "isoCode": "CRI",
+    "areaName": "Costa Rica",
+    "domainAbbreviation": "CR"
+  },
+  {
+    "code": "1473",
+    "pinyin": "GeLinNaDa",
+    "isoCode": "GRD",
+    "areaName": "Grenada",
+    "domainAbbreviation": "GD"
+  },
+  {
+    "code": "299",
+    "pinyin": "GeLingLan",
+    "isoCode": "GRL",
+    "areaName": "Grönland",
+    "domainAbbreviation": "GL"
+  },
+  {
+    "code": "53",
+    "pinyin": "GuBa",
+    "isoCode": "CUB",
+    "areaName": "kubai",
+    "domainAbbreviation": "CU"
+  },
+  {
+    "code": "590",
+    "pinyin": "GuaDeLuoPu",
+    "isoCode": "GLP",
+    "areaName": "Védőburkolat",
+    "domainAbbreviation": "GP"
+  },
+  {
+    "code": "509",
+    "pinyin": "HaiDi",
+    "isoCode": "HTI",
+    "areaName": "Haiti",
+    "domainAbbreviation": "HT"
+  },
+  {
+    "code": "599",
+    "pinyin": "HeLanJiaLeBiQu",
+    "isoCode": "BES",
+    "areaName": "Hollandia Karib-térség",
+    "domainAbbreviation": "BQ"
+  },
+  {
+    "code": "1721",
+    "pinyin": "HeShuShengMaDing",
+    "isoCode": "SXM",
+    "areaName": "Saint Martin",
+    "domainAbbreviation": "SX"
+  },
+  {
+    "code": "504",
+    "pinyin": "HongDuLaSi",
+    "isoCode": "HND",
+    "areaName": "Honduras",
+    "domainAbbreviation": "HN"
+  },
+  {
+    "code": "1",
+    "pinyin": "JiaNaDa",
+    "isoCode": "CAN",
+    "areaName": "Kanada",
+    "domainAbbreviation": "CA"
+  },
+  {
+    "code": "1345",
+    "pinyin": "KaiManQunDao",
+    "isoCode": "CYM",
+    "areaName": "Kajmán-szigetek",
+    "domainAbbreviation": "KY"
+  },
+  {
+    "code": "599",
+    "pinyin": "KuLaSuoDao",
+    "isoCode": "CUW",
+    "areaName": "Kuraçao",
+    "domainAbbreviation": "CW"
+  },
+  {
+    "code": "596",
+    "pinyin": "MaTiNiKe",
+    "isoCode": "MTQ",
+    "areaName": "Martinique",
+    "domainAbbreviation": "MQ"
+  },
+  {
+    "code": "1",
+    "pinyin": "MeiGuo",
+    "isoCode": "USA",
+    "areaName": "Amerika",
+    "domainAbbreviation": "US"
+  },
+  {
+    "code": "246",
+    "pinyin": "MeiGuoBenTuWaiXiaoDaoYu",
+    "isoCode": "UMI",
+    "areaName": "Amerikai helyi kis sziget",
+    "domainAbbreviation": "UM"
+  },
+  {
+    "code": "1340",
+    "pinyin": "MeiShuWeiErJingQunDao",
+    "isoCode": "VIR",
+    "areaName": "Egyesült Államok Virgin-szigetek",
+    "domainAbbreviation": "VI"
+  },
+  {
+    "code": "1664",
+    "pinyin": "MengSaiLaTeDao",
+    "isoCode": "MSR",
+    "areaName": "Montelat",
+    "domainAbbreviation": "MS"
+  },
+  {
+    "code": "52",
+    "pinyin": "MoXiGe",
+    "isoCode": "MEX",
+    "areaName": "Mexikó",
+    "domainAbbreviation": "MX"
+  },
+  {
+    "code": "505",
+    "pinyin": "NiJiaLaGua",
+    "isoCode": "NIC",
+    "areaName": "Nicaragua",
+    "domainAbbreviation": "NI"
+  },
+  {
+    "code": "503",
+    "pinyin": "SaErWaDuo",
+    "isoCode": "SLV",
+    "areaName": "Salvador",
+    "domainAbbreviation": "SV"
+  },
+  {
+    "code": "590",
+    "pinyin": "ShengBaTaiLeMiDao",
+    "isoCode": "BLM",
+    "areaName": "St. Baylermown sziget",
+    "domainAbbreviation": "BL"
+  },
+  {
+    "code": "1869",
+    "pinyin": "ShengJiCiHeNiWeiSi",
+    "isoCode": "KNA",
+    "areaName": "Saint Kitts és Nevis",
+    "domainAbbreviation": "KN"
+  },
+  {
+    "code": "1758",
+    "pinyin": "ShengLuXiYa",
+    "isoCode": "LCA",
+    "areaName": "Saint Lucia",
+    "domainAbbreviation": "LC"
+  },
+  {
+    "code": "508",
+    "pinyin": "ShengPiAiErHeMiKeLong",
+    "isoCode": "SPM",
+    "areaName": "Saint Pierre és titok",
+    "domainAbbreviation": "PM"
+  },
+  {
+    "code": "1784",
+    "pinyin": "ShengWenSenTeHeGeLinNaDingSi",
+    "isoCode": "VCT",
+    "areaName": "Saint Vincent és a Grenadine-szigetek",
+    "domainAbbreviation": "VC"
+  },
+  {
+    "code": "1649",
+    "pinyin": "TeKeSiHeKaiKeSiQunDao",
+    "isoCode": "TCA",
+    "areaName": "Turks-és Caicos-szigetek",
+    "domainAbbreviation": "TC"
+  },
+  {
+    "code": "1868",
+    "pinyin": "TeLiNiDaHeDuoBaGe",
+    "isoCode": "TTO",
+    "areaName": "Trinidad és Tobago",
+    "domainAbbreviation": "TT"
+  },
+  {
+    "code": "502",
+    "pinyin": "WeiDiMaLa",
+    "isoCode": "GTM",
+    "areaName": "Guatemala",
+    "domainAbbreviation": "GT"
+  },
+  {
+    "code": "1876",
+    "pinyin": "YaMaiJia",
+    "isoCode": "JAM",
+    "areaName": "Jamaica",
+    "domainAbbreviation": "JM"
+  },
+  {
+    "code": "1284",
+    "pinyin": "YingShuWeiErJingQunDao",
+    "isoCode": "VGB",
+    "areaName": "A Brit Virgin-szigetek",
+    "domainAbbreviation": "VG"
+  },
+  {
+    "code": "61",
+    "pinyin": "AoDaLiYa",
+    "isoCode": "AUS",
+    "areaName": "Ausztrália",
+    "domainAbbreviation": "AU"
+  },
+  {
+    "code": "675",
+    "pinyin": "BaBuYaXinJiNeiYa",
+    "isoCode": "PNG",
+    "areaName": "Pápua Új-Guinea",
+    "domainAbbreviation": "PG"
+  },
+  {
+    "code": "1670",
+    "pinyin": "BeiMaLiYaNaQunDao",
+    "isoCode": "MNP",
+    "areaName": "Észak Mariana szigetek",
+    "domainAbbreviation": "MP"
+  },
+  {
+    "code": "689",
+    "pinyin": "FaShuBoLiNiXiYa",
+    "isoCode": "PYF",
+    "areaName": "Francia Polinézia",
+    "domainAbbreviation": "PF"
+  },
+  {
+    "code": "1671",
+    "pinyin": "GuanDao",
+    "isoCode": "GUM",
+    "areaName": "Guam",
+    "domainAbbreviation": "GU"
+  },
+  {
+    "code": "686",
+    "pinyin": "JiLiBaSi",
+    "isoCode": "KIR",
+    "areaName": "Kiriibas",
+    "domainAbbreviation": "KI"
+  },
+  {
+    "code": "682",
+    "pinyin": "KuKeQunDao",
+    "isoCode": "COK",
+    "areaName": "sziget",
+    "domainAbbreviation": "CK"
+  },
+  {
+    "code": "692",
+    "pinyin": "MaShaoErQunDao",
+    "isoCode": "MHL",
+    "areaName": "Marshall-szigetek",
+    "domainAbbreviation": "MH"
+  },
+  {
+    "code": "1684",
+    "pinyin": "MeiShuSaMoYa",
+    "isoCode": "ASM",
+    "areaName": "US Samoa",
+    "domainAbbreviation": "AS"
+  },
+  {
+    "code": "691",
+    "pinyin": "MiKeLuoNiXiYaLianBang",
+    "isoCode": "FSM",
+    "areaName": "Mikronézia egyesült államok",
+    "domainAbbreviation": "FM"
+  },
+  {
+    "code": "683",
+    "pinyin": "NiuAi",
+    "isoCode": "NIU",
+    "areaName": "Niue",
+    "domainAbbreviation": "NU"
+  },
+  {
+    "code": "672",
+    "pinyin": "NuoFuKeDao",
+    "isoCode": "NFK",
+    "areaName": "Norfolk-sziget",
+    "domainAbbreviation": "NF"
+  },
+  {
+    "code": "680",
+    "pinyin": "PaLao",
+    "isoCode": "PLW",
+    "areaName": "Palau",
+    "domainAbbreviation": "PW"
+  },
+  {
+    "code": "64",
+    "pinyin": "PiTeKaiEnQunDao",
+    "isoCode": "PCN",
+    "areaName": "Pete Kane-szigetek",
+    "domainAbbreviation": "PN"
+  },
+  {
+    "code": "685",
+    "pinyin": "SaMoYa",
+    "isoCode": "WSM",
+    "areaName": "Samoa",
+    "domainAbbreviation": "WS"
+  },
+  {
+    "code": "677",
+    "pinyin": "SuoLuoMenQunDao",
+    "isoCode": "SLB",
+    "areaName": "Salamon-szigetek",
+    "domainAbbreviation": "SB"
+  },
+  {
+    "code": "676",
+    "pinyin": "TangJia",
+    "isoCode": "TON",
+    "areaName": "Tonga",
+    "domainAbbreviation": "TO"
+  },
+  {
+    "code": "688",
+    "pinyin": "TuWaLu",
+    "isoCode": "TUV",
+    "areaName": "Tuvalu",
+    "domainAbbreviation": "TV"
+  },
+  {
+    "code": "690",
+    "pinyin": "TuoKeLao",
+    "isoCode": "TKL",
+    "areaName": "Tokela",
+    "domainAbbreviation": "TK"
+  },
+  {
+    "code": "681",
+    "pinyin": "WaLiSiHeFuTuNa",
+    "isoCode": "WLF",
+    "areaName": "Varyice és Fu Tu Na",
+    "domainAbbreviation": "WF"
+  },
+  {
+    "code": "678",
+    "pinyin": "WaNuATu",
+    "isoCode": "VUT",
+    "areaName": "Vanuatu",
+    "domainAbbreviation": "VU"
+  },
+  {
+    "code": "687",
+    "pinyin": "XinKaLiDuoNiYa",
+    "isoCode": "NCL",
+    "areaName": "Új-Kaledónia",
+    "domainAbbreviation": "NC"
+  },
+  {
+    "code": "64",
+    "pinyin": "XinXiLan",
+    "isoCode": "NZL",
+    "areaName": "új Zéland",
+    "domainAbbreviation": "NZ"
+  },
+  {
+    "code": "674",
+    "pinyin": "NaoLu",
+    "isoCode": "NRU",
+    "areaName": "Nauru",
+    "domainAbbreviation": "NR"
+  },
+  {
+    "code": "679",
+    "pinyin": "FeiJiQunDao",
+    "isoCode": "FJI",
+    "areaName": "Fidzsi-szigetek",
+    "domainAbbreviation": "FJ"
+  },
+  {
+    "code": "213",
+    "pinyin": "AErJiLiYa",
+    "isoCode": "DZA",
+    "areaName": "Algéria",
+    "domainAbbreviation": "DZ"
+  },
+  {
+    "code": "20",
+    "pinyin": "AiJi",
+    "isoCode": "EGY",
+    "areaName": "Egyiptom",
+    "domainAbbreviation": "EG"
+  },
+  {
+    "code": "251",
+    "pinyin": "AiSaiEBiYa",
+    "isoCode": "ETH",
+    "areaName": "Etiópia",
+    "domainAbbreviation": "ET"
+  },
+  {
+    "code": "244",
+    "pinyin": "AnGeLa",
+    "isoCode": "AGO",
+    "areaName": "Angola",
+    "domainAbbreviation": "AO"
+  },
+  {
+    "code": "229",
+    "pinyin": "BeiNing",
+    "isoCode": "BEN",
+    "areaName": "Benin",
+    "domainAbbreviation": "BJ"
+  },
+  {
+    "code": "267",
+    "pinyin": "BoCiWaNa",
+    "isoCode": "BWA",
+    "areaName": "Botswana",
+    "domainAbbreviation": "BW"
+  },
+  {
+    "code": "226",
+    "pinyin": "BuJiNaFaSuo",
+    "isoCode": "BFA",
+    "areaName": "Burkina Faso",
+    "domainAbbreviation": "BF"
+  },
+  {
+    "code": "257",
+    "pinyin": "BuLongDi",
+    "isoCode": "BDI",
+    "areaName": "Burundi",
+    "domainAbbreviation": "BI"
+  },
+  {
+    "code": "240",
+    "pinyin": "ChiDaoJiNeiYa",
+    "isoCode": "GNQ",
+    "areaName": "Egyenlítői-Guinea",
+    "domainAbbreviation": "GQ"
+  },
+  {
+    "code": "228",
+    "pinyin": "DuoGe",
+    "isoCode": "TGO",
+    "areaName": "fiú testvér",
+    "domainAbbreviation": "TG"
+  },
+  {
+    "code": "291",
+    "pinyin": "ELiTeLiYa",
+    "isoCode": "ERI",
+    "areaName": "Eritrea",
+    "domainAbbreviation": "ER"
+  },
+  {
+    "code": "238",
+    "pinyin": "FoDeJiao",
+    "isoCode": "CPV",
+    "areaName": "zöld-fok",
+    "domainAbbreviation": "CV"
+  },
+  {
+    "code": "220",
+    "pinyin": "GangBiYa",
+    "isoCode": "GMB",
+    "areaName": "Gambia",
+    "domainAbbreviation": "GM"
+  },
+  {
+    "code": "242",
+    "pinyin": "GangGuo(Bu)",
+    "isoCode": "COG",
+    "areaName": "Kongói Köztársaság)",
+    "domainAbbreviation": "CG"
+  },
+  {
+    "code": "243",
+    "pinyin": "GangGuo(Jin)",
+    "isoCode": "COD",
+    "areaName": "Kongó (arany)",
+    "domainAbbreviation": "CD"
+  },
+  {
+    "code": "253",
+    "pinyin": "JiBuTi",
+    "isoCode": "DJI",
+    "areaName": "Dzsibuti",
+    "domainAbbreviation": "DJ"
+  },
+  {
+    "code": "224",
+    "pinyin": "JiNeiYa",
+    "isoCode": "GIN",
+    "areaName": "Guinea",
+    "domainAbbreviation": "GN"
+  },
+  {
+    "code": "245",
+    "pinyin": "JiNeiYaBiShao",
+    "isoCode": "GNB",
+    "areaName": "Bissau-guinea",
+    "domainAbbreviation": "GW"
+  },
+  {
+    "code": "233",
+    "pinyin": "JiaNa",
+    "isoCode": "GHA",
+    "areaName": "Ghána",
+    "domainAbbreviation": "GH"
+  },
+  {
+    "code": "241",
+    "pinyin": "JiaPeng",
+    "isoCode": "GAB",
+    "areaName": "Gabon",
+    "domainAbbreviation": "GA"
+  },
+  {
+    "code": "263",
+    "pinyin": "JinBaBuWei",
+    "isoCode": "ZWE",
+    "areaName": "Zimbabwe",
+    "domainAbbreviation": "ZW"
+  },
+  {
+    "code": "237",
+    "pinyin": "KaMaiLong",
+    "isoCode": "CMR",
+    "areaName": "Kamerun",
+    "domainAbbreviation": "CM"
+  },
+  {
+    "code": "269",
+    "pinyin": "KeMoLuo",
+    "isoCode": "COM",
+    "areaName": "Comoros",
+    "domainAbbreviation": "KM"
+  },
+  {
+    "code": "225",
+    "pinyin": "KeTeDiWa",
+    "isoCode": "CIV",
+    "areaName": "Elefántcsontpart",
+    "domainAbbreviation": "CI"
+  },
+  {
+    "code": "254",
+    "pinyin": "KenNiYa",
+    "isoCode": "KEN",
+    "areaName": "Kenya",
+    "domainAbbreviation": "KE"
+  },
+  {
+    "code": "266",
+    "pinyin": "LaiSuoTuo",
+    "isoCode": "LSO",
+    "areaName": "Lesotho",
+    "domainAbbreviation": "LS"
+  },
+  {
+    "code": "231",
+    "pinyin": "LiBiLiYa",
+    "isoCode": "LBR",
+    "areaName": "Libéria",
+    "domainAbbreviation": "LR"
+  },
+  {
+    "code": "218",
+    "pinyin": "LiBiYa",
+    "isoCode": "LBY",
+    "areaName": "Líbia",
+    "domainAbbreviation": "LY"
+  },
+  {
+    "code": "262",
+    "pinyin": "LiuNiWang",
+    "isoCode": "REU",
+    "areaName": "Renany",
+    "domainAbbreviation": "RE"
+  },
+  {
+    "code": "250",
+    "pinyin": "LuWangDa",
+    "isoCode": "RWA",
+    "areaName": "Rwanda",
+    "domainAbbreviation": "RW"
+  },
+  {
+    "code": "261",
+    "pinyin": "MaDaJiaSiJia",
+    "isoCode": "MDG",
+    "areaName": "Madagaszkár",
+    "domainAbbreviation": "MG"
+  },
+  {
+    "code": "265",
+    "pinyin": "MaLaWei",
+    "isoCode": "MWI",
+    "areaName": "Malawi",
+    "domainAbbreviation": "MW"
+  },
+  {
+    "code": "223",
+    "pinyin": "MaLi",
+    "isoCode": "MLI",
+    "areaName": "Mali",
+    "domainAbbreviation": "ML"
+  },
+  {
+    "code": "262",
+    "pinyin": "MaYueTe",
+    "isoCode": "MYT",
+    "areaName": "Majote",
+    "domainAbbreviation": "YT"
+  },
+  {
+    "code": "230",
+    "pinyin": "MaoLiQiuSi",
+    "isoCode": "MUS",
+    "areaName": "Mauritius",
+    "domainAbbreviation": "MU"
+  },
+  {
+    "code": "222",
+    "pinyin": "MaoLiTaNiYa",
+    "isoCode": "MRT",
+    "areaName": "Mauritánia",
+    "domainAbbreviation": "MR"
+  },
+  {
+    "code": "212",
+    "pinyin": "MoLuoGe",
+    "isoCode": "MAR",
+    "areaName": "Marokkó",
+    "domainAbbreviation": "MA"
+  },
+  {
+    "code": "258",
+    "pinyin": "MoSangBiKe",
+    "isoCode": "MOZ",
+    "areaName": "Mozambik",
+    "domainAbbreviation": "MZ"
+  },
+  {
+    "code": "264",
+    "pinyin": "NaMiBiYa",
+    "isoCode": "NAM",
+    "areaName": "Namíbia",
+    "domainAbbreviation": "NA"
+  },
+  {
+    "code": "27",
+    "pinyin": "NanFei",
+    "isoCode": "ZAF",
+    "areaName": "Dél-Afrika",
+    "domainAbbreviation": "ZA"
+  },
+  {
+    "code": "211",
+    "pinyin": "NanSuDan",
+    "isoCode": "SSD",
+    "areaName": "Dél Szudán",
+    "domainAbbreviation": "SS"
+  },
+  {
+    "code": "227",
+    "pinyin": "NiRiEr",
+    "isoCode": "NER",
+    "areaName": "Niger",
+    "domainAbbreviation": "NE"
+  },
+  {
+    "code": "234",
+    "pinyin": "NiRiLiYa",
+    "isoCode": "NGA",
+    "areaName": "Nigéria",
+    "domainAbbreviation": "NG"
+  },
+  {
+    "code": "232",
+    "pinyin": "SaiLaLiAng",
+    "isoCode": "SLE",
+    "areaName": "Sierra leone",
+    "domainAbbreviation": "SL"
+  },
+  {
+    "code": "221",
+    "pinyin": "SaiNeiJiaEr",
+    "isoCode": "SEN",
+    "areaName": "Szenegál",
+    "domainAbbreviation": "SN"
+  },
+  {
+    "code": "248",
+    "pinyin": "SaiSheEr",
+    "isoCode": "SYC",
+    "areaName": "Seychelles",
+    "domainAbbreviation": "SC"
+  },
+  {
+    "code": "239",
+    "pinyin": "ShengDuoMeiHePuLinXiBi",
+    "isoCode": "STP",
+    "areaName": "Sheng Dome és Principeby",
+    "domainAbbreviation": "ST"
+  },
+  {
+    "code": "290",
+    "pinyin": "ShengHeLeNa",
+    "isoCode": "SHN",
+    "areaName": "Saint Hele",
+    "domainAbbreviation": "SH"
+  },
+  {
+    "code": "268",
+    "pinyin": "SiWeiShiLan",
+    "isoCode": "SWZ",
+    "areaName": "Szváziland",
+    "domainAbbreviation": "SZ"
+  },
+  {
+    "code": "249",
+    "pinyin": "SuDan",
+    "isoCode": "SDN",
+    "areaName": "Szudán",
+    "domainAbbreviation": "SD"
+  },
+  {
+    "code": "252",
+    "pinyin": "SuoMaLi",
+    "isoCode": "SOM",
+    "areaName": "Szomália",
+    "domainAbbreviation": "SO"
+  },
+  {
+    "code": "255",
+    "pinyin": "TanSangNiYa",
+    "isoCode": "TZA",
+    "areaName": "Tanzánia",
+    "domainAbbreviation": "TZ"
+  },
+  {
+    "code": "216",
+    "pinyin": "TuNiSi",
+    "isoCode": "TUN",
+    "areaName": "Tunézia",
+    "domainAbbreviation": "TN"
+  },
+  {
+    "code": "256",
+    "pinyin": "WuGanDa",
+    "isoCode": "UGA",
+    "areaName": "Uganda",
+    "domainAbbreviation": "UG"
+  },
+  {
+    "code": "212",
+    "pinyin": "XiSaHaLa",
+    "isoCode": "ESH",
+    "areaName": "nyugat-Szahara",
+    "domainAbbreviation": "EH"
+  },
+  {
+    "code": "246",
+    "pinyin": "YingShuYinDuYangLingDi",
+    "isoCode": "IOT",
+    "areaName": "Brit Indiai-óceán",
+    "domainAbbreviation": "IO"
+  },
+  {
+    "code": "260",
+    "pinyin": "ZanBiYa",
+    "isoCode": "ZMB",
+    "areaName": "Zambia",
+    "domainAbbreviation": "ZM"
+  },
+  {
+    "code": "235",
+    "pinyin": "ZhaDe",
+    "isoCode": "TCD",
+    "areaName": "Csád",
+    "domainAbbreviation": "TD"
+  },
+  {
+    "code": "236",
+    "pinyin": "ZhongFei",
+    "isoCode": "CAF",
+    "areaName": "Középső nem-",
+    "domainAbbreviation": "CF"
+  },
+  {
+    "code": "47",
+    "pinyin": "BuWeiDao",
+    "isoCode": "BVT",
+    "areaName": "Buja sziget",
+    "domainAbbreviation": "BV"
+  },
+  {
+    "code": "33",
+    "pinyin": "FaShuNanBuLingDi",
+    "isoCode": "ATF",
+    "areaName": "Francia déli terület",
+    "domainAbbreviation": "TF"
+  },
+  {
+    "code": "672",
+    "pinyin": "HeDeDaoHeMaiKeTangNaQunDao",
+    "isoCode": "HMD",
+    "areaName": "Hurde-sziget és McDonald-szigetek",
+    "domainAbbreviation": "HM"
+  },
+  {
+    "code": "672",
+    "pinyin": "NanJiZhou",
+    "isoCode": "ATA",
+    "areaName": "Antarktisz",
+    "domainAbbreviation": "AQ"
+  },
+  {
+    "code": "500",
+    "pinyin": "NanQiaoZhiYaDaoHeNanSangWeiQiQunDao",
+    "isoCode": "SGS",
+    "areaName": "Dél-Georgia és Dél-Szendvics-szigetek",
+    "domainAbbreviation": "GS"
+  },
+  {
+    "code": "595",
+    "pinyin": "BaLaGui",
+    "isoCode": "PRY",
+    "areaName": "Paraguay",
+    "domainAbbreviation": "PY"
+  },
+  {
+    "code": "55",
+    "pinyin": "BaXi",
+    "isoCode": "BRA",
+    "areaName": "Brazília",
+    "domainAbbreviation": "BR"
+  },
+  {
+    "code": "591",
+    "pinyin": "BoLiWeiYa",
+    "isoCode": "BOL",
+    "areaName": "Bolívia",
+    "domainAbbreviation": "BO"
+  },
+  {
+    "code": "593",
+    "pinyin": "EGuaDuoEr",
+    "isoCode": "ECU",
+    "areaName": "Ecuador",
+    "domainAbbreviation": "EC"
+  },
+  {
+    "code": "594",
+    "pinyin": "FaShuGuiYaNa",
+    "isoCode": "GUF",
+    "areaName": "Francia Guyana",
+    "domainAbbreviation": "GF"
+  },
+  {
+    "code": "57",
+    "pinyin": "GeLunBiYa",
+    "isoCode": "COL",
+    "areaName": "Colombia",
+    "domainAbbreviation": "CO"
+  },
+  {
+    "code": "592",
+    "pinyin": "GuiYaNa",
+    "isoCode": "GUY",
+    "areaName": "Guyana",
+    "domainAbbreviation": "GY"
+  },
+  {
+    "code": "500",
+    "pinyin": "MaErWeiNaSiQunDao(FuKeLan)",
+    "isoCode": "FLK",
+    "areaName": "Malvinas-szigetek (Falkland)",
+    "domainAbbreviation": "FK"
+  },
+  {
+    "code": "51",
+    "pinyin": "MiLu",
+    "isoCode": "PER",
+    "areaName": "Peru",
+    "domainAbbreviation": "PE"
+  },
+  {
+    "code": "597",
+    "pinyin": "SuLiNan",
+    "isoCode": "SUR",
+    "areaName": "Suriname",
+    "domainAbbreviation": "SR"
+  },
+  {
+    "code": "58",
+    "pinyin": "WeiNeiRuiLa",
+    "isoCode": "VEN",
+    "areaName": "Venezuela",
+    "domainAbbreviation": "VE"
+  },
+  {
+    "code": "598",
+    "pinyin": "WuLaGui",
+    "isoCode": "URY",
+    "areaName": "Uruguay",
+    "domainAbbreviation": "UY"
+  },
+  {
+    "code": "56",
+    "pinyin": "ZhiLi",
+    "isoCode": "CHL",
+    "areaName": "Chile",
+    "domainAbbreviation": "CL"
+  },
+  {
+    "code": "355",
+    "pinyin": "AErBaNiYa",
+    "isoCode": "ALB",
+    "areaName": "Albánia",
+    "domainAbbreviation": "AL"
+  },
+  {
+    "code": "353",
+    "pinyin": "AiErLan",
+    "isoCode": "IRL",
+    "areaName": "Írország",
+    "domainAbbreviation": "IE"
+  },
+  {
+    "code": "372",
+    "pinyin": "AiShaNiYa",
+    "isoCode": "EST",
+    "areaName": "Észtország",
+    "domainAbbreviation": "EE"
+  },
+  {
+    "code": "376",
+    "pinyin": "AnDaoErGongHeGuo",
+    "isoCode": "AND",
+    "areaName": "Anszaki Köztársaság",
+    "domainAbbreviation": "AD"
+  },
+  {
+    "code": "43",
+    "pinyin": "AoDiLi",
+    "isoCode": "AUT",
+    "areaName": "Ausztria",
+    "domainAbbreviation": "AT"
+  },
+  {
+    "code": "35818",
+    "pinyin": "AoLanQunDao",
+    "isoCode": "ALA",
+    "areaName": "Oran-szigetek",
+    "domainAbbreviation": "AX"
+  },
+  {
+    "code": "375",
+    "pinyin": "BaiELuoSi",
+    "isoCode": "BLR",
+    "areaName": "Fehéroroszország",
+    "domainAbbreviation": "BY"
+  },
+  {
+    "code": "359",
+    "pinyin": "BaoJiaLiYa",
+    "isoCode": "BGR",
+    "areaName": "Bulgária",
+    "domainAbbreviation": "BG"
+  },
+  {
+    "code": "32",
+    "pinyin": "BiLiShi",
+    "isoCode": "BEL",
+    "areaName": "Belgium",
+    "domainAbbreviation": "BE"
+  },
+  {
+    "code": "354",
+    "pinyin": "BingDao",
+    "isoCode": "ISL",
+    "areaName": "Izland",
+    "domainAbbreviation": "IS"
+  },
+  {
+    "code": "387",
+    "pinyin": "BoSiNiYaHeHeiSaiGeWeiNa",
+    "isoCode": "BIH",
+    "areaName": "Bosznia és Hercegovina",
+    "domainAbbreviation": "BA"
+  },
+  {
+    "code": "48",
+    "pinyin": "BoLan",
+    "isoCode": "POL",
+    "areaName": "Lengyelország",
+    "domainAbbreviation": "PL"
+  },
+  {
+    "code": "45",
+    "pinyin": "DanMai",
+    "isoCode": "DNK",
+    "areaName": "Dánia",
+    "domainAbbreviation": "DK"
+  },
+  {
+    "code": "49",
+    "pinyin": "DeGuo",
+    "isoCode": "DEU",
+    "areaName": "Németország",
+    "domainAbbreviation": "DE"
+  },
+  {
+    "code": "33",
+    "pinyin": "FaGuo",
+    "isoCode": "FRA",
+    "areaName": "Franciaország",
+    "domainAbbreviation": "FR"
+  },
+  {
+    "code": "298",
+    "pinyin": "FaLuoQunDao",
+    "isoCode": "FRO",
+    "areaName": "Faroe Szigetek",
+    "domainAbbreviation": "FO"
+  },
+  {
+    "code": "358",
+    "pinyin": "FenLan",
+    "isoCode": "FIN",
+    "areaName": "Finnország",
+    "domainAbbreviation": "FI"
+  },
+  {
+    "code": "441481",
+    "pinyin": "GenXiDao",
+    "isoCode": "GGY",
+    "areaName": "Reni Island",
+    "domainAbbreviation": "GG"
+  },
+  {
+    "code": "31",
+    "pinyin": "HeLan",
+    "isoCode": "NLD",
+    "areaName": "Hollandia",
+    "domainAbbreviation": "NL"
+  },
+  {
+    "code": "382",
+    "pinyin": "HeiShanGongHeGuo",
+    "isoCode": "MNE",
+    "areaName": "Montenegró",
+    "domainAbbreviation": "ME"
+  },
+  {
+    "code": "420",
+    "pinyin": "JiKeGongHeGuo",
+    "isoCode": "CZE",
+    "areaName": "Cseh Köztársaság",
+    "domainAbbreviation": "CZ"
+  },
+  {
+    "code": "385",
+    "pinyin": "KeLuoDiYa",
+    "isoCode": "HRV",
+    "areaName": "Horvátország",
+    "domainAbbreviation": "HR"
+  },
+  {
+    "code": "371",
+    "pinyin": "LaTuoWeiYa",
+    "isoCode": "LVA",
+    "areaName": "Lettország",
+    "domainAbbreviation": "LV"
+  },
+  {
+    "code": "370",
+    "pinyin": "LiTaoWan",
+    "isoCode": "LTU",
+    "areaName": "Litvánia",
+    "domainAbbreviation": "LT"
+  },
+  {
+    "code": "423",
+    "pinyin": "LieZhiDunShiDeng",
+    "isoCode": "LIE",
+    "areaName": "Liechtenstein",
+    "domainAbbreviation": "LI"
+  },
+  {
+    "code": "352",
+    "pinyin": "LuSenBao",
+    "isoCode": "LUX",
+    "areaName": "Luxemburg",
+    "domainAbbreviation": "LU"
+  },
+  {
+    "code": "40",
+    "pinyin": "LuoMaNiYa",
+    "isoCode": "ROU",
+    "areaName": "Románia",
+    "domainAbbreviation": "RO"
+  },
+  {
+    "code": "441624",
+    "pinyin": "MaEnDao",
+    "isoCode": "IMN",
+    "areaName": "Ember",
+    "domainAbbreviation": "IM"
+  },
+  {
+    "code": "356",
+    "pinyin": "MaErTa",
+    "isoCode": "MLT",
+    "areaName": "Málta",
+    "domainAbbreviation": "MT"
+  },
+  {
+    "code": "389",
+    "pinyin": "MaQiDun",
+    "isoCode": "MKD",
+    "areaName": "Macedónia",
+    "domainAbbreviation": "MK"
+  },
+  {
+    "code": "373",
+    "pinyin": "MoErDuoWa",
+    "isoCode": "MDA",
+    "areaName": "Moldova",
+    "domainAbbreviation": "MD"
+  },
+  {
+    "code": "377",
+    "pinyin": "MoNaGe",
+    "isoCode": "MCO",
+    "areaName": "Monaco",
+    "domainAbbreviation": "MC"
+  },
+  {
+    "code": "47",
+    "pinyin": "NuoWei",
+    "isoCode": "NOR",
+    "areaName": "Norvégia",
+    "domainAbbreviation": "NO"
+  },
+  {
+    "code": "351",
+    "pinyin": "PUTaoYa",
+    "isoCode": "PRT",
+    "areaName": "Portugália",
+    "domainAbbreviation": "PT"
+  },
+  {
+    "code": "46",
+    "pinyin": "RuiDian",
+    "isoCode": "SWE",
+    "areaName": "Svédország",
+    "domainAbbreviation": "SE"
+  },
+  {
+    "code": "41",
+    "pinyin": "RuiShi",
+    "isoCode": "CHE",
+    "areaName": "Svájci",
+    "domainAbbreviation": "CH"
+  },
+  {
+    "code": "381",
+    "pinyin": "SaiErWeiYa",
+    "isoCode": "SRB",
+    "areaName": "Szerbia",
+    "domainAbbreviation": "RS"
+  },
+  {
+    "code": "378",
+    "pinyin": "ShengMaLiNuo",
+    "isoCode": "SMR",
+    "areaName": "San Marino",
+    "domainAbbreviation": "SM"
+  },
+  {
+    "code": "421",
+    "pinyin": "SiLuoFaKe",
+    "isoCode": "SVK",
+    "areaName": "Szlovákia",
+    "domainAbbreviation": "SK"
+  },
+  {
+    "code": "386",
+    "pinyin": "SiLuoWenNiYa",
+    "isoCode": "SVN",
+    "areaName": "Szlovénia",
+    "domainAbbreviation": "SI"
+  },
+  {
+    "code": "4779",
+    "pinyin": "SiWaErBaQunDaoHeYangMaYanDao",
+    "isoCode": "SJM",
+    "areaName": "Swarba-szigetek és Yangmaya-sziget",
+    "domainAbbreviation": "SJ"
+  },
+  {
+    "code": "380",
+    "pinyin": "WuKeLan",
+    "isoCode": "UKR",
+    "areaName": "Ukrajna",
+    "domainAbbreviation": "UA"
+  },
+  {
+    "code": "34",
+    "pinyin": "XiBanYa",
+    "isoCode": "ESP",
+    "areaName": "Spanyolország",
+    "domainAbbreviation": "ES"
+  },
+  {
+    "code": "30",
+    "pinyin": "XiLa",
+    "isoCode": "GRC",
+    "areaName": "Görögország",
+    "domainAbbreviation": "GR"
+  },
+  {
+    "code": "36",
+    "pinyin": "XiongyaLi",
+    "isoCode": "HUN",
+    "areaName": "Magyarország",
+    "domainAbbreviation": "HU"
+  },
+  {
+    "code": "39",
+    "pinyin": "YiDaLi",
+    "isoCode": "ITA",
+    "areaName": "Olaszország",
+    "domainAbbreviation": "IT"
+  },
+  {
+    "code": "44",
+    "pinyin": "YingGuo",
+    "isoCode": "GBR",
+    "areaName": "UK",
+    "domainAbbreviation": "GB"
+  },
+  {
+    "code": "441534",
+    "pinyin": "ZeXiDao",
+    "isoCode": "JEY",
+    "areaName": "Jersey",
+    "domainAbbreviation": "JE"
+  },
+  {
+    "code": "350",
+    "pinyin": "ZhiBuLuoTuo",
+    "isoCode": "GIB",
+    "areaName": "Gibraltár",
+    "domainAbbreviation": "GI"
+  },
+  {
+    "code": "379",
+    "pinyin": "FanDiGang",
+    "isoCode": "VAT",
+    "areaName": "Vatikán",
+    "domainAbbreviation": "VA"
+  },
+  {
+    "code": "93",
+    "pinyin": "AFuHan",
+    "isoCode": "AFG",
+    "areaName": "Afganisztán",
+    "domainAbbreviation": "AF"
+  },
+  {
+    "code": "54",
+    "pinyin": "AGenTing",
+    "isoCode": "ARG",
+    "areaName": "Argentína",
+    "domainAbbreviation": "AR"
+  },
+  {
+    "code": "971",
+    "pinyin": "ALianQiu",
+    "isoCode": "ARE",
+    "areaName": "Uae",
+    "domainAbbreviation": "AE"
+  },
+  {
+    "code": "968",
+    "pinyin": "AMan",
+    "isoCode": "OMN",
+    "areaName": "Omán",
+    "domainAbbreviation": "OM"
+  },
+  {
+    "code": "994",
+    "pinyin": "ASaiBaiJiang",
+    "isoCode": "AZE",
+    "areaName": "Azerbajdzsán",
+    "domainAbbreviation": "AZ"
+  },
+  {
+    "code": "853",
+    "pinyin": "ZhongGuoAoMen",
+    "isoCode": "MAC",
+    "areaName": "Makaó, Kína",
+    "domainAbbreviation": "MO"
+  },
+  {
+    "code": "92",
+    "pinyin": "BaJiSiTan",
+    "isoCode": "PAK",
+    "areaName": "Pakisztán",
+    "domainAbbreviation": "PK"
+  },
+  {
+    "code": "970",
+    "pinyin": "BaLeSiTan",
+    "isoCode": "PSE",
+    "areaName": "Palesztina",
+    "domainAbbreviation": "PS"
+  },
+  {
+    "code": "973",
+    "pinyin": "BaLin",
+    "isoCode": "BHR",
+    "areaName": "Bahrein",
+    "domainAbbreviation": "BH"
+  },
+  {
+    "code": "975",
+    "pinyin": "BuDan",
+    "isoCode": "BTN",
+    "areaName": "Bhutan",
+    "domainAbbreviation": "BT"
+  },
+  {
+    "code": "850",
+    "pinyin": "ChaoXian",
+    "isoCode": "PRK",
+    "areaName": "Észak Kórea",
+    "domainAbbreviation": "KP"
+  },
+  {
+    "code": "670",
+    "pinyin": "DongDiWen",
+    "isoCode": "TLS",
+    "areaName": "Kelet-Timor",
+    "domainAbbreviation": "TL"
+  },
+  {
+    "code": "63",
+    "pinyin": "FeiLvBin",
+    "isoCode": "PHL",
+    "areaName": "Fülöp-szigeteki",
+    "domainAbbreviation": "PH"
+  },
+  {
+    "code": "995",
+    "pinyin": "GeLuJiYa",
+    "isoCode": "GEO",
+    "areaName": "Grúzia",
+    "domainAbbreviation": "GE"
+  },
+  {
+    "code": "7",
+    "pinyin": "HaSaKeSiTan",
+    "isoCode": "KAZ",
+    "areaName": "Kazahsztán",
+    "domainAbbreviation": "KZ"
+  },
+  {
+    "code": "82",
+    "pinyin": "HanGuo",
+    "isoCode": "KOR",
+    "areaName": "Dél-Korea",
+    "domainAbbreviation": "KR"
+  },
+  {
+    "code": "996",
+    "pinyin": "JiErJiSiSiTan",
+    "isoCode": "KGZ",
+    "areaName": "Kirgizisztán",
+    "domainAbbreviation": "KG"
+  },
+  {
+    "code": "855",
+    "pinyin": "JianPuZhai",
+    "isoCode": "KHM",
+    "areaName": "Kambodzsa",
+    "domainAbbreviation": "KH"
+  },
+  {
+    "code": "974",
+    "pinyin": "KaTaEr",
+    "isoCode": "QAT",
+    "areaName": "Katar",
+    "domainAbbreviation": "QA"
+  },
+  {
+    "code": "61",
+    "pinyin": "KeKeSiQunDao",
+    "isoCode": "CCK",
+    "areaName": "Kókusz-szigetek",
+    "domainAbbreviation": "CC"
+  },
+  {
+    "code": "965",
+    "pinyin": "KeWeiTe",
+    "isoCode": "KWT",
+    "areaName": "Kuvait",
+    "domainAbbreviation": "KW"
+  },
+  {
+    "code": "856",
+    "pinyin": "LaoWo",
+    "isoCode": "LAO",
+    "areaName": "Laosz",
+    "domainAbbreviation": "LA"
+  },
+  {
+    "code": "961",
+    "pinyin": "LiBaNen",
+    "isoCode": "LBN",
+    "areaName": "Libanon",
+    "domainAbbreviation": "LB"
+  },
+  {
+    "code": "960",
+    "pinyin": "MaErDaiFu",
+    "isoCode": "MDV",
+    "areaName": "Maldív-szigetek",
+    "domainAbbreviation": "MV"
+  },
+  {
+    "code": "60",
+    "pinyin": "MaLaiXiYa",
+    "isoCode": "MYS",
+    "areaName": "Malaysia",
+    "domainAbbreviation": "MY"
+  },
+  {
+    "code": "976",
+    "pinyin": "MengGu",
+    "isoCode": "MNG",
+    "areaName": "Mongólia",
+    "domainAbbreviation": "MN"
+  },
+  {
+    "code": "880",
+    "pinyin": "MengJiaLaGuo",
+    "isoCode": "BGD",
+    "areaName": "Banglades",
+    "domainAbbreviation": "BD"
+  },
+  {
+    "code": "95",
+    "pinyin": "MianDian",
+    "isoCode": "MMR",
+    "areaName": "Mianmar",
+    "domainAbbreviation": "MM"
+  },
+  {
+    "code": "977",
+    "pinyin": "NiBoEr",
+    "isoCode": "NPL",
+    "areaName": "Nepál",
+    "domainAbbreviation": "NP"
+  },
+  {
+    "code": "81",
+    "pinyin": "RiBen",
+    "isoCode": "JPN",
+    "areaName": "Japán",
+    "domainAbbreviation": "JP"
+  },
+  {
+    "code": "357",
+    "pinyin": "SaiPuLuSi",
+    "isoCode": "CYP",
+    "areaName": "Ciprus",
+    "domainAbbreviation": "CY"
+  },
+  {
+    "code": "966",
+    "pinyin": "ShaTeALaBo",
+    "isoCode": "SAU",
+    "areaName": "Szaud-Arábia",
+    "domainAbbreviation": "SA"
+  },
+  {
+    "code": "61",
+    "pinyin": "ShengDanDao",
+    "isoCode": "CXR",
+    "areaName": "Karácsonyi sziget",
+    "domainAbbreviation": "CX"
+  },
+  {
+    "code": "94",
+    "pinyin": "SiLiLanKa",
+    "isoCode": "LKA",
+    "areaName": "Srí Lanka",
+    "domainAbbreviation": "LK"
+  },
+  {
+    "code": "992",
+    "pinyin": "TaJiKeSiTan",
+    "isoCode": "TJK",
+    "areaName": "Tajikisztán",
+    "domainAbbreviation": "TJ"
+  },
+  {
+    "code": "886",
+    "pinyin": "ZhongGuoTaiWan",
+    "isoCode": "TWN",
+    "areaName": "Tajvan, Kína",
+    "domainAbbreviation": "TW"
+  },
+  {
+    "code": "66",
+    "pinyin": "TaiGuo",
+    "isoCode": "THA",
+    "areaName": "Thaiföld",
+    "domainAbbreviation": "TH"
+  },
+  {
+    "code": "90",
+    "pinyin": "TuErQi",
+    "isoCode": "TUR",
+    "areaName": "pulyka",
+    "domainAbbreviation": "TR"
+  },
+  {
+    "code": "993",
+    "pinyin": "TuKuManSiTan",
+    "isoCode": "TKM",
+    "areaName": "Turkmenisztán",
+    "domainAbbreviation": "TM"
+  },
+  {
+    "code": "673",
+    "pinyin": "WenLai",
+    "isoCode": "BRN",
+    "areaName": "Brunei",
+    "domainAbbreviation": "BN"
+  },
+  {
+    "code": "998",
+    "pinyin": "WuZiBieKeSiTan",
+    "isoCode": "UZB",
+    "areaName": "Üzbegisztán",
+    "domainAbbreviation": "UZ"
+  },
+  {
+    "code": "852",
+    "pinyin": "ZhongGuoXiangGang",
+    "isoCode": "HKG",
+    "areaName": "Kína hongkongi",
+    "domainAbbreviation": "HK"
+  },
+  {
+    "code": "65",
+    "pinyin": "XinJiaPo",
+    "isoCode": "SGP",
+    "areaName": "Szingapúr",
+    "domainAbbreviation": "SG"
+  },
+  {
+    "code": "963",
+    "pinyin": "XuLiYa",
+    "isoCode": "SYR",
+    "areaName": "Szíria",
+    "domainAbbreviation": "SY"
+  },
+  {
+    "code": "374",
+    "pinyin": "YaMeiNiYa",
+    "isoCode": "ARM",
+    "areaName": "Örményország",
+    "domainAbbreviation": "AM"
+  },
+  {
+    "code": "967",
+    "pinyin": "YeMen",
+    "isoCode": "YEM",
+    "areaName": "Hozam",
+    "domainAbbreviation": "YE"
+  },
+  {
+    "code": "964",
+    "pinyin": "YiLaKe",
+    "isoCode": "IRQ",
+    "areaName": "Irak",
+    "domainAbbreviation": "IQ"
+  },
+  {
+    "code": "98",
+    "pinyin": "YiLang",
+    "isoCode": "IRN",
+    "areaName": "Irán",
+    "domainAbbreviation": "IR"
+  },
+  {
+    "code": "972",
+    "pinyin": "YiSeLie",
+    "isoCode": "ISR",
+    "areaName": "Izrael",
+    "domainAbbreviation": "IL"
+  },
+  {
+    "code": "91",
+    "pinyin": "YinDu",
+    "isoCode": "IND",
+    "areaName": "India",
+    "domainAbbreviation": "IN"
+  },
+  {
+    "code": "62",
+    "pinyin": "YinDuNiXiYa",
+    "isoCode": "IDN",
+    "areaName": "Indonézia",
+    "domainAbbreviation": "ID"
+  },
+  {
+    "code": "962",
+    "pinyin": "YueDan",
+    "isoCode": "JOR",
+    "areaName": "Jordánia",
+    "domainAbbreviation": "JO"
+  },
+  {
+    "code": "84",
+    "pinyin": "YueNan",
+    "isoCode": "VNM",
+    "areaName": "Vietnam",
+    "domainAbbreviation": "VN"
+  },
+  {
+    "code": "7",
+    "pinyin": "ELuoSi",
+    "isoCode": "RUS",
+    "areaName": "Oroszország",
+    "domainAbbreviation": "RU"
+  },
+  {
+    "code": "86",
+    "pinyin": "ZhongGuoDaLu",
+    "isoCode": "CHN",
+    "areaName": "Kína (szárazföld",
+    "domainAbbreviation": "CN"
+  }
+]

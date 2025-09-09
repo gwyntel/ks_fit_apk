@@ -1,0 +1,70 @@
+{
+  "list": [
+      {
+        "id": "0",
+        "name": "常态",
+        "image":"A03.gif",
+        "disImage": "GreyA03.gif"
+      },
+      {
+        "id": "1",
+        "name": "饱胀",
+        "image": "B09.gif",
+        "disImage": "GreyB09.gif"
+      },
+      {
+        "id": "2",
+        "name": "饥饿",
+        "image": "B10.gif",
+        "disImage": "GreyB10.gif"
+      },
+      {
+        "id": "3",
+        "name": "开心",
+        "image": "B11.gif",
+        "disImage": "GreyB11.gif"
+      },
+      {
+        "id": "4",
+        "name": "不开心",
+        "image": "B12.gif",
+        "disImage": "GreyB12.gif"
+      },
+      {
+        "id": "5",
+        "name": "干净",
+        "image": "B13.gif",
+        "disImage": "GreyB13.gif"
+      },
+      {
+        "id": "6",
+        "name": "污垢",
+        "image": "B14.gif",
+        "disImage": "GreyB14.gif"
+      },
+      {
+        "id": "7",
+        "name": "眩晕",
+        "image": "B15.gif",
+        "disImage": "GreyB15.gif"
+      },
+      {
+        "id": "8",
+        "name": "精神",
+        "image": "B16.gif",
+        "disImage": "GreyB16.gif"
+      },
+      {
+        "id": "9",
+        "name": "出生",
+        "image": "A01.gif",
+        "disImage": "GreyA01.gif"
+      },
+      {
+        "id": "10",
+        "name": "死亡",
+        "image": "A02.gif",
+        "disImage": "GreyA02.gif"
+      }
+    ]
+}

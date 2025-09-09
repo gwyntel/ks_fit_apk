@@ -1,0 +1,71 @@
+{
+"login": [
+    {
+        "groupTitle": "",
+        "children": [
+            {
+                "title": "Récupérer le mot de passe",
+                "subtitle": "Mot de passe oublié, réinitialisable",
+                "detail": "Chemin de réinitialisation :\nSur la page de connexion, trouvez « Mot de passe oublié », entrez votre email, cliquez sur « Envoyer un email ». KS Fit vous enverra un email pour réinitialiser votre mot de passe. Suivez les instructions dans l'email."
+            },
+            {
+                "title": "Email inutilisable",
+                "subtitle": "E-mail d'origine erronée, besoin de changer l'email",
+                "detail": "Changez rapidement l'email lié à KS Fit :\nAllez dans Compte et Sécurité > Modifier l'email. Suivez les instructions sur la page.\nSi le problème persiste, envoyez un feedback ou contactez le support KS Fit."
+            },
+            {
+                "title": "Ne pas recevoir les emails de KS Fit",
+                "subtitle": "",
+                "detail": "Vérifiez votre dossier spam, certains emails peuvent y être classés. Si cela ne résout pas le problème, envoyez un feedback ou contactez-nous à kingsmithfitness@gmail.com."
+            }
+        ]
+    },
+    {
+        "groupTitle": "Questions fréquentes",
+        "children": [
+            {
+                "title": "Comment créer un compte KS Fit",
+                "subtitle": "",
+                "detail": "KS Fit prend en charge uniquement l'inscription par email.\n\nÉtapes :\nSur la page de connexion, cliquez sur « S'inscrire », entrez votre email et définissez un mot de passe pour terminer l'inscription."
+            },
+            {
+                "title": "Comment lier ou changer un compte tiers",
+                "subtitle": "",
+                "detail": "1. Si vous pouvez vous connecter :\nAllez dans Moi > Paramètres > Compte et Sécurité, liez ou changez votre compte Google/Apple.\n\n2. Si vous ne pouvez pas vous connecter :\nCliquez sur « Récupérer un compte », connectez-vous, puis effectuez les étapes ci-dessus."
+            },
+            {
+                "title": "Comment supprimer un compte",
+                "subtitle": "",
+                "detail": "Connectez-vous, puis allez dans Moi > Paramètres > Compte et Sécurité pour supprimer votre compte."
+            }
+        ]
+    }
+],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Que faire si le dispositif n'est pas trouvé?",
+                    "subtitle": "",
+                    "detail": "1. Vous pouvez éteindre le dispositif et attendre 5 secondes avant de tenter de le rallumer.\n2. Lors de la recherche:\n(1) Veuillez vous assurer que le dispositif est allumé et en mode d'attente de connexion (le voyant Bluetooth clignote) et qu'il est suffisamment proche de vous.\n(2) Si votre dispositif n'est pas en mode d'attente de connexion et que vous ne savez pas qui l'a connecté, vous pouvez essayer de réinitialiser le dispositif (ou de l'éteindre s'il n'y a pas de fonction de réinitialisation) et de rechercher à nouveau.\n(3) Veuillez vous assurer que l'application a obtenu : autorisation de localisation, autorisation de recherche de dispositifs à proximité ; Chemin des paramètres : Paramètres - Gestion des applications - KS Fit - Gestion des autorisations - Mettez ces autorisations en état autorisé\n(4) Si votre dispositif est un rameur, tirez sur la poignée pour réveiller le rameur et gardez l'écran allumé pendant la recherche.\n(5) Si votre dispositif est un vélo elliptique, pédalez le vélo jusqu'à ce que la lumière Bluetooth clignote pendant la recherche.\n(6) Si votre dispositif est une haltère intelligente, secouez-la ou touchez le panneau pour réveiller la haltère pendant la recherche.\n(8) Si vous utilisez un téléphone Android, activez le Bluetooth, recherchez les dispositifs Bluetooth à proximité et vérifiez si votre dispositif est affiché dans la liste des dispositifs Bluetooth à proximité ; vous devez également vérifier si le dispositif est dans la liste des \"dispositifs appairés\", si c'est le cas, veuillez effectuer un désappairage.\nSi vous utilisez un téléphone iOS, téléchargez l'application \"nRF Connect\", ouvrez cette application et vérifiez si votre dispositif est affiché dans la catégorie des dispositifs Bluetooth à proximité,\nSi votre dispositif ne figure pas dans la liste des dispositifs Bluetooth à proximité, il se peut que votre matériel présente un problème, vous pouvez contacter le service après-vente pour résolution.\n3. Si les situations ci-dessus ont été exclues, vous pouvez envoyer un retour d'information utilisateur (avec journal) dans l'application. Le contenu du retour d'information doit inclure les éléments suivants : description du problème, photo des informations sur le dispositif sur le corps du dispositif, informations de contact, journal.\nAprès avoir reçu votre retour d'information, nous pouvons identifier rapidement votre problème, et le personnel du service client vous contactera activement après avoir reçu le retour d'information."
+                },
+                {
+                    "title": "Comment ajouter un appareil ?",
+                    "subtitle": "",
+                    "detail": "1. Branchez votre appareil et allumez-le.\n2. Ouvrez l'application KS Fit, accédez à la page「Sport」, cliquez sur「+」en haut à droite pour entrer dans la page「Ajouter un appareil」.\n3. Une fois dans la page「Ajouter un appareil」, une recherche automatique des appareils commencera, pendant 30 secondes.\n4. Trouvez votre appareil dans les résultats de recherche et cliquez sur「Connecter」pour établir la connexion.\nAssurez-vous que l'appareil est sous tension et suffisamment proche de vous pendant la recherche."
+                },
+                {
+                    "title": "Que faire si je ne connais pas le nom de mon appareil ?",
+                    "subtitle": "",
+                    "detail": "Le nom du périphérique affiché dans l'application peut ne pas correspondre à celui du manuel du périphérique.\nSi vous ne trouvez pas de périphérique avec ce nom sur la page「Ajouter un périphérique」, vous pouvez essayer de vous connecter à un périphérique qui apparaît dans les résultats de recherche.\nSi votre problème n'est toujours pas résolu, veuillez contacter le service client."
+                },
+                {
+                    "title": "Que faire si l'appareil échoue à se connecter ?",
+                    "subtitle": "",
+                    "detail": "Veuillez consulter la solution correspondante en fonction du type de votre appareil :\n1. Catégorie Tapis de Course/Marcheurs :\n1. Vous pouvez éteindre l’appareil, attendre 5 secondes, puis le rallumer.\n2. Lors de la connexion, l’appareil doit répondre aux conditions suivantes :\n   (1) Assurez-vous que l’appareil est allumé et en état de connexion (le voyant Bluetooth clignote) et qu’il est suffisamment proche de vous.\n   (2) Assurez-vous que votre téléphone a autorisé l’application à accéder à la localisation et au Bluetooth, et que le Bluetooth reste toujours activé.\n3. Si l’appareil est déjà affiché sur la page de la carte, essayez de le “dissocier” et réessayez.\n4. Si les situations ci-dessus ont été écartées, vous pouvez soumettre un retour utilisateur (avec log) via l’application ; le retour doit inclure : une description du problème, des photos des informations sur l’appareil présentes sur le corps de l’appareil, vos coordonnées, le log.\n   Après réception de votre retour, nous pourrons rapidement localiser votre problème, et notre équipe de service client vous contactera de manière proactive.\n2. Catégorie Rameurs\n1. Vous pouvez éteindre l’appareil, attendre 5 secondes, puis le rallumer.\n2. Lors de la connexion, l’appareil doit répondre aux conditions suivantes :\n   (1) Pendant le processus de connexion, maintenez le mouvement de rame.\n   (2) Assurez-vous que l’appareil est allumé et en état de connexion (le voyant Bluetooth clignote).\n   (3) Assurez-vous que votre téléphone a autorisé l’application à accéder à la localisation et au Bluetooth, et que le Bluetooth reste toujours activé.\n3. Si les situations ci-dessus ont été écartées, vous pouvez soumettre un retour utilisateur (avec log) via l’application ; le retour doit inclure : une description du problème, des photos des informations sur l’appareil présentes sur le corps de l’appareil, vos coordonnées, le log.\n   Après réception de votre retour, nous pourrons rapidement localiser votre problème, et notre équipe de service client vous contactera de manière proactive.\n3. Catégorie Haltères\n1. Lors de la connexion, l’appareil doit répondre aux conditions suivantes :\n   (1) Pendant le processus de connexion, maintenez le mouvement de balancement des haltères.\n   (2) Assurez-vous que l’appareil est allumé et en état de connexion (le voyant Bluetooth clignote).\n   (3) Assurez-vous que votre téléphone a autorisé l’application à accéder à la localisation et au Bluetooth, et que le Bluetooth reste toujours activé.\n2. Si les situations ci-dessus ont été écartées, vous pouvez soumettre un retour utilisateur (avec log) via l’application ; le retour doit inclure : une description du problème, des photos des informations sur l’appareil présentes sur le corps de l’appareil, vos coordonnées, le log.\n   Après réception de votre retour, nous pourrons rapidement localiser votre problème, et notre équipe de service client vous contactera de manière proactive.\n4. Catégorie Vélos\n1. Vous pouvez éteindre l’appareil, attendre 5 secondes, puis le rallumer.\n2. Lors de la connexion, l’appareil doit répondre aux conditions suivantes :\n   (1) Pendant le processus de connexion, continuez à pédaler sur le vélo.\n   (2) Assurez-vous que l’appareil est allumé et en état de connexion (le voyant Bluetooth clignote).\n   (3) Assurez-vous que votre téléphone a autorisé l’application à accéder à la localisation et au Bluetooth, et que le Bluetooth reste toujours activé.\n3. Si les situations ci-dessus ont été écartées, vous pouvez soumettre un retour utilisateur (avec log) via l’application ; le retour doit inclure : une description du problème, des photos des informations sur l’appareil présentes sur le corps de l’appareil, vos coordonnées, le log.\n   Après réception de votre retour, nous pourrons rapidement localiser votre problème, et notre équipe de service client vous contactera de manière proactive."
+                }
+            ]
+        }
+    ]
+}

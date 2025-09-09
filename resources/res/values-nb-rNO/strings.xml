@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cal">Bruk(kcal)</string>
+    <string name="duration">Varighet(min)</string>
+    <string name="plan_target">Mål for planen</string>
+    <string name="start_sport">Start økten</string>
+    <string name="start_train">Begynn</string>
+    <string name="today_cal">Bruk(kcal)</string>
+    <string name="today_dist">Avstand</string>
+    <string name="today_step">Skritt(step)</string>
+    <string name="today_target">I dag</string>
+    <string name="today_unit">I dag(min)</string>
+</resources>

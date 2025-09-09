@@ -1,0 +1,70 @@
+{ "login": [{
+    "groupTitle": "",
+    "children": [
+        {
+            "title": "Retrieve Login Password",
+            "subtitle": "Forgot account password, can reset",
+            "detail": "Password Reset Path:\nOn the login page, find the ‘Forgot Password’ option to access the password reset page. Enter your email and click the ‘Send Email’ button. KS Fit will send a password reset email to the provided email address. Follow the instructions in the email to reset your password."
+        },
+        {
+            "title": "Email Address is Unusable",
+            "subtitle": "Original email error, need to change email",
+            "detail": "To update your KS Fit bound email address:\nNavigate to Account and Security > Change Bound Email, and follow the instructions on the page to complete the process.\nIf the issue persists, we recommend submitting feedback or contacting KS Fit customer support for assistance."
+        },
+        {
+            "title": "Unable to Receive Emails from KS Fit",
+            "subtitle": "",
+            "detail": "You can check your spam/junk folder, as some email providers might mistakenly classify the email as spam. If the issue persists, you can submit feedback or contact us at kingsmithfitness@gmail.com."
+        }
+    ]
+},
+    {
+        "groupTitle": "Frequently Asked Questions",
+        "children": [
+
+            {
+                "title": "How to Register a KS Fit Account",
+                "subtitle": "",
+                "detail": "KS Fit only supports email registration.\n\nThe specific registration steps:\nAfter entering KS Fit, find the ‘Sign Up’ option on the login page, click it to enter the registration page, enter your email, set a password, and you will have completed the registration."
+            },
+            {
+                "title": "How to bind/change a third-party account",
+                "subtitle": "",
+                "detail": "1.Can log in normally：\nAfter successfully logging in, go to ‘Me_Settings_Account and Security’ to bind/change your Google/Apple account.\n\n2.Cannot log in normally:\nClick ‘Find Account’ on the previous page to recover your account. Once you successfully log in, you can proceed with the above steps."
+            },
+            {
+                "title": "How to deactivate your account",
+                "subtitle": "",
+                "detail": "After successfully logging in, go to ‘Me_Settings_Account and Security’ to deactivate your account."
+            }
+
+        ]
+    }],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "What to do if the device is not found?",
+                    "subtitle": "",
+                    "detail": "1. You can turn off the device and wait for 5 seconds before trying to turn it on again.\n2. When searching:\n(1) Please confirm that the device is turned on and in the connection standby state (bluetooth light flashing), and that it is close enough to you.\n(2) If your device is not in the connection standby state and you do not know who connected it, you can try to reset the device (or turn it off if there is no reset function) and search again.\n(3) Please confirm that the app has obtained: location permission, permission to search for nearby devices; Settings path: Settings - Application Management - KS Fit - Permission Management - Set these permissions to the allowed state\n(4) If your device is a rowing machine, pull the handle to wake up the rowing machine and keep the screen lit during the search.\n(5) If your device is a spinning bike, pedal the bike until the bluetooth light flashes during the search.\n(6) If your device is a smart dumbbell, shake or touch the panel to wake up the dumbbell during the search.\n(8) If you are using an Android phone, turn on Bluetooth, search for nearby Bluetooth devices, and check if your device is displayed in the list of nearby Bluetooth devices; you also need to check if the device is in the \"paired devices\" list, if so, please unpair it.\nIf you are using an iOS phone, download the \"nRF Connect\" APP, open this APP, and check if your device is displayed in the nearby Bluetooth category,\nIf your device is not displayed in the list of nearby Bluetooth devices, there may be a problem with your equipment, and you can contact after-sales customer service to resolve it.\n3. If the above situations have been ruled out, you can submit a user feedback (with log) on the app. The feedback content needs to include the following items: problem description, photo of device information on the device body, contact information, log.\nAfter receiving your feedback, we can quickly locate your problem, and customer service staff will also contact you proactively after receiving the feedback."
+                },
+                {
+                    "title": "How to add a device?",
+                    "subtitle": "",
+                    "detail": "1. First, connect your device to a power source and turn it on.\n2. Open the KS Fit App, go to the「Exercise」page, click the「+」in the top right corner to enter the「Add Device」page.\n3. Once on the「Add Device」page, the app will automatically start searching for devices for 30 seconds.\n4. Find your device in the search results and click「Connect」to establish the connection.\nMake sure your device is powered on and within close range during the search."
+                },
+                {
+                    "title": "What to do if you don't know your device name?",
+                    "subtitle": "",
+                    "detail": "The device name displayed in the app may not match the device manual.\nIf you cannot find the device with that name on the「Add Device」page, you can try connecting to a device that appears in the search results.\nIf your issue is not resolved, please contact customer service."
+                },
+                {
+                    "title": "What to do if device connection fails?",
+                    "subtitle": "",
+                    "detail": "Please check the corresponding solution based on your device type:\n1. Treadmill/Walking Machine Category:\n1. You can turn off the device, wait 5 seconds, and then turn it back on.\n2. When connecting, the device must meet the following conditions:\n   (1) Please ensure the device is powered on and in a connectable state (Bluetooth light flashing) and is close enough to you.\n   (2) Please ensure your phone has granted the app location and Bluetooth permissions and that Bluetooth remains turned on.\n3. If the device already exists on the card page, try “unbinding” it and attempt again.\n4. If the above situations have been ruled out, you can submit user feedback (with log) on the app; the feedback must include: problem description, photos of the device information on the device body, contact details, log.\n   After receiving your feedback, we can quickly pinpoint your issue, and our customer service team will proactively contact you.\n2. Rowing Machine Category\n1. You can turn off the device, wait 5 seconds, and then turn it back on.\n2. When connecting, the device must meet the following conditions:\n   (1) During the connection process, please maintain the rowing motion.\n   (2) Please ensure the device is powered on and in a connectable state (Bluetooth light flashing).\n   (3) Please ensure your phone has granted the app location and Bluetooth permissions and that Bluetooth remains turned on.\n3. If the above situations have been ruled out, you can submit user feedback (with log) on the app; the feedback must include: problem description, photos of the device information on the device body, contact details, log.\n   After receiving your feedback, we can quickly pinpoint your issue, and our customer service team will proactively contact you.\n3. Dumbbell Category\n1. When connecting, the device must meet the following conditions:\n   (1) During the connection process, please maintain the swinging motion of the dumbbells.\n   (2) Please ensure the device is powered on and in a connectable state (Bluetooth light flashing).\n   (3) Please ensure your phone has granted the app location and Bluetooth permissions and that Bluetooth remains turned on.\n2. If the above situations have been ruled out, you can submit user feedback (with log) on the app; the feedback must include: problem description, photos of the device information on the device body, contact details, log.\n   After receiving your feedback, we can quickly pinpoint your issue, and our customer service team will proactively contact you.\n4. Bike Category\n1. You can turn off the device, wait 5 seconds, and then turn it back on.\n2. When connecting, the device must meet the following conditions:\n   (1) During the connection process, please keep pedaling the bike.\n   (2) Please ensure the device is powered on and in a connectable state (Bluetooth light flashing).\n   (3) Please ensure your phone has granted the app location and Bluetooth permissions and that Bluetooth remains turned on.\n3. If the above situations have been ruled out, you can submit user feedback (with log) on the app; the feedback must include: problem description, photos of the device information on the device body, contact details, log.\n   After receiving your feedback, we can quickly pinpoint your issue, and our customer service team will proactively contact you."
+                }
+            ]
+        }
+    ]
+}

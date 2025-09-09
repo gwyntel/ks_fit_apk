@@ -1,0 +1,148 @@
+{
+  "list": [
+    {
+      "bg_poster": {
+        "list": [
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_poster_img": "assets/sport/share_bg.png"
+          }
+        ]
+      }
+    },
+    {
+      "bg_achieve": {
+        "list": [
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_achieve_img": "assets/sport/share_bg.png"
+          }
+        ]
+      }
+    },
+    {
+      "bg_handStickers": {
+        "list": [
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_stickers_img": "assets/sport/share_bg.png"
+          }
+        ]
+      }
+    },
+    {
+      "bg_statistics": {
+        "list": [
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          },
+          {
+            "bg_statistics_img": "assets/sport/share_bg.png"
+          }
+        ]
+      }
+    }
+  ]
+}

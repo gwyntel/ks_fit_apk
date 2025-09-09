@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/layout_root"
+    android:background="@color/bar_grey"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/videoParent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.leeson.image_pickers.views.FullScreenVideoView
+                android:id="@+id/videoView"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_centerInParent="true"/>
+            <ImageView
+                android:id="@+id/iv_src"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"/>
+            <ImageView
+                android:id="@+id/iv_play"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/ps_ic_video_play"
+                android:layout_centerInParent="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

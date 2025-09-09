@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:inputBox="http://schemas.android.com/apk/res-auto">
+    <com.alibaba.sdk.android.openaccount.ui.widget.InputBoxWithClear
+        android:gravity="center_vertical"
+        android:id="@+id/input_box"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        inputBox:ali_sdk_openaccount_attrs_hint="@string/ali_sdk_openaccount_text_sms_code"
+        inputBox:ali_sdk_openaccount_attrs_inputType="textNumber"
+        inputBox:ali_sdk_openaccount_attrs_leftIconText="@string/ali_sdk_openaccount_icon_sms_code"/>
+    <include layout="@layout/ali_sdk_openaccount_vertical_frame_edge"/>
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp">
+        <Button
+            android:textSize="16sp"
+            android:id="@+id/send"
+            android:background="@null"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/ali_sdk_openaccount_text_send_sms_code"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+</merge>

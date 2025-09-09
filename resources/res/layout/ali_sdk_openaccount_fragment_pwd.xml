@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/ali_user_bg_windows_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:gravity="center_vertical"
+        android:id="@+id/ali_user_pwd_input_box"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/ali_sdk_openaccount_text_password"/>
+    <Button
+        android:id="@+id/ali_user_mobile_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ali_sdk_openaccount_text_confirm"/>
+    <TextView
+        android:id="@+id/ali_user_find_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/ali_sdk_openaccount_text_forget_password"/>
+</LinearLayout>

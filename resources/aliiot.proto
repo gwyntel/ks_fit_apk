@@ -1,0 +1,133 @@
+syntax = "proto3";
+//import "google/protobuf/any.proto";
+
+option java_package = "com.kingsmith.aliiot";
+option java_outer_classname = "Protos";
+option objc_class_prefix = "Protos";
+
+// Wrapper message for `int32`.
+//
+// Allows for nullability of fields in messages
+//message Int32Value {
+//    // The int32 value.
+//    int32 value = 1;
+//}
+//
+//message Env {
+//    string app_key = 1;
+//    string product_key = 2;
+//}
+
+//用户信息
+message UserInfo {
+    string user_id = 1;
+    string open_id = 2;
+    string user_nick = 3;
+    string user_avatar_url = 4;
+    string mobile_location_code = 5;
+    string user_phone = 6;
+    string user_email = 7;
+}
+
+//设备信息
+message DeviceInfo {
+    //修改时间(绑定时间)
+    int64 gmt_modified = 1;
+    //品类图标
+    string category_image = 2;
+    //设备入网类型:lora: NET_LORAgprs: NET_CELLULARwifi: NET_WIFI
+    //zigbee: NET_ZIGBEE蓝牙: NET_BT以太网: NET_ETHERNET其他: NET_OTHER
+    string net_type = 3;
+    //设备的节点类型:"DEVICE", "GATEWAY"
+    string node_type = 4;
+    //设备的productKey
+    string product_key = 5;
+    //设备的deviceName
+    string device_name = 6;
+    //用户的显示名(mobile或loginName或email)
+    string identity_alias = 7;
+    //设备的iotId
+    string iot_id = 8;
+    //0:分享者；1：拥有者
+    int32 owned = 9;
+    //用户的身份ID
+    string identity_id = 10;
+    //设备的类型:"VIRTUAL", "VIRTUAL_SHADOW", "WEB", "APP","DEVICE"
+    string thing_type = 11;
+    //设备的状态 0：未激活 ；1：在线；3：离线；8：禁用
+    int32 status = 12;
+    //设备的产品名称
+    string product_name = 13;
+    //设备的产品图片
+    string product_image = 14;
+    //设备的产品型号
+    string product_model = 15;
+    //用户对设备的昵称，用户通过setDeviceNickName设置的昵称
+    string nick_name = 16;
+}
+
+message ListOfDeviceAli {
+    repeated DeviceInfo deviceList = 1;
+    int32 code = 2;
+}
+
+//message PropertyS {
+//    string value = 1;
+//}
+//
+//message PropertyI {
+//    int64 value = 1;
+//}
+//
+//message PropertyD {
+//    double value = 1;
+//}
+
+message Property {
+    int64 time = 1;
+    string value = 2;
+}
+
+message AProperties {
+    Property running_steps = 1;
+    Property burn_calories = 2;
+    Property current_speed = 3;
+    Property running_distance = 4;
+    Property running_total_time = 5;
+    Property con_sp_mode = 6;
+    Property panel_display = 7;
+    Property max = 8;
+    Property control_mode = 9;
+    Property velocity_sensitivity = 10;
+    Property start_speed = 11;
+    Property goal = 12;
+    Property run_state = 13;
+    Property spm = 14;
+    Property wifi_ap_bassid = 15;
+    Property heart_rate = 16;
+    Property mcu_version = 17;
+    Property button_id = 18;
+    Property max_w = 19;
+    Property record = 20;
+    Property tutorial = 21;
+    Property handrail = 22;
+    Property initial = 23;
+    Property unit = 24;
+    Property sys_device_pid = 25;
+    Property child_lock_switch = 26;
+    int32 code = 27;
+    Property gradient = 28;
+    Property quick_speed = 29;
+
+}
+
+//message ConnectConfigResponse {
+//    string product_key = 1;
+//    string device_name = 2;
+//}
+
+//code = 0 成功，否则code就是错误码
+//message Response {
+//    int32 code = 1;
+//    string msg = 2;
+//}

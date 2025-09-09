@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cal">Kalori(kcal)</string>
+    <string name="duration">Minut(min)</string>
+    <string name="plan_target">Målet med planen</string>
+    <string name="start_sport">Start exercise</string>
+    <string name="start_train">Börja träna</string>
+    <string name="today_cal">Kalori(kcal)</string>
+    <string name="today_dist">Pасстояние</string>
+    <string name="today_step">Шаги(step)</string>
+    <string name="today_target">Cегодня</string>
+    <string name="today_unit">Cегодня(min)</string>
+</resources>

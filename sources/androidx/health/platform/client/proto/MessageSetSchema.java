@@ -1,0 +1,291 @@
+package androidx.health.platform.client.proto;
+
+import androidx.health.platform.client.proto.FieldSet;
+import androidx.health.platform.client.proto.LazyField;
+import androidx.health.platform.client.proto.WireFormat;
+import java.io.IOException;
+import java.util.Iterator;
+import java.util.Map;
+
+@CheckReturnValue
+/* loaded from: classes.dex */
+final class MessageSetSchema<T> implements Schema<T> {
+    private final MessageLite defaultInstance;
+    private final ExtensionSchema<?> extensionSchema;
+    private final boolean hasExtensions;
+    private final UnknownFieldSchema<?, ?> unknownFieldSchema;
+
+    private MessageSetSchema(UnknownFieldSchema<?, ?> unknownFieldSchema, ExtensionSchema<?> extensionSchema, MessageLite messageLite) {
+        this.unknownFieldSchema = unknownFieldSchema;
+        this.hasExtensions = extensionSchema.e(messageLite);
+        this.extensionSchema = extensionSchema;
+        this.defaultInstance = messageLite;
+    }
+
+    static MessageSetSchema a(UnknownFieldSchema unknownFieldSchema, ExtensionSchema extensionSchema, MessageLite messageLite) {
+        return new MessageSetSchema(unknownFieldSchema, extensionSchema, messageLite);
+    }
+
+    private <UT, UB> int getUnknownFieldsSerializedSize(UnknownFieldSchema<UT, UB> unknownFieldSchema, T t2) {
+        return unknownFieldSchema.i(unknownFieldSchema.g(t2));
+    }
+
+    private <UT, UB, ET extends FieldSet.FieldDescriptorLite<ET>> void mergeFromHelper(UnknownFieldSchema<UT, UB> unknownFieldSchema, ExtensionSchema<ET> extensionSchema, T t2, Reader reader, ExtensionRegistryLite extensionRegistryLite) throws IOException {
+        Object objF = unknownFieldSchema.f(t2);
+        FieldSet<ET> fieldSetD = extensionSchema.d(t2);
+        while (reader.getFieldNumber() != Integer.MAX_VALUE) {
+            try {
+                if (!parseMessageSetItemOrUnknownField(reader, extensionRegistryLite, extensionSchema, fieldSetD, unknownFieldSchema, objF)) {
+                    return;
+                }
+            } finally {
+                unknownFieldSchema.o(t2, objF);
+            }
+        }
+    }
+
+    private <UT, UB, ET extends FieldSet.FieldDescriptorLite<ET>> boolean parseMessageSetItemOrUnknownField(Reader reader, ExtensionRegistryLite extensionRegistryLite, ExtensionSchema<ET> extensionSchema, FieldSet<ET> fieldSet, UnknownFieldSchema<UT, UB> unknownFieldSchema, UB ub) throws IOException {
+        int tag = reader.getTag();
+        if (tag != WireFormat.f4509a) {
+            if (WireFormat.getTagWireType(tag) != 2) {
+                return reader.skipField();
+            }
+            Object objB = extensionSchema.b(extensionRegistryLite, this.defaultInstance, WireFormat.getTagFieldNumber(tag));
+            if (objB == null) {
+                return unknownFieldSchema.m(ub, reader);
+            }
+            extensionSchema.h(reader, objB, extensionRegistryLite, fieldSet);
+            return true;
+        }
+        Object objB2 = null;
+        int uInt32 = 0;
+        ByteString bytes = null;
+        while (reader.getFieldNumber() != Integer.MAX_VALUE) {
+            int tag2 = reader.getTag();
+            if (tag2 == WireFormat.f4511c) {
+                uInt32 = reader.readUInt32();
+                objB2 = extensionSchema.b(extensionRegistryLite, this.defaultInstance, uInt32);
+            } else if (tag2 == WireFormat.f4512d) {
+                if (objB2 != null) {
+                    extensionSchema.h(reader, objB2, extensionRegistryLite, fieldSet);
+                } else {
+                    bytes = reader.readBytes();
+                }
+            } else if (!reader.skipField()) {
+                break;
+            }
+        }
+        if (reader.getTag() != WireFormat.f4510b) {
+            throw InvalidProtocolBufferException.invalidEndTag();
+        }
+        if (bytes != null) {
+            if (objB2 != null) {
+                extensionSchema.i(bytes, objB2, extensionRegistryLite, fieldSet);
+            } else {
+                unknownFieldSchema.d(ub, uInt32, bytes);
+            }
+        }
+        return true;
+    }
+
+    private <UT, UB> void writeUnknownFieldsHelper(UnknownFieldSchema<UT, UB> unknownFieldSchema, T t2, Writer writer) throws IOException {
+        unknownFieldSchema.s(unknownFieldSchema.g(t2), writer);
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public boolean equals(T t2, T t3) {
+        if (!this.unknownFieldSchema.g(t2).equals(this.unknownFieldSchema.g(t3))) {
+            return false;
+        }
+        if (this.hasExtensions) {
+            return this.extensionSchema.c(t2).equals(this.extensionSchema.c(t3));
+        }
+        return true;
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public int getSerializedSize(T t2) {
+        int unknownFieldsSerializedSize = getUnknownFieldsSerializedSize(this.unknownFieldSchema, t2);
+        return this.hasExtensions ? unknownFieldsSerializedSize + this.extensionSchema.c(t2).getMessageSetSerializedSize() : unknownFieldsSerializedSize;
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public int hashCode(T t2) {
+        int iHashCode = this.unknownFieldSchema.g(t2).hashCode();
+        return this.hasExtensions ? (iHashCode * 53) + this.extensionSchema.c(t2).hashCode() : iHashCode;
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public final boolean isInitialized(T t2) {
+        return this.extensionSchema.c(t2).isInitialized();
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public void makeImmutable(T t2) {
+        this.unknownFieldSchema.j(t2);
+        this.extensionSchema.f(t2);
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public void mergeFrom(T t2, T t3) {
+        SchemaUtil.D(this.unknownFieldSchema, t2, t3);
+        if (this.hasExtensions) {
+            SchemaUtil.B(this.extensionSchema, t2, t3);
+        }
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public T newInstance() {
+        MessageLite messageLite = this.defaultInstance;
+        return messageLite instanceof GeneratedMessageLite ? (T) ((GeneratedMessageLite) messageLite).E() : (T) messageLite.newBuilderForType().buildPartial();
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public void writeTo(T t2, Writer writer) throws IOException {
+        Iterator it = this.extensionSchema.c(t2).iterator();
+        while (it.hasNext()) {
+            Map.Entry entry = (Map.Entry) it.next();
+            FieldSet.FieldDescriptorLite fieldDescriptorLite = (FieldSet.FieldDescriptorLite) entry.getKey();
+            if (fieldDescriptorLite.getLiteJavaType() != WireFormat.JavaType.MESSAGE || fieldDescriptorLite.isRepeated() || fieldDescriptorLite.isPacked()) {
+                throw new IllegalStateException("Found invalid MessageSet item.");
+            }
+            if (entry instanceof LazyField.LazyEntry) {
+                writer.writeMessageSetItem(fieldDescriptorLite.getNumber(), ((LazyField.LazyEntry) entry).getField().toByteString());
+            } else {
+                writer.writeMessageSetItem(fieldDescriptorLite.getNumber(), entry.getValue());
+            }
+        }
+        writeUnknownFieldsHelper(this.unknownFieldSchema, t2, writer);
+    }
+
+    /* JADX WARN: Multi-variable type inference failed */
+    /* JADX WARN: Removed duplicated region for block: B:33:0x00c6  */
+    /* JADX WARN: Removed duplicated region for block: B:58:0x00cb A[EDGE_INSN: B:58:0x00cb->B:34:0x00cb BREAK  A[LOOP:1: B:18:0x006d->B:61:0x006d], SYNTHETIC] */
+    @Override // androidx.health.platform.client.proto.Schema
+    /*
+        Code decompiled incorrectly, please refer to instructions dump.
+        To view partially-correct code enable 'Show inconsistent code' option in preferences
+    */
+    public void mergeFrom(T r11, byte[] r12, int r13, int r14, androidx.health.platform.client.proto.ArrayDecoders.Registers r15) throws java.io.IOException {
+        /*
+            r10 = this;
+            r0 = r11
+            androidx.health.platform.client.proto.GeneratedMessageLite r0 = (androidx.health.platform.client.proto.GeneratedMessageLite) r0
+            androidx.health.platform.client.proto.UnknownFieldSetLite r1 = r0.unknownFields
+            androidx.health.platform.client.proto.UnknownFieldSetLite r2 = androidx.health.platform.client.proto.UnknownFieldSetLite.getDefaultInstance()
+            if (r1 != r2) goto L11
+            androidx.health.platform.client.proto.UnknownFieldSetLite r1 = androidx.health.platform.client.proto.UnknownFieldSetLite.g()
+            r0.unknownFields = r1
+        L11:
+            androidx.health.platform.client.proto.GeneratedMessageLite$ExtendableMessage r11 = (androidx.health.platform.client.proto.GeneratedMessageLite.ExtendableMessage) r11
+            androidx.health.platform.client.proto.FieldSet r11 = r11.V()
+            r0 = 0
+            r2 = r0
+        L19:
+            if (r13 >= r14) goto Ld7
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.I(r12, r13, r15)
+            int r13 = r15.int1
+            int r3 = androidx.health.platform.client.proto.WireFormat.f4509a
+            r5 = 2
+            if (r13 == r3) goto L6b
+            int r3 = androidx.health.platform.client.proto.WireFormat.getTagWireType(r13)
+            if (r3 != r5) goto L66
+            androidx.health.platform.client.proto.ExtensionSchema<?> r2 = r10.extensionSchema
+            androidx.health.platform.client.proto.ExtensionRegistryLite r3 = r15.extensionRegistry
+            androidx.health.platform.client.proto.MessageLite r5 = r10.defaultInstance
+            int r6 = androidx.health.platform.client.proto.WireFormat.getTagFieldNumber(r13)
+            java.lang.Object r2 = r2.b(r3, r5, r6)
+            r8 = r2
+            androidx.health.platform.client.proto.GeneratedMessageLite$GeneratedExtension r8 = (androidx.health.platform.client.proto.GeneratedMessageLite.GeneratedExtension) r8
+            if (r8 == 0) goto L5c
+            androidx.health.platform.client.proto.Protobuf r13 = androidx.health.platform.client.proto.Protobuf.getInstance()
+            androidx.health.platform.client.proto.MessageLite r2 = r8.getMessageDefaultInstance()
+            java.lang.Class r2 = r2.getClass()
+            androidx.health.platform.client.proto.Schema r13 = r13.schemaFor(r2)
+            int r13 = androidx.health.platform.client.proto.ArrayDecoders.p(r13, r12, r4, r14, r15)
+            androidx.health.platform.client.proto.GeneratedMessageLite$ExtensionDescriptor r2 = r8.f4454d
+            java.lang.Object r3 = r15.object1
+            r11.setField(r2, r3)
+        L5a:
+            r2 = r8
+            goto L19
+        L5c:
+            r2 = r13
+            r3 = r12
+            r5 = r14
+            r6 = r1
+            r7 = r15
+            int r13 = androidx.health.platform.client.proto.ArrayDecoders.G(r2, r3, r4, r5, r6, r7)
+            goto L5a
+        L66:
+            int r13 = androidx.health.platform.client.proto.ArrayDecoders.P(r13, r12, r4, r14, r15)
+            goto L19
+        L6b:
+            r13 = 0
+            r3 = r0
+        L6d:
+            if (r4 >= r14) goto Lcb
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.I(r12, r4, r15)
+            int r6 = r15.int1
+            int r7 = androidx.health.platform.client.proto.WireFormat.getTagFieldNumber(r6)
+            int r8 = androidx.health.platform.client.proto.WireFormat.getTagWireType(r6)
+            if (r7 == r5) goto Lac
+            r9 = 3
+            if (r7 == r9) goto L83
+            goto Lc1
+        L83:
+            if (r2 == 0) goto La1
+            androidx.health.platform.client.proto.Protobuf r6 = androidx.health.platform.client.proto.Protobuf.getInstance()
+            androidx.health.platform.client.proto.MessageLite r7 = r2.getMessageDefaultInstance()
+            java.lang.Class r7 = r7.getClass()
+            androidx.health.platform.client.proto.Schema r6 = r6.schemaFor(r7)
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.p(r6, r12, r4, r14, r15)
+            androidx.health.platform.client.proto.GeneratedMessageLite$ExtensionDescriptor r6 = r2.f4454d
+            java.lang.Object r7 = r15.object1
+            r11.setField(r6, r7)
+            goto L6d
+        La1:
+            if (r8 != r5) goto Lc1
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.b(r12, r4, r15)
+            java.lang.Object r3 = r15.object1
+            androidx.health.platform.client.proto.ByteString r3 = (androidx.health.platform.client.proto.ByteString) r3
+            goto L6d
+        Lac:
+            if (r8 != 0) goto Lc1
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.I(r12, r4, r15)
+            int r13 = r15.int1
+            androidx.health.platform.client.proto.ExtensionSchema<?> r2 = r10.extensionSchema
+            androidx.health.platform.client.proto.ExtensionRegistryLite r6 = r15.extensionRegistry
+            androidx.health.platform.client.proto.MessageLite r7 = r10.defaultInstance
+            java.lang.Object r2 = r2.b(r6, r7, r13)
+            androidx.health.platform.client.proto.GeneratedMessageLite$GeneratedExtension r2 = (androidx.health.platform.client.proto.GeneratedMessageLite.GeneratedExtension) r2
+            goto L6d
+        Lc1:
+            int r7 = androidx.health.platform.client.proto.WireFormat.f4510b
+            if (r6 != r7) goto Lc6
+            goto Lcb
+        Lc6:
+            int r4 = androidx.health.platform.client.proto.ArrayDecoders.P(r6, r12, r4, r14, r15)
+            goto L6d
+        Lcb:
+            if (r3 == 0) goto Ld4
+            int r13 = androidx.health.platform.client.proto.WireFormat.a(r13, r5)
+            r1.i(r13, r3)
+        Ld4:
+            r13 = r4
+            goto L19
+        Ld7:
+            if (r13 != r14) goto Lda
+            return
+        Lda:
+            androidx.health.platform.client.proto.InvalidProtocolBufferException r11 = androidx.health.platform.client.proto.InvalidProtocolBufferException.parseFailure()
+            throw r11
+        */
+        throw new UnsupportedOperationException("Method not decompiled: androidx.health.platform.client.proto.MessageSetSchema.mergeFrom(java.lang.Object, byte[], int, int, androidx.health.platform.client.proto.ArrayDecoders$Registers):void");
+    }
+
+    @Override // androidx.health.platform.client.proto.Schema
+    public void mergeFrom(T t2, Reader reader, ExtensionRegistryLite extensionRegistryLite) throws IOException {
+        mergeFromHelper(this.unknownFieldSchema, this.extensionSchema, t2, reader, extensionRegistryLite);
+    }
+}

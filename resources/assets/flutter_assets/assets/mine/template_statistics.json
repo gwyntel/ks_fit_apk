@@ -1,0 +1,241 @@
+{
+  "list": [
+    {
+      "template_poster": {
+        "list": [
+          {
+            "id": "0",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/31.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_01.png"
+          },
+          {
+            "id": "1",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/32.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_02.png"
+          },
+          {
+            "id": "2",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/33.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_03.png"
+          },
+          {
+            "id": "3",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/34.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_04.png"
+          },
+          {
+            "id": "4",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/35.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_05.png"
+          },
+          {
+            "id": "5",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/37.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_07.png"
+          },
+          {
+            "id": "6",
+            "maxDataItem": "3",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/36.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_06.png"
+          },
+          {
+            "id": "7",
+            "maxDataItem": "3",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/38.png",
+            "thumbnail_img": "assets/sport/thumbnail_poster/thumbnail_poster_08.png"
+          }
+        ]
+      }
+    },
+    {
+      "template_handStickers": {
+        "list": [
+          {
+            "id": "0",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/43.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_01.png"
+          },
+          {
+            "id": "1",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/44.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_02.png"
+          },
+          {
+            "id": "2",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/45.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_03.png"
+          },
+          {
+            "id": "3",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/46.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_04.png"
+          },
+          {
+            "id": "4",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/47.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_05.png"
+          },
+          {
+            "id": "5",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/48.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_06.png"
+          },
+          {
+            "id": "6",
+            "maxDataItem": "3",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/49.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_07.png"
+          },
+          {
+            "id": "7",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/50.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_08.png"
+          },
+          {
+            "id": "8",
+            "maxDataItem": "6",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/51.png",
+            "thumbnail_img": "assets/sport/thumbnail_hand_stickers/thumbnail_hand_stickers_09.png"
+          }
+        ]
+      }
+    },
+    {
+      "template_statistics": {
+        "list": [
+          {
+            "id": "0",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/41.png"
+          },
+          {
+            "id": "1",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/40.png"
+          },
+          {
+            "id": "2",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/39.png"
+          },
+          {
+            "id": "3",
+            "maxDataItem": "4",
+            "img": "https://static.kingsmith.com.cn/share_background_v2/42.png"
+          }
+        ]
+      }
+    },
+    {
+      "share_bg": {
+        "list": [
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/1.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/2.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/3.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/4.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/5.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/6.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/7.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/8.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/9.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/10.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/11.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/12.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/13.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/14.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/15.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/16.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/17.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/18.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/19.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/20.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/21.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/22.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/23.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/24.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/25.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/26.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/27.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/28.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/29.png"
+          },
+          {
+            "img": "https://static.kingsmith.com.cn/share_background_v2/30.png"
+          }
+        ]
+      }
+    }
+
+  ]
+}

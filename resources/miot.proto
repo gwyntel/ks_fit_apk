@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "com.kingsmith.miot";
+option java_outer_classname = "Protos";
+option objc_class_prefix = "Protos";
+
+//设备信息
+message PDeviceMi {
+    //PDevice parent = 1;
+    string name = 1;
+    string model = 2;
+    string netType = 3;
+    int32 status = 4;
+    int32 owned = 5;
+    string iotId = 6;
+    string address = 7;
+}
+
+message ListOfDeviceMi {
+    repeated PDeviceMi device = 1;
+    int32 code = 2;
+}

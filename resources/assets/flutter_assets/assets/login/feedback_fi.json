@@ -1,0 +1,71 @@
+{
+    "login": [{
+        "groupTitle": "",
+        "children": [
+            {
+                "title": "Salasanan palautus",
+                "subtitle": "Jos salasana unohtuu, voit nollata sen",
+                "detail": "Salasanan nollauspolku:\nKirjautumissivulla löydät «Unohditko salasanan» -linkin, siirry salasanan nollaussivulle, syötä sähköpostiosoite ja napsauta «Lähetä sähköposti» -painiketta. KS Fit lähettää salasanan nollausviestin annettuun sähköpostiosoitteeseen, seuraa viestissä olevia ohjeita salasanan nollaamiseksi."
+            },
+            {
+                "title": "Sähköposti ei toimi",
+                "subtitle": "Alkuperäinen sähköposti virheellinen, sähköposti täytyy vaihtaa",
+                "detail": "Vaihtakaa nopeasti KS Fitin liitetty sähköpostiosoite. Sähköpostin vaihto:\nTili ja turvallisuus_Vaihda liitetty sähköpostiosoite, seuraa sivun ohjeita.\nJos ongelma ei vieläkään ratkea, suosittelemme, että lähetätte palautetta tai otatte yhteyttä KS Fitin asiakaspalveluun ongelman ratkaisemiseksi."
+            },
+            {
+                "title": "Et saa sähköposteja KS Fitiltä",
+                "subtitle": "",
+                "detail": "Yritä etsiä ne roskapostikansiosta, sillä jotkut sähköpostipalvelut voivat virheellisesti luokitella ne roskapostiksi. Jos ongelma ei ratkea, voit lähettää palautetta tai ottaa meihin yhteyttä osoitteessa kingsmithfitness@gmail.com."
+            }
+        ]
+    },
+        {
+            "groupTitle": "Usein kysytyt kysymykset",
+            "children": [
+
+                {
+                    "title": "Kuinka rekisteröityä KS Fit -tilille",
+                    "subtitle": "",
+                    "detail": "KS Fit tukee rekisteröitymistä vain sähköpostitse.\n\nRekisteröitymisen tarkat vaiheet:\nSiirry KS Fitiin, löydä «Rekisteröidy» -linkki kirjautumissivulta, napsauta sitä siirtyäksesi rekisteröitymissivulle, syötä sähköpostiosoite ja määritä salasana, niin rekisteröinti on valmis."
+                },
+                {
+                    "title": "Kuinka liittää/vaihtaa kolmannen osapuolen tili",
+                    "subtitle": "",
+                    "detail": "1.Voit kirjautua sisään normaalisti:\nKirjautumisen jälkeen voit siirtyä «Minä_Asetukset_Tili ja turvallisuus» -osioon liittääksesi/vaihtaaksesi Google/Apple-tilin.\n\n2.Et voi kirjautua sisään:\nNapsauta edellisellä sivulla olevaa «Palauta tili» -linkkiä, etsi tilisi, kirjaudu sisään onnistuneesti ja suorita sitten edellä mainitut toimet."
+                },
+                {
+                    "title": "Kuinka poistaa tili",
+                    "subtitle": "",
+                    "detail": "Kirjautumisen jälkeen voit siirtyä «Minä_Asetukset_Tili ja turvallisuus» -osioon poistaaksesi tilisi."
+                }
+
+            ]
+        }],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Mitä tehdä, jos laitetta ei löydy?",
+                    "subtitle": "",
+                    "detail": "1. Sammuta laite, odota 5 sekuntia ja käynnistä se uudelleen.\n2. Haetaessa:\n(1) Varmista, että laite on päällä ja yhdistämistilassa (Bluetooth-valo vilkkuu) ja että se on tarpeeksi lähellä.\n(2) Jos laitteen tila ei ole yhteydenottovarainen tai et tiedä, kenelle se kuuluu, voit yrittää resetoida laitetta (tai sammuttaa sen, jos ei ole reset-toimintoa) ja hakea uudelleen.\n(3) Varmista, että sovellus on saanut seuraavat luvat: sijaintitietojen käyttö, läheisten laitteiden haku; asetuspolku: Asetukset - Sovellusten hallinta - KS Fit - Luvat - Aseta nämä luvat sallittuiksi\n(4) Jos laitteesi on riuvauslaite, vetä kahva herättääksesi riuvauslaitea ja pidä näyttö päällä haussa.\n(5) Jos laitteesi on pyöräilykone, pedaalaa pyörää, kunnes Bluetooth-valo vilkkuu haussa.\n(6) Jos laitteesi on älykäs nyrkkikivi, värähdä tai kosketa paneelia herättääksesi nyrkkikiven haussa.\n(8) Jos käytät android-puhelinta, aktivoi Bluetooth, etsi läheisiä Bluetooth-laitteita ja tarkista, näkyykö laitteesi läheisten Bluetooth-laitteiden luettelossa; sinun täytyy myös tarkistaa, onko laitteesi \"paritettujen laitteiden\" luettelossa, ja jos on, poista paritus.\nJos käytät iOS-puhelinta, lataa \"nRF Connect\" -sovellus, avaa sovellus ja tarkista, näkyykö laitteesi läheisten Bluetooth-laitteiden kategoriassa.\nJos laitteesi ei näy läheisten Bluetooth-laitteiden luettelossa, laitteesi saattaa olla vioittunut, ja voit ottaa yhteyttä asiakaspalveluun ratkaisemiseksi.\n3. Jos olet suljennut pois yllä mainitut tilanteet, voit lähettää käyttäjän palautteen (lokin mukana) sovelluksessa. Palautteen sisältöön on sisällytettävä seuraavat asiat: ongelman kuvaus, laitteen kappaleen tiedot kuvassa, yhteystiedot, logi.\nPalautteen saatettuaan voimme määrittää ongelman nopeasti, ja asiakaspalvelun henkilökunta ottaa sinuun yhteyttä palautteen saamisen jälkeen."
+                },
+                {
+                    "title": "Mitä tehdä, jos haluat lisätä laitteen?",
+                    "subtitle": "",
+                    "detail": "1. Kytké laite ensin virtalähdeeen ja käynnistä se.\n2. Avaa KS Fit -sovellus, siirry「Liikunta」-sivulle, klikkaa oikeassa yläreunassa olevaa「+」, jotta pääset「Lisää laite」-sivulle.\n3. Kun olet「Lisää laite」-sivulla, sovellus alkaa automaattisesti etsiä laitteita 30 sekunnin ajan.\n4. Etsi laitteesi haku tuloksista ja klikkaa「Yhdistä」pystääksesi yhteyttä.\nVarmista, että laitteesi on kytketty virtaan ja se on tarpeeksi lähellä sinua haku aikana."
+                },
+                {
+                    "title": "Mitä tehdä, jos et tiedä laitteesi nimeä?",
+                    "subtitle": "",
+                    "detail": "Sovelluksessa näytettävä laitteen nimi ei välttämättä vastaa laitteen käyttöopaan nimeä.\nJos et löydä laitteen nimeä「Lisää laite」-sivulla, voit yrittää muodostaa yhteyden hakutuloksissa näkyviin laitteisiin.\nJos ongelma ei ratkea, ota yhteyttä asiakaspalveluun."
+                },
+                {
+                    "title": "Mitä tehdä, jos laitteen yhdistäminen epäonnistuu?",
+                    "subtitle": "",
+                    "detail": "Tarkista laitetyyppiisi sopiva ratkaisu:\n1. Juoksumatto/Kävelykoneiden Kategoria:\n1. Voit sammuttaa laitteen, odottaa 5 sekuntia ja käynnistää sen uudelleen.\n2. Yhteyden muodostamisen aikana laitteen on täytettävä seuraavat ehdot:\n   (1) Varmista, että laite on päällä ja yhdistettävissä tilassa (Bluetooth-valo vilkkuu) ja että se on riittävän lähellä sinua.\n   (2) Varmista, että puhelimesi on myöntänyt sovellukselle sijainti- ja Bluetooth-oikeudet ja että Bluetooth pysyy aina päällä.\n3. Jos laite on jo korttisivulla, yritä \"irrottaa sen yhteys\" ja yritä uudelleen.\n4. Jos yllä olevat tilanteet on suljettu pois, voit lähettää käyttäjäpalautteen (lokitiedostoineen) sovelluksessa; palautteessa on oltava: ongelman kuvaus, laitteen rungossa olevien tietojen kuvat, yhteystiedot, loki.\n   Saatuaan palautteesi voimme nopeasti selvittää ongelmasi, ja asiakaspalvelutiimimme ottaa sinuun yhteyttä proaktiivisesti.\n2. Soutulaitteiden Kategoria\n1. Voit sammuttaa laitteen, odottaa 5 sekuntia ja käynnistää sen uudelleen.\n2. Yhteyden muodostamisen aikana laitteen on täytettävä seuraavat ehdot:\n   (1) Yhteyden muodostamisen aikana pidä soutuliike yllä.\n   (2) Varmista, että laite on päällä ja yhdistettävissä tilassa (Bluetooth-valo vilkkuu).\n   (3) Varmista, että puhelimesi on myöntänyt sovellukselle sijainti- ja Bluetooth-oikeudet ja että Bluetooth pysyy aina päällä.\n3. Jos yllä olevat tilanteet on suljettu pois, voit lähettää käyttäjäpalautteen (lokitiedostoineen) sovelluksessa; palautteessa on oltava: ongelman kuvaus, laitteen rungossa olevien tietojen kuvat, yhteystiedot, loki.\n   Saatuaan palautteesi voimme nopeasti selvittää ongelmasi, ja asiakaspalvelutiimimme ottaa sinuun yhteyttä proaktiivisesti.\n3. Käsipainojen Kategoria\n1. Yhteyden muodostamisen aikana laitteen on täytettävä seuraavat ehdot:\n   (1) Yhteyden muodostamisen aikana pidä käsipainojen heilutusliike yllä.\n   (2) Varmista, että laite on päällä ja yhdistettävissä tilassa (Bluetooth-valo vilkkuu).\n   (3) Varmista, että puhelimesi on myöntänyt sovellukselle sijainti- ja Bluetooth-oikeudet ja että Bluetooth pysyy aina päällä.\n2. Jos yllä olevat tilanteet on suljettu pois, voit lähettää käyttäjäpalautteen (lokitiedostoineen) sovelluksessa; palautteessa on oltava: ongelman kuvaus, laitteen rungossa olevien tietojen kuvat, yhteystiedot, loki.\n   Saatuaan palautteesi voimme nopeasti selvittää ongelmasi, ja asiakaspalvelutiimimme ottaa sinuun yhteyttä proaktiivisesti.\n4. Pyörien Kategoria\n1. Voit sammuttaa laitteen, odottaa 5 sekuntia ja käynnistää sen uudelleen.\n2. Yhteyden muodostamisen aikana laitteen on täytettävä seuraavat ehdot:\n   (1) Yhteyden muodostamisen aikana jatka pyörän polkemista.\n   (2) Varmista, että laite on päällä ja yhdistettävissä tilassa (Bluetooth-valo vilkkuu).\n   (3) Varmista, että puhelimesi on myöntänyt sovellukselle sijainti- ja Bluetooth-oikeudet ja että Bluetooth pysyy aina päällä.\n3. Jos yllä olevat tilanteet on suljettu pois, voit lähettää käyttäjäpalautteen (lokitiedostoineen) sovelluksessa; palautteessa on oltava: ongelman kuvaus, laitteen rungossa olevien tietojen kuvat, yhteystiedot, loki.\n   Saatuaan palautteesi voimme nopeasti selvittää ongelmasi, ja asiakaspalvelutiimimme ottaa sinuun yhteyttä proaktiivisesti."
+                }
+            ]
+        }
+    ]
+}

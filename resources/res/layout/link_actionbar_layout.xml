@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ui_nav_bar_height">
+    <LinearLayout style="@style/ui__navigationBar">
+        <TextView
+            android:id="@+id/ui_nav_bar_nav_back"
+            android:contentDescription="@string/ui_navigation_bar_desc_back"
+            style="@style/ui__navigationBar_NavigationBack"/>
+        <FrameLayout
+            android:id="@+id/ui_nav_bar_content_view"
+            style="@style/ui__navigationBar_ContentView"/>
+        <LinearLayout
+            android:id="@+id/ui_nav_bar_menu_view"
+            style="@style/ui__navigationBar_MenuView"/>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/ui_nav_bar_divider"
+        android:contentDescription="@string/ui_navigation_bar_divider"
+        style="@style/ui__navigationBar_divider"/>
+</merge>

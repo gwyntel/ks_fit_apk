@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:id="@+id/aliuser_appbar"
+    android:paddingTop="@dimen/ali_sdk_openaccount_status_bar_height"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:elevation="0dp">
+    <com.alibaba.sdk.android.openaccount.ui.widget.OaToolbar
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        android:id="@+id/ali_user_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:layout_collapseMode="pin"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <TextView
+            android:textColor="@color/ali_sdk_openaccount_tick_tock"
+            android:layout_gravity="right"
+            android:id="@+id/tick_tock"
+            android:paddingRight="40dp"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clock"/>
+    </com.alibaba.sdk.android.openaccount.ui.widget.OaToolbar>
+</com.google.android.material.appbar.AppBarLayout>

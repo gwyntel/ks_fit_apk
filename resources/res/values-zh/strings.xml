@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jsbridge_core_error_message_internal_error">Bridge执行错误</string>
+    <string name="jsbridge_core_error_message_method_not_implemented">未实现该方法</string>
+    <string name="jsbridge_core_error_message_no_handler">未能找到该服务</string>
+    <string name="jsbridge_core_error_message_runtime_error">方法调用时异常</string>
+    <string name="scankit_confirm">确认</string>
+    <string name="scankit_light">轻触照亮</string>
+    <string name="scankit_light_off">轻触关闭</string>
+    <string name="scankit_no_code_tip">图中未发现码</string>
+    <string name="scankit_scan_tip">将码放入取景框，即可自动扫描</string>
+    <string name="scankit_talkback_back">返回</string>
+    <string name="scankit_talkback_photo">图库</string>
+    <string name="scankit_title">扫码</string>
+    <string name="ucrop_crop">裁剪</string>
+    <string name="ucrop_label_edit_photo">裁剪</string>
+    <string name="ucrop_label_original">原始比例</string>
+    <string name="ucrop_menu_crop">裁剪</string>
+    <string name="ucrop_rotate">旋转</string>
+    <string name="ucrop_scale">缩放</string>
+</resources>

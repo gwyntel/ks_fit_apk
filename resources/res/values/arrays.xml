@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arr_publication_resolution">
+        <item>100 milliseconds</item>
+        <item>1 second</item>
+        <item>10 seconds</item>
+        <item>10 minutes</item>
+    </array>
+</resources>

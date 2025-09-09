@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/dialog_progress_back"
+    android:layout_width="112dp"
+    android:layout_height="112dp">
+    <com.aliyun.iot.link.ui.component.progress_dialog.BGAProgressBar
+        android:id="@+id/bga_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:bga_pb_isCapRounded="false"
+        app:bga_pb_mode="circle"
+        app:bga_pb_radius="22dp"
+        app:bga_pb_reachedColor="#0079ff"
+        app:bga_pb_reachedHeight="2dp"
+        app:bga_pb_textColor="#0079ff"
+        app:bga_pb_textSize="14sp"
+        app:bga_pb_unReachedColor="#ebebeb"
+        app:bga_pb_unReachedHeight="2dp"
+        style="@android:style/Widget.ProgressBar.Horizontal"/>
+</RelativeLayout>

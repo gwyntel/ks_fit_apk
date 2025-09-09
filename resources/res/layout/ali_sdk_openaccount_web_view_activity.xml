@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:user="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/ali_sdk_openaccount_status_bar_height"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.alibaba.sdk.android.openaccount.ui.widget.OaToolbar
+        android:id="@+id/ali_sdk_openaccount_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"/>
+</LinearLayout>

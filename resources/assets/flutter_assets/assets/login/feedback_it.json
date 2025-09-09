@@ -1,0 +1,71 @@
+{
+    "login": [{
+        "groupTitle": "",
+        "children": [
+            {
+                "title": "Recupero della password di accesso",
+                "subtitle": "Password dimenticata, può essere reimpostata",
+                "detail": "Percorso per reimpostare la password:\nNella pagina di accesso, trova l'opzione «Password dimenticata», accedi alla pagina di reimpostazione della password, inserisci l'indirizzo email e clicca sul pulsante «Invia email». KS Fit invierà un'email per reimpostare la password all'indirizzo indicato. Segui le istruzioni nell'email per completare la reimpostazione della password."
+            },
+            {
+                "title": "Email non funzionante",
+                "subtitle": "Email originale errata, bisogna cambiare l'email",
+                "detail": "Cambia tempestivamente l'indirizzo email associato a KS Fit. Percorso per cambiare l'email:\nAccount e sicurezza_Cambia email associata, segui le istruzioni sulla pagina.\nSe il problema persiste, ti consigliamo di inviare un feedback o contattare il servizio clienti KS Fit per risolvere il problema."
+            },
+            {
+                "title": "Non ricevi le email inviate da KS Fit",
+                "subtitle": "",
+                "detail": "Prova a cercarle nella cartella spam, poiché alcune email potrebbero essere classificate erroneamente come spam. Se il problema persiste, puoi inviare un feedback o contattarci all'indirizzo kingsmithfitness@gmail.com."
+            }
+        ]
+    },
+        {
+            "groupTitle": "Domande frequenti",
+            "children": [
+
+                {
+                    "title": "Come registrare un account KS Fit",
+                    "subtitle": "",
+                    "detail": "KS Fit supporta la registrazione solo tramite email.\n\nPassaggi specifici per la registrazione:\nAccedi a KS Fit, trova l'opzione «Registrati» nella pagina di accesso, cliccaci sopra per accedere alla pagina di registrazione, inserisci l'email e imposta una password per completare la registrazione."
+                },
+                {
+                    "title": "Come collegare/scollegare un account di terze parti",
+                    "subtitle": "",
+                    "detail": "1.Puoi accedere normalmente:\nDopo aver effettuato l'accesso con successo, vai a «Io_Impostazioni_Account e sicurezza» per collegare/scollegare l'account Google/Apple. \n\n2.Non puoi accedere:\nClicca su «Recupera account» nella pagina precedente, trova il tuo account, accedi con successo e poi segui i passaggi sopra indicati."
+                },
+                {
+                    "title": "Come eliminare un account",
+                    "subtitle": "",
+                    "detail": "Dopo aver effettuato l'accesso con successo, vai a «Io_Impostazioni_Account e sicurezza» per eliminare il tuo account."
+                }
+
+            ]
+        }],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Cosa fare se il dispositivo non viene trovato?",
+                    "subtitle": "",
+                    "detail": "1. Puoi spegnere il dispositivo e attendere 5 secondi prima di provare ad accenderlo di nuovo.\n2. Durante la ricerca:\n(1) Verifica che il dispositivo sia acceso e in modalità di attesa della connessione (la luce Bluetooth lampeggia) e che sia sufficientemente vicino a te.\n(2) Se il dispositivo non è in modalità di attesa della connessione e non sai chi lo ha connesso, puoi provare a resettare il dispositivo (o spegnerlo se non c'è una funzione di reset) e cercare di nuovo.\n(3) Verifica che l'app abbia ottenuto: autorizzazione di posizione, autorizzazione per la ricerca di dispositivi vicini; Percorso delle impostazioni: Impostazioni - Gestione delle applicazioni - KS Fit - Gestione autorizzazioni - Imposta questi permessi nello stato consentito\n(4) Se il tuo dispositivo è una macchina per remare, tira la maniglia per svegliare la macchina per remare e mantieni lo schermo acceso durante la ricerca.\n(5) Se il tuo dispositivo è una bicicletta statica, pedala la bicicletta fino a quando la luce Bluetooth lampeggia durante la ricerca.\n(6) Se il tuo dispositivo è una maniglia intelligente, scuoti o tocca il pannello per svegliare la maniglia durante la ricerca.\n(8) Se stai usando un telefono Android, accendi il Bluetooth, cerca dispositivi Bluetooth vicini e verifica se il tuo dispositivo è elencato nella lista dei dispositivi Bluetooth vicini; devi anche controllare se il dispositivo è nella lista dei \"dispositivi accoppiati\", se lo è, annulla l'accoppiamento.\nSe stai usando un telefono iOS, scarica l'app \"nRF Connect\", apri questa app e verifica se il tuo dispositivo è elencato nella categoria dei dispositivi Bluetooth vicini,\nSe il tuo dispositivo non è elencato nella lista dei dispositivi Bluetooth vicini, potrebbe esserci un problema con il tuo attrezzo, puoi contattare il servizio clienti per una soluzione.\n3. Se hai escluso le situazioni sopra, puoi inviare un feedback utente (con log) sull'app, il contenuto del feedback deve includere i seguenti elementi: descrizione del problema, foto delle informazioni sul dispositivo sul corpo del dispositivo, informazioni di contatto, log.\nDopo aver ricevuto il tuo feedback, possiamo identificare rapidamente il tuo problema, e il personale del servizio clienti ti contatterà attivamente dopo aver ricevuto il feedback."
+                },
+                {
+                    "title": "Come aggiungere un dispositivo?",
+                    "subtitle": "",
+                    "detail": "1. Collega il tuo dispositivo alla corrente e accendilo.\n2. Apri l'app KS Fit, vai alla pagina \"Attività\" e clicca sul \"+\" in alto a destra per entrare nella pagina \"Aggiungi dispositivo\".\n3. Una volta nella pagina \"Aggiungi dispositivo\", verrà avviata automaticamente una ricerca dei dispositivi, che durerà 30 secondi.\n4. Trova il tuo dispositivo nell'elenco dei risultati della ricerca e clicca su \"Connetti\" per stabilire la connessione.\nAssicurati che il dispositivo sia collegato alla corrente e sia sufficientemente vicino a te durante la ricerca."
+                },
+                {
+                    "title": "Cosa fare se non si conosce il nome del proprio dispositivo?",
+                    "subtitle": "",
+                    "detail": "Il nome del dispositivo visualizzato nell'app potrebbe non corrispondere a quello sul manuale del dispositivo.\nSe non trovi il dispositivo con quel nome nella pagina「Aggiungi dispositivo」, puoi provare a collegarti a un altro dispositivo visualizzato nei risultati della ricerca.\nSe il problema persiste, contatta il supporto clienti."
+                },
+                {
+                    "title": "Cosa fare se il collegamento del dispositivo ha esito negativo?",
+                    "subtitle": "",
+                    "detail": "Consulta la soluzione corrispondente in base al tipo di dispositivo:\n1. Categoria Tapis Roulant/Macchine da Passeggio:\n1. Puoi spegnere il dispositivo, attendere 5 secondi e riaccenderlo.\n2. Durante la connessione, il dispositivo deve soddisfare le seguenti condizioni:\n   (1) Assicurati che il dispositivo sia acceso e in uno stato collegabile (la luce Bluetooth lampeggia) e che sia abbastanza vicino a te.\n   (2) Assicurati che il tuo telefono abbia concesso all'app i permessi per la posizione e il Bluetooth e che il Bluetooth rimanga sempre attivo.\n3. Se il dispositivo è già presente nella pagina della scheda, prova a “scollegarlo” e riprova.\n4. Se le situazioni sopra indicate sono state escluse, puoi inviare un feedback utente (con log) tramite l'app; il feedback deve includere: descrizione del problema, foto delle informazioni sul dispositivo presenti sul corpo del dispositivo, dettagli di contatto, log.\n   Dopo aver ricevuto il tuo feedback, possiamo identificare rapidamente il tuo problema e il nostro team di assistenza clienti ti contatterà proattivamente.\n2. Categoria Macchine da Remo\n1. Puoi spegnere il dispositivo, attendere 5 secondi e riaccenderlo.\n2. Durante la connessione, il dispositivo deve soddisfare le seguenti condizioni:\n   (1) Durante il processo di connessione, mantieni il movimento di remata.\n   (2) Assicurati che il dispositivo sia acceso e in uno stato collegabile (la luce Bluetooth lampeggia).\n   (3) Assicurati che il tuo telefono abbia concesso all'app i permessi per la posizione e il Bluetooth e che il Bluetooth rimanga sempre attivo.\n3. Se le situazioni sopra indicate sono state escluse, puoi inviare un feedback utente (con log) tramite l'app; il feedback deve includere: descrizione del problema, foto delle informazioni sul dispositivo presenti sul corpo del dispositivo, dettagli di contatto, log.\n   Dopo aver ricevuto il tuo feedback, possiamo identificare rapidamente il tuo problema e il nostro team di assistenza clienti ti contatterà proattivamente.\n3. Categoria Manubri\n1. Durante la connessione, il dispositivo deve soddisfare le seguenti condizioni:\n   (1) Durante il processo di connessione, mantieni il movimento oscillatorio dei manubri.\n   (2) Assicurati che il dispositivo sia acceso e in uno stato collegabile (la luce Bluetooth lampeggia).\n   (3) Assicurati che il tuo telefono abbia concesso all'app i permessi per la posizione e il Bluetooth e che il Bluetooth rimanga sempre attivo.\n2. Se le situazioni sopra indicate sono state escluse, puoi inviare un feedback utente (con log) tramite l'app; il feedback deve includere: descrizione del problema, foto delle informazioni sul dispositivo presenti sul corpo del dispositivo, dettagli di contatto, log.\n   Dopo aver ricevuto il tuo feedback, possiamo identificare rapidamente il tuo problema e il nostro team di assistenza clienti ti contatterà proattivamente.\n4. Categoria Biciclette\n1. Puoi spegnere il dispositivo, attendere 5 secondi e riaccenderlo.\n2. Durante la connessione, il dispositivo deve soddisfare le seguenti condizioni:\n   (1) Durante il processo di connessione, continua a pedalare sulla bicicletta.\n   (2) Assicurati che il dispositivo sia acceso e in uno stato collegabile (la luce Bluetooth lampeggia).\n   (3) Assicurati che il tuo telefono abbia concesso all'app i permessi per la posizione e il Bluetooth e che il Bluetooth rimanga sempre attivo.\n3. Se le situazioni sopra indicate sono state escluse, puoi inviare un feedback utente (con log) tramite l'app; il feedback deve includere: descrizione del problema, foto delle informazioni sul dispositivo presenti sul corpo del dispositivo, dettagli di contatto, log.\n   Dopo aver ricevuto il tuo feedback, possiamo identificare rapidamente il tuo problema e il nostro team di assistenza clienti ti contatterà proattivamente."
+                }
+            ]
+        }
+    ]
+}

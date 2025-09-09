@@ -1,0 +1,71 @@
+{
+    "login": [{
+        "groupTitle": "",
+        "children": [
+            {
+                "title": "Återställning av inloggningslösenord",
+                "subtitle": "Glömt lösenord, kan återställas",
+                "detail": "Väg för att återställa lösenord:\nPå inloggningssidan hittar du knappen «Glömt lösenord», gå till sidan för att återställa lösenordet, skriv in din e-postadress och klicka på knappen «Skicka e-post». KS Fit kommer att skicka ett e-postmeddelande för att återställa lösenordet till den angivna e-postadressen, följ instruktionerna i e-postmeddelandet för att återställa lösenordet."
+            },
+            {
+                "title": "E-post fungerar inte",
+                "subtitle": "Original e-postfel, e-post måste ändras",
+                "detail": "Byt snabbt ut den bindade e-postadressen i KS Fit. Väg för att byta e-post:\nKontoinställningar och säkerhet_Byt bindad e-post, följ instruktionerna på sidan.\nOm problemet fortfarande inte är löst rekommenderar vi att du skickar en återkoppling eller kontaktar KS Fits kundtjänst för att lösa problemet."
+            },
+            {
+                "title": "Kan inte ta emot e-post från KS Fit",
+                "subtitle": "",
+                "detail": "Försök att söka i skräppostmappen, det kan hända att vissa e-posttjänster felaktigt har klassificerat det som skräppost. Om problemet fortfarande inte är löst kan du skicka en återkoppling eller kontakta oss på kingsmithfitness@gmail.com."
+            }
+        ]
+    },
+        {
+            "groupTitle": "Vanliga frågor",
+            "children": [
+
+                {
+                    "title": "Hur man registrerar ett KS Fit-konto",
+                    "subtitle": "",
+                    "detail": "KS Fit stöder endast registrering via e-post.\n\nSpecifika steg för registrering:\nGå till KS Fit, hitta knappen «Registrera» på inloggningssidan, klicka på den för att gå till registreringssidan, ange din e-postadress och skapa ett lösenord för att slutföra registreringen."
+                },
+                {
+                    "title": "Hur man binder/byter tredjeparts konto",
+                    "subtitle": "",
+                    "detail": "1.Kan logga in normalt:\nEfter att ha loggat in framgångsrikt kan du gå till «Jag_Inställningar_Konto och säkerhet» för att binda/byta Google/Apple-konto.\n\n2.Kan inte logga in:\nKlicka på «Hämta konto» på föregående sida, hitta ditt konto, logga in framgångsrikt och följ sedan ovanstående steg."
+                },
+                {
+                    "title": "Hur man raderar sitt konto",
+                    "subtitle": "",
+                    "detail": "Efter att ha loggat in framgångsrikt kan du gå till «Jag_Inställningar_Konto och säkerhet» för att radera ditt konto."
+                }
+
+            ]
+        }],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Vad gör man om enheten inte hittas?",
+                    "subtitle": "",
+                    "detail": "1. Stäng av enheten, vänta i 5 sekunder och slå på den igen.\n2. När du söker:\n(1) Kontrollera att enheten är påslagen och i anslutningsvänteläge (bluetooth-ljuset blinkar) och att den är tillräckligt nära.\n(2) Om enheten inte är i anslutningsvänteläge och du inte vet vem som anslöt den, kan du försöka återställa enheten (eller stänga av den om det inte finns någon återställningsfunktion) och söka igen.\n(3) Kontrollera att appen har fått följande behörigheter: platsinformation, sök efter närliggande enheter; inställningsväg: Inställningar - Apphantering - KS Fit - Behörighetsadministration - Ställ in dessa behörigheter som tillåtna\n(4) Om din enhet är en rovare, dra i handtaget för att väcka rovaren och behåll skärmen påslagen under sökningen.\n(5) Om din enhet är en cykel, tramp på cykeln tills bluetooth-ljuset blinkar under sökningen.\n(6) Om din enhet är en smart dumbbell, skaka eller tryck på panelen för att väcka dumbellen under sökningen.\n(8) Om du använder en androidtelefon, aktivera bluetooth, sök efter närliggande bluetoothenheter och kontrollera om din enhet visas i listan över närliggande bluetoothenheter; du måste också kontrollera om enheten finns i listan över \"parade enheter\", om så är fallet, avbryt parningen.\nOm du använder en iOS-telefon, ladda ner \"nRF Connect\" APP, öppna appen och kontrollera om din enhet visas i kategorin närliggande bluetoothenheter,\nOm din enhet inte visas i listan över närliggande bluetoothenheter, kan det finnas ett problem med din utrustning, och du kan kontakta kundtjänst för att lösa problemet.\n3. Om ovanstående situationer har uteslutits, kan du skicka användarfeedback (med logg) i appen. Feedbackinnehållet måste inkludera följande punkter: problembeskrivning, foto av enhetsinformation på enhetskroppen, kontaktinformation, logg.\nEfter att ha mottagit din feedback kan vi snabbt identifiera ditt problem, och kundtjänstpersonalen kommer också att kontakta dig aktivt efter att ha mottagit feedbacken."
+                },
+                {
+                    "title": "Hur lägger jag till ett device?",
+                    "subtitle": "",
+                    "detail": "1. Anslut din enhet till strömkällan och slå på den.\n2. Öppna KS Fit-appen, gå till sidan「Träning」, klicka på「+」i övre högra hörnet för att komma till sidan「Lägg till enhet」.\n3. När du är på sidan「Lägg till enhet」, kommer appen att börja söka efter enheter automatiskt, i 30 sekunders tid.\n4. Hitta din enhet i sökresultaten och klicka på「Anslut」för att etablera förbindelsen.\nSe till att din enhet är påslagen och inom nära höljd under sökningen."
+                },
+                {
+                    "title": "Vad gör man om man inte känner till namnet på sin enhet?",
+                    "subtitle": "",
+                    "detail": "Enhetsnamnet som visas i appen kan skilja sig från det i enhetsmanualen.\nOm du inte hittar enheten med det namnet på sidan「Lägg till enhet」kan du försöka ansluta till en annan enhet som visas i sökresultaten.\nOm ditt problem inte är löst kontaktar du kundtjänst."
+                },
+                {
+                    "title": "Vad gör man om anslutningen till enheten misslyckas?",
+                    "subtitle": "",
+                    "detail": "Kontrollera den motsvarande lösningen baserat på din enhetstyp:\n1. Kategori Löpband/Gångmaskiner:\n1. Du kan stänga av enheten, vänta 5 sekunder och sedan slå på den igen.\n2. Vid anslutning måste enheten uppfylla följande villkor:\n   (1) Se till att enheten är påslagen och i anslutningsläge (Bluetooth-lampan blinkar) och att den är tillräckligt nära dig.\n   (2) Se till att din telefon har gett appen behörigheter för plats och Bluetooth och att Bluetooth alltid är påslaget.\n3. Om enheten redan finns på kortsidan, försök att “koppla bort den” och försök igen.\n4. Om ovanstående situationer har uteslutits kan du skicka in användarfeedback (med logg) i appen; feedbacken måste innehålla: problembeskrivning, bilder på enhetsinformationen på enhetens kropp, kontaktuppgifter, logg.\n   Efter att ha mottagit din feedback kan vi snabbt identifiera ditt problem, och vårt kundtjänstteam kommer att kontakta dig proaktivt.\n2. Kategori Roddmaskiner\n1. Du kan stänga av enheten, vänta 5 sekunder och sedan slå på den igen.\n2. Vid anslutning måste enheten uppfylla följande villkor:\n   (1) Under anslutningsprocessen, håll roddrörelsen igång.\n   (2) Se till att enheten är påslagen och i anslutningsläge (Bluetooth-lampan blinkar).\n   (3) Se till att din telefon har gett appen behörigheter för plats och Bluetooth och att Bluetooth alltid är påslaget.\n3. Om ovanstående situationer har uteslutits kan du skicka in användarfeedback (med logg) i appen; feedbacken måste innehålla: problembeskrivning, bilder på enhetsinformationen på enhetens kropp, kontaktuppgifter, logg.\n   Efter att ha mottagit din feedback kan vi snabbt identifiera ditt problem, och vårt kundtjänstteam kommer att kontakta dig proaktivt.\n3. Kategori Hantlar\n1. Vid anslutning måste enheten uppfylla följande villkor:\n   (1) Under anslutningsprocessen, håll hantlarnas svängrörelse igång.\n   (2) Se till att enheten är påslagen och i anslutningsläge (Bluetooth-lampan blinkar).\n   (3) Se till att din telefon har gett appen behörigheter för plats och Bluetooth och att Bluetooth alltid är påslaget.\n2. Om ovanstående situationer har uteslutits kan du skicka in användarfeedback (med logg) i appen; feedbacken måste innehålla: problembeskrivning, bilder på enhetsinformationen på enhetens kropp, kontaktuppgifter, logg.\n   Efter att ha mottagit din feedback kan vi snabbt identifiera ditt problem, och vårt kundtjänstteam kommer att kontakta dig proaktivt.\n4. Kategori Cyklar\n1. Du kan stänga av enheten, vänta 5 sekunder och sedan slå på den igen.\n2. Vid anslutning måste enheten uppfylla följande villkor:\n   (1) Under anslutningsprocessen, fortsätt att trampa på cykeln.\n   (2) Se till att enheten är påslagen och i anslutningsläge (Bluetooth-lampan blinkar).\n   (3) Se till att din telefon har gett appen behörigheter för plats och Bluetooth och att Bluetooth alltid är påslaget.\n3. Om ovanstående situationer har uteslutits kan du skicka in användarfeedback (med logg) i appen; feedbacken måste innehålla: problembeskrivning, bilder på enhetsinformationen på enhetens kropp, kontaktuppgifter, logg.\n   Efter att ha mottagit din feedback kan vi snabbt identifiera ditt problem, och vårt kundtjänstteam kommer att kontakta dig proaktivt."
+                }
+            ]
+        }
+    ]
+}

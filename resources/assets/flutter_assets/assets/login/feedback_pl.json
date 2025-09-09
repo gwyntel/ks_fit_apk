@@ -1,0 +1,71 @@
+{
+    "login": [{
+        "groupTitle": "",
+        "children": [
+            {
+                "title": "Odzyskiwanie hasła do logowania",
+                "subtitle": "Zapomniałeś hasła, można je zresetować",
+                "detail": "Ścieżka resetowania hasła:\nNa stronie logowania znajdź opcję „Zapomniałeś hasła”, przejdź na stronę resetowania hasła, wprowadź adres e-mail i kliknij przycisk „Wyślij e-mail”. KS Fit wyśle wiadomość e-mail do resetowania hasła na podany adres. Postępuj zgodnie z instrukcjami zawartymi w wiadomości, aby zresetować hasło."
+            },
+            {
+                "title": "E-mail nie działa",
+                "subtitle": "Błędny adres e-mail, należy go zmienić",
+                "detail": "Zmień powiązany z KS Fit adres e-mail na nowy. Ścieżka zmiany adresu e-mail:\nKonto i bezpieczeństwo_Zmień powiązany adres e-mail, postępuj zgodnie z instrukcjami na stronie.\nJeśli problem nadal występuje, zalecamy przesłanie opinii lub skontaktowanie się z obsługą klienta KS Fit w celu rozwiązania problemu."
+            },
+            {
+                "title": "Nie otrzymujesz wiadomości e-mail od KS Fit",
+                "subtitle": "",
+                "detail": "Spróbuj sprawdzić w folderze spamu, ponieważ niektóre usługi e-mail mogą błędnie klasyfikować je jako spam. Jeśli problem nadal występuje, możesz przesłać opinię lub skontaktować się z nami pod adresem kingsmithfitness@gmail.com."
+            }
+        ]
+    },
+        {
+            "groupTitle": "Często zadawane pytania",
+            "children": [
+
+                {
+                    "title": "Jak zarejestrować konto KS Fit",
+                    "subtitle": "",
+                    "detail": "KS Fit obsługuje rejestrację wyłącznie za pomocą adresu e-mail. \n\nSzczegółowe kroki rejestracji:\nWejdź do aplikacji KS Fit, na stronie logowania znajdź opcję „Rejestracja”, kliknij ją, aby przejść do strony rejestracji, wprowadź adres e-mail i ustaw hasło, aby zakończyć proces rejestracji."
+                },
+                {
+                    "title": "Jak powiązać/zmienić powiązanie konta zewnętrznego",
+                    "subtitle": "",
+                    "detail": "1.Możesz zalogować się normalnie:\nPo pomyślnym zalogowaniu przejdź do „Ja_Ustawienia_Konto i bezpieczeństwo”, aby powiązać/zmienić powiązanie z kontem Google/Apple.\n\n2.Nie możesz się zalogować:\nKliknij opcję „Odzyskaj konto” na poprzedniej stronie, znajdź swoje konto, zaloguj się pomyślnie, a następnie wykonaj powyższe kroki."
+                },
+                {
+                    "title": "Jak usunąć konto",
+                    "subtitle": "",
+                    "detail": "Po pomyślnym zalogowaniu przejdź do „Ja_Ustawienia_Konto i bezpieczeństwo”, aby usunąć swoje konto."
+                }
+
+            ]
+        }],
+    "addDevice": [
+        {
+            "groupTitle": "",
+            "children": [
+                {
+                    "title": "Co robić, jeśli urządzenie nie zostało znalezione?",
+                    "subtitle": "",
+                    "detail": "1. Wyłącz urządzenie, poczekaj 5 sekund, a następnie włącz je ponownie.\n2. Podczas wyszukiwania:\n(1) Upewnij się, że urządzenie jest włączone i znajduje się w trybie gotowości do łączenia (lampka Bluetooth miga), oraz że jest wystarczająco blisko.\n(2) Jeśli urządzenie nie jest w trybie gotowości do łączenia i nie wiesz, kto je połączył, możesz spróbować zresetować urządzenie (lub wyłączyć, jeśli nie ma funkcji resetowania) i spróbować wyszukać ponownie.\n(3) Upewnij się, że aplikacja uzyskała następujące uprawnienia: lokalizacja, wyszukiwanie urządzeń w pobliżu; ścieżka ustawień: Ustawienia - Zarządzanie aplikacjami - KS Fit - Zarządzanie uprawnieniami - Ustaw te uprawnienia jako zezwolenia\n(4) Jeśli twoje urządzenie jest wioślarium, podczas wyszukiwania ciągnij za uchwyt, aby obudzić wioślarium i utrzymaj ekran włączony.\n(5) Jeśli twoje urządzenie jest rowerem spinningowym, podczas wyszukiwania pedałuj, aż lampka Bluetooth zacznie migać.\n(6) Jeśli twoje urządzenie jest inteligentną hantelą, podczas wyszukiwania potrząśnij lub dotknij panelu, aby obudzić hantelę.\n(8) Jeśli korzystasz z telefonu Android, włącz Bluetooth, wyszukaj urządzeń Bluetooth w pobliżu i sprawdź, czy twoje urządzenie znajduje się na liście urządzeń Bluetooth w pobliżu. Musisz również sprawdzić, czy urządzenie znajduje się na liście \"połączonych urządzeń\", jeśli tak, odłącz je.\nJeśli korzystasz z telefonu iOS, pobierz aplikację \"nRF Connect\", otwórz ją i sprawdź, czy twoje urządzenie znajduje się w kategorii urządzeń Bluetooth w pobliżu.\nJeśli twoje urządzenie nie znajduje się na liście urządzeń Bluetooth w pobliżu, może to oznaczać, że urządzenie jest uszkodzone, możesz wtedy skontaktować się z obsługą klienta, aby rozwiązać problem.\n3. Jeśli wykluczono powyższe sytuacje, możesz wysłać informację zwrotną użytkownika (z dziennikiem) w aplikacji. Treść informacji zwrotnej musi zawierać następujące elementy: opis problemu, zdjęcie informacji o urządzeniu na jego obudowie, dane kontaktowe, dziennik.\nPo otrzymaniu twojej informacji zwrotnej, szybko zlokalizujemy twój problem, a personel obsługi klienta skontaktuje się z tobą po otrzymaniu informacji zwrotnej."
+                },
+                {
+                    "title": "Jak dodać urządzenie?",
+                    "subtitle": "",
+                    "detail": "1. Najpierw podłącz urządzenie do źródła zasilania i włącz je.\n2. Otwórz aplikację KS Fit, przejdź na stronę「Sport」, kliknij「+」w prawym górnym rogu, aby wejść na stronę「Dodaj urządzenie」.\n3. Po wejściu na stronę「Dodaj urządzenie」, aplikacja automatycznie rozpocznie wyszukiwanie urządzeń, trwające 30 sekund.\n4. Znajdź swoje urządzenie w wynikach wyszukiwania i kliknij「Połącz」, aby ustanowić połączenie.\nPodczas wyszukiwania upewnij się, że urządzenie jest prawidłowo zasilane i znajduje się w odpowiedniej bliskości."
+                },
+                {
+                    "title": "Co zrobić, jeśli nie znasz nazwy swojego urządzenia?",
+                    "subtitle": "",
+                    "detail": "Nazwa urządzenia wyświetlanej w aplikacji może nie odpowiadać nazwie w instrukcji urządzenia.\nJeśli na stronie「Dodaj urządzenie」nie znajdujesz urządzenia o takiej nazwie, możesz spróbować połączyć się z innym urządzeniem wyświetlonym w wynikach wyszukiwania.\nJeśli problem nie został rozwiązany, skontaktuj się z pomocą techniczną."
+                },
+                {
+                    "title": "Co zrobić, gdy połączenie z urządzeniem nie powiedzie się?",
+                    "subtitle": "",
+                    "detail": "Sprawdź odpowiednie rozwiązanie w zależności od typu urządzenia:\n1. Kategoria Bieżnie/Maszyny do Chodzenia:\n1. Możesz wyłączyć urządzenie, odczekać 5 sekund i włączyć je ponownie.\n2. Podczas łączenia urządzenie musi spełniać następujące warunki:\n   (1) Upewnij się, że urządzenie jest włączone i znajduje się w stanie gotowości do połączenia (lampka Bluetooth miga) oraz jest wystarczająco blisko ciebie.\n   (2) Upewnij się, że telefon udzielił aplikacji uprawnień do lokalizacji i Bluetooth, a Bluetooth pozostaje zawsze włączony.\n3. Jeśli urządzenie jest już widoczne na stronie karty, spróbuj je “odwiązać” i ponów próbę.\n4. Jeśli powyższe sytuacje zostały wykluczone, możesz przesłać opinię użytkownika (z logiem) za pośrednictwem aplikacji; opinia musi zawierać: opis problemu, zdjęcia informacji o urządzeniu znajdujących się na obudowie urządzenia, dane kontaktowe, log.\n   Po otrzymaniu Twojej opinii możemy szybko zlokalizować Twój problem, a nasz zespół obsługi klienta skontaktuje się z Tobą proaktywnie.\n2. Kategoria Maszyny Wioślarskie\n1. Możesz wyłączyć urządzenie, odczekać 5 sekund i włączyć je ponownie.\n2. Podczas łączenia urządzenie musi spełniać następujące warunki:\n   (1) Podczas procesu łączenia, utrzymuj ruch wiosłowania.\n   (2) Upewnij się, że urządzenie jest włączone i znajduje się w stanie gotowości do połączenia (lampka Bluetooth miga).\n   (3) Upewnij się, że telefon udzielił aplikacji uprawnień do lokalizacji i Bluetooth, a Bluetooth pozostaje zawsze włączony.\n3. Jeśli powyższe sytuacje zostały wykluczone, możesz przesłać opinię użytkownika (z logiem) za pośrednictwem aplikacji; opinia musi zawierać: opis problemu, zdjęcia informacji o urządzeniu znajdujących się na obudowie urządzenia, dane kontaktowe, log.\n   Po otrzymaniu Twojej opinii możemy szybko zlokalizować Twój problem, a nasz zespół obsługi klienta skontaktuje się z Tobą proaktywnie.\n3. Kategoria Hantle\n1. Podczas łączenia urządzenie musi spełniać następujące warunki:\n   (1) Podczas procesu łączenia, utrzymuj ruch kołysania hantlami.\n   (2) Upewnij się, że urządzenie jest włączone i znajduje się w stanie gotowości do połączenia (lampka Bluetooth miga).\n   (3) Upewnij się, że telefon udzielił aplikacji uprawnień do lokalizacji i Bluetooth, a Bluetooth pozostaje zawsze włączony.\n2. Jeśli powyższe sytuacje zostały wykluczone, możesz przesłać opinię użytkownika (z logiem) za pośrednictwem aplikacji; opinia musi zawierać: opis problemu, zdjęcia informacji o urządzeniu znajdujących się na obudowie urządzenia, dane kontaktowe, log.\n   Po otrzymaniu Twojej opinii możemy szybko zlokalizować Twój problem, a nasz zespół obsługi klienta skontaktuje się z Tobą proaktywnie.\n4. Kategoria Rowery\n1. Możesz wyłączyć urządzenie, odczekać 5 sekund i włączyć je ponownie.\n2. Podczas łączenia urządzenie musi spełniać następujące warunki:\n   (1) Podczas procesu łączenia, kontynuuj pedałowanie na rowerze.\n   (2) Upewnij się, że urządzenie jest włączone i znajduje się w stanie gotowości do połączenia (lampka Bluetooth miga).\n   (3) Upewnij się, że telefon udzielił aplikacji uprawnień do lokalizacji i Bluetooth, a Bluetooth pozostaje zawsze włączony.\n3. Jeśli powyższe sytuacje zostały wykluczone, możesz przesłać opinię użytkownika (z logiem) za pośrednictwem aplikacji; opinia musi zawierać: opis problemu, zdjęcia informacji o urządzeniu znajdujących się na obudowie urządzenia, dane kontaktowe, log.\n   Po otrzymaniu Twojej opinii możemy szybko zlokalizować Twój problem, a nasz zespół obsługi klienta skontaktuje się z Tobą proaktywnie."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+  "list": [
+    {
+      "leach_word": "Free Fit Bench",
+      "deviceType": "5",
+      "alias": "",
+      "productName": "Free-Fit Bench",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-25/16956100935367.png"
+    },
+    {
+      "leach_word": "FS-9B9EA2,KS-MD-BX26K,KS-MD-BX26W",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X26",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-03-28/17431406528310.png"
+    },
+    {
+      "leach_word": "FT216",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "FT216",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "Gymnas",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "GymnasX1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952918327483.png"
+    },
+    {
+      "leach_word": "Gymnas",
+      "deviceType": "0",
+      "alias": "GymnasX1",
+      "productName": "GymnasX1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952918327483.png"
+    },
+    {
+      "leach_word": "HM-J-01",
+      "deviceType": "6",
+      "alias": "",
+      "productName": "HMeteors",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-06-18/17186926015535.png"
+    },
+    {
+      "leach_word": "KingSmith",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K12",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924727208.png"
+    },
+    {
+      "leach_word": "KingSmith",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K15",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952926003552.png"
+    },
+    {
+      "leach_word": "KingSmith",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "T12F",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924042133.png"
+    },
+    {
+      "leach_word": "KingSmith",
+      "deviceType": "0",
+      "alias": "T11",
+      "productName": "T1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952925642326.png"
+    },
+    {
+      "leach_word": "KingSmith",
+      "deviceType": "0",
+      "alias": "TT-310",
+      "productName": "K15",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952926003552.png"
+    },
+    {
+      "leach_word": "KingSmith,FS-150139,KS-ZY-K15P",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K15 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927827564.png"
+    },
+    {
+      "leach_word": "KS-AP-C2,KS-RT-C2",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "KS-C2A",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-02-24/17403835052314.png"
+    },
+    {
+      "leach_word": "KS-AP-CA6",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "WalkingCase",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-AP-M1F",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "M1H",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953715944664.png"
+    },
+    {
+      "leach_word": "KS-AP-M1F",
+      "deviceType": "0",
+      "alias": "TRM1FUD",
+      "productName": "M1H",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953715944664.png"
+    },
+    {
+      "leach_word": "KS-AP-MC11",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MC11",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953504436009.png"
+    },
+    {
+      "leach_word": "KS-AP-R2E,KS-HD-R2E",
+      "deviceType": "0",
+      "alias": "R2",
+      "productName": "R2E",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-08-21/17557562912275.png"
+    },
+    {
+      "leach_word": "KS-AP-R3V",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MX3",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-11-11/17312873674792.png"
+    },
+    {
+      "leach_word": "KS-AP-RF3",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "R3 Just Walk",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-30/17249884072391.png"
+    },
+    {
+      "leach_word": "KS-AP-RF3,KS-HD-R3F",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "R3 Just Walk",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-30/17249884072391.png"
+    },
+    {
+      "leach_word": "KS-AP-RP3,KS-AP-RQ3",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R3 Hybrid/Hybrid +",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-30/17249883263884.png"
+    },
+    {
+      "leach_word": "KS-AP-RP3,KS-AP-RQ3,KS-HD-RP3,KS-HD-RQ3",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R3 Hybrid/Hybrid +",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-30/17249883263884.png"
+    },
+    {
+      "leach_word": "KS-AP-ZC3,KS-EW-ZC3,KS-HD-ZC3",
+      "deviceType": "1",
+      "alias": "WALK&WORK",
+      "productName": "Z3",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-06/17361339692447.png"
+    },
+    {
+      "leach_word": "KS-AP-ZD3",
+      "deviceType": "1",
+      "alias": "Z3 Pro",
+      "productName": "Z3 Hybrid/Hybrid+",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-06/17361337022059.png"
+    },
+    {
+      "leach_word": "KS-B12P,KS-STMK-BK12PF,KS-STMK-BKPF",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K12-PRO-bt",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916001422.png"
+    },
+    {
+      "leach_word": "KS-BLR1AA,KS-BLR1AC,KS-HCR1AA,KS-HCR1AC,KS-SC-BLR2C,KS-HC-BR2C",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953464414823.png"
+    },
+    {
+      "leach_word": "KS-BLR1AA,KS-BLR1AC,KS-HCR1AA,KS-HCR1AC,KS-SC-BLR2C,KS-HC-BR2C",
+      "deviceType": "0",
+      "alias": "R2 Pro S",
+      "productName": "R2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-01-30/17066038401228.png"
+    },
+    {
+      "leach_word": "KS-BLR1AA,KS-BLR1AC,KS-HCR1AA,KS-HCR1AC,KS-SC-BLR2C,KS-HC-BR2C",
+      "deviceType": "0",
+      "alias": "TT-239",
+      "productName": "R2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953464414823.png"
+    },
+    {
+      "leach_word": "KS-BLR1AA,KS-BLR1AC,KS-HCR1AA,KS-HCR1AC,KS-SC-BLR2C,KS-HC-BR2C,KS-SC-BR2G",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953464414823.png"
+    },
+    {
+      "leach_word": "KS-C2",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "KS-C2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919852627.png"
+    },
+    {
+      "leach_word": "KS-Dumbell,KS-Dumbell2",
+      "deviceType": "3",
+      "alias": "Smart Dumbbell",
+      "productName": "Smart Dumbbell",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953775895070.png"
+    },
+    {
+      "leach_word": "KS-F0,KS-F1,KingSmith",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "KS-F0",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916868197.png"
+    },
+    {
+      "leach_word": "KS-F0,KS-F1,KingSmith",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "KS-F1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916495691.png"
+    },
+    {
+      "leach_word": "KS-F0,KS-F1,KingSmith",
+      "deviceType": "0",
+      "alias": "KS-F1",
+      "productName": "KS-F1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916495691.png"
+    },
+    {
+      "leach_word": "KS-F0,KS-F1,KingSmith",
+      "deviceType": "0",
+      "alias": "TT-252",
+      "productName": "KS-F1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916495691.png"
+    },
+    {
+      "leach_word": "KS-H1",
+      "deviceType": "2",
+      "alias": "Spinning bike",
+      "productName": "Spinning bike",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952918614875.png"
+    },
+    {
+      "leach_word": "KS-HD-A1P",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "A1PRO_erp",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-HD-G1C",
+      "deviceType": "0",
+      "alias": "G1MKS",
+      "productName": "测试专用",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-HD-MX10",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MX10",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-07-28/17536951992958.png"
+    },
+    {
+      "leach_word": "KS-HD-MX8",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MX8",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-HD-P1E",
+      "deviceType": "1",
+      "alias": "",
+      "productName": null,
+      "deviceImg": null
+    },
+    {
+      "leach_word": "KS-HD-Z1,KS-MD-Z1H,KS-HD-Z1D",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953679756070.png"
+    },
+    {
+      "leach_word": "KS-HD-Z1,KS-MD-Z1H,KS-HD-Z1D,KS-HD-Z1E,KS-EW-Z1",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953679756070.png"
+    },
+    {
+      "leach_word": "KS-HD-Z1A,KS-HD-MXA",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "Z1D",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-HD-Z1P",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z1P",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-07-16/17211199287269.png"
+    },
+    {
+      "leach_word": "KS-HD-Z1U",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "Z1R",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-07-07/17518770132276.png"
+    },
+    {
+      "leach_word": "KS-HD-ZF3,KS-AP-ZF3",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z3",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-06/17361339692447.png"
+    },
+    {
+      "leach_word": "KS-HD-ZF3,KS-AP-ZF3",
+      "deviceType": "1",
+      "alias": "Z3/WALK&WORK",
+      "productName": "Z3",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-06/17361339692447.png"
+    },
+    {
+      "leach_word": "KS-HD-ZF3,KS-AP-ZF3,KS-HD-ZC3,KS-EW-ZF3",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z3",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-05-29/17169514375134.png"
+    },
+    {
+      "leach_word": "KS-HD-ZP3,KS-AP-ZP3,KS-HD-ZQ3,KS-AP-ZQ3",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "Z3 Hybrid/Hybrid+",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-06/17361337022059.png"
+    },
+    {
+      "leach_word": "KS-HD-ZR6",
+      "deviceType": "1",
+      "alias": "Z1R",
+      "productName": "Z1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953679756070.png"
+    },
+    {
+      "leach_word": "KS-HDSC-X21C,KS-HDSY-X21C,KS-NACH-X21C",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X21",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953465861264.png"
+    },
+    {
+      "leach_word": "KS-HDSC-X21C,KS-HDSY-X21C,KS-NGCH-X21C",
+      "deviceType": "0",
+      "alias": "HT-318",
+      "productName": "X21",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953465861264.png"
+    },
+    {
+      "leach_word": "KS-HT-WR3L",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "WR3L",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-JD-BRW01",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "Rowing001",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-08-04/17542784509573.png"
+    },
+    {
+      "leach_word": "KS-JSD-B2",
+      "deviceType": "5",
+      "alias": "",
+      "productName": "B2",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-K20S",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K20S",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-06-24/17192207533299.png"
+    },
+    {
+      "leach_word": "KS-K20S,KS-PB001",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K20S",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-06-24/17192207533299.png"
+    },
+    {
+      "leach_word": "KS-K50S,FS-694A1C",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K50S",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-K9",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "KS-K9",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953506837017.png"
+    },
+    {
+      "leach_word": "KS-K9",
+      "deviceType": "0",
+      "alias": "K9",
+      "productName": "KS-K9",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953506837017.png"
+    },
+    {
+      "leach_word": "KS-MD-B08SK",
+      "deviceType": "2",
+      "alias": "",
+      "productName": "PB08S Sprint Bike",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-02-07/17388949127505.png"
+    },
+    {
+      "leach_word": "KS-MD-B08SK",
+      "deviceType": "2",
+      "alias": "PB08S Sprint Bike-White",
+      "productName": "PB08S Sprint Bike",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-21/17374390121631.png"
+    },
+    {
+      "leach_word": "KS-MD-B08SW",
+      "deviceType": "2",
+      "alias": "PB08S Sprint Bike-White",
+      "productName": "PB08S Sprint Bike",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-02-07/17388948851174.png"
+    },
+    {
+      "leach_word": "KS-MD-BX26K",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X26",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-03-28/17431405593309.png"
+    },
+    {
+      "leach_word": "KS-MD-BX26W",
+      "deviceType": "0",
+      "alias": "X26-White",
+      "productName": "X26",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-03-28/17431404016555.png"
+    },
+    {
+      "leach_word": "KS-NA-G2",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "G2",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-NACH-GPC,KS-NACH-G1E",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "G1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-10-27/16983928477788.png"
+    },
+    {
+      "leach_word": "KS-NACH-MXG",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MX16",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919675162.png"
+    },
+    {
+      "leach_word": "KS-NACH-MXG",
+      "deviceType": "0",
+      "alias": "HT-338",
+      "productName": "MX16",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919675162.png"
+    },
+    {
+      "leach_word": "KS-NACH-MXG",
+      "deviceType": "0",
+      "alias": "X23",
+      "productName": "MX16",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919675162.png"
+    },
+    {
+      "leach_word": "KS-NACH-MXG",
+      "deviceType": "0",
+      "alias": "X25",
+      "productName": "MX16",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919675162.png"
+    },
+    {
+      "leach_word": "KS-NACH-X18F3,KS-NG-X18F3,KS-NG-ELPO,KS-AP-X218,KS-NG-X18F5",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X218",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-23/17244011052607.png"
+    },
+    {
+      "leach_word": "KS-NACH-X18F3,KS-NG-X18F3,KS-NG-X18F5",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X218",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-08-23/17244011052607.png"
+    },
+    {
+      "leach_word": "KS-NACH-X55",
+      "deviceType": "0",
+      "alias": "X55",
+      "productName": "X218",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-22/17375136935236.png"
+    },
+    {
+      "leach_word": "KS-NG-ELPO",
+      "deviceType": "0",
+      "alias": "ELITE PRO",
+      "productName": "X218",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-03-27/17430617885898.png"
+    },
+    {
+      "leach_word": "KS-NG-X14E",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "X214",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-31/17303617261058.png"
+    },
+    {
+      "leach_word": "KS-NG-X16F1",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "MX16+",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-22/17295760635941.png"
+    },
+    {
+      "leach_word": "KS-NG-X16F1",
+      "deviceType": "0",
+      "alias": "X25 SE",
+      "productName": "MX16+",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-22/17295760635941.png"
+    },
+    {
+      "leach_word": "KS-NG-X16F1",
+      "deviceType": "0",
+      "alias": "X25+",
+      "productName": "MX16+",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-22/17295760635941.png"
+    },
+    {
+      "leach_word": "KS-NGCH-G1C,KS-NGCH-G1A",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "G1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952945488059.png"
+    },
+    {
+      "leach_word": "KS-NGCH-G1C,KS-NGCH-G1A",
+      "deviceType": "0",
+      "alias": "DENISE AUSTIN/G1plus",
+      "productName": "G1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952945488059.png"
+    },
+    {
+      "leach_word": "KS-NGCH-G1C,KS-NGCH-G1A",
+      "deviceType": "0",
+      "alias": "STH-3090",
+      "productName": "G1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952945488059.png"
+    },
+    {
+      "leach_word": "KS-NGCH-G1C,KS-NGCH-G1A",
+      "deviceType": "0",
+      "alias": "TT-240",
+      "productName": "G1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952945488059.png"
+    },
+    {
+      "leach_word": "KS-NGCH-G1C,KS-NGCH-G1A",
+      "deviceType": "0",
+      "alias": "WPPRO",
+      "productName": "G1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952945488059.png"
+    },
+    {
+      "leach_word": "KS-PB08S",
+      "deviceType": "2",
+      "alias": "KS-PB08S单车测试",
+      "productName": "PB08S Sprint Bike",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-02-07/17388949127505.png"
+    },
+    {
+      "leach_word": "KS-R1H-BCHC",
+      "deviceType": "0",
+      "alias": "ND2000",
+      "productName": "R1H",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953487019118.png"
+    },
+    {
+      "leach_word": "KS-R1S,R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A",
+      "deviceType": "0",
+      "alias": "R1S",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "KS-RS,KS-R1SC,KS-HC-R1ST,KS-HC-R1SC,KS-SC-R1SA,KS-SC-R1SC",
+      "deviceType": "0",
+      "alias": "R1S",
+      "productName": "KS-RS",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953729172693.png"
+    },
+    {
+      "leach_word": "KS-RS,KS-R1SC,KS-HC-R1ST,KS-HC-R1SC,KS-SC-R1SA,KS-SC-R1SC,KS-R1AC,KS-HC-R1AC",
+      "deviceType": "0",
+      "alias": "R1S",
+      "productName": "KS-RS",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953729172693.png"
+    },
+    {
+      "leach_word": "KS-S1",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "S1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952926449305.png"
+    },
+    {
+      "leach_word": "KS-S1,KS-BLC2,KS-BDC2",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "C2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952917823569.png"
+    },
+    {
+      "leach_word": "KS-S1,KS-BLC2,KS-BDC2",
+      "deviceType": "1",
+      "alias": "HT-235",
+      "productName": "C2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952917823569.png"
+    },
+    {
+      "leach_word": "KS-S1,KS-BLC2,KS-BDC2",
+      "deviceType": "1",
+      "alias": "S1",
+      "productName": "C2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952917823569.png"
+    },
+    {
+      "leach_word": "KS-SC-BR2G",
+      "deviceType": "0",
+      "alias": "R2 Hybrid+",
+      "productName": "R2",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-05-15/17472807416758.png"
+    },
+    {
+      "leach_word": "KS-SO-G15",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "G15",
+      "deviceImg": ""
+    },
+    {
+      "leach_word": "KS-SO-Z1",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Z1SE",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-02-04/17070173691304.png"
+    },
+    {
+      "leach_word": "KS-SO-Z1P",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "Z1Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-07-08/17204173112182.png"
+    },
+    {
+      "leach_word": "KS-SO-Z1P",
+      "deviceType": "0",
+      "alias": "Walking Station",
+      "productName": "Z1Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-07-08/17204173112182.png"
+    },
+    {
+      "leach_word": "KS-SO-Z1P",
+      "deviceType": "0",
+      "alias": "Z1 PRO HYBRID",
+      "productName": "Z1Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-07-08/17204173112182.png"
+    },
+    {
+      "leach_word": "KS-SO-Z1P",
+      "deviceType": "0",
+      "alias": "Z1Pro",
+      "productName": "Z1Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-07-08/17204173112182.png"
+    },
+    {
+      "leach_word": "KS-ST-A1P",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "A1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952925395359.png"
+    },
+    {
+      "leach_word": "KS-ST-A1P",
+      "deviceType": "1",
+      "alias": "A1 Plus",
+      "productName": "A1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924943016.png"
+    },
+    {
+      "leach_word": "KS-ST-A1P,WalkingPad",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "A1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924943016.png"
+    },
+    {
+      "leach_word": "KS-ST-A1P,WalkingPad",
+      "deviceType": "1",
+      "alias": "A1 PRO Pink Bloom",
+      "productName": "A1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-12-31/17356149926971.png"
+    },
+    {
+      "leach_word": "KS-ST-K12PRO",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "K12 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952928403528.png"
+    },
+    {
+      "leach_word": "KS-TM-BSS",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "Step Station",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-01-10/17364886422520.png"
+    },
+    {
+      "leach_word": "KS-TM-H1",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "H1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-07-21/17530617722199.png"
+    },
+    {
+      "leach_word": "KS-TM-H1Plus",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "H1Plus",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-05-06/17465106802646.png"
+    },
+    {
+      "leach_word": "KS-TM-MRB1",
+      "deviceType": "2",
+      "alias": "",
+      "productName": "MRB1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-05-07/17466053782333.png"
+    },
+    {
+      "leach_word": "KS-TM-MT1",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "MT1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-08-20/17556578851612.png"
+    },
+    {
+      "leach_word": "KS-TM-W1Plus",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "W1 PLUS",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2025-08-06/17544682679787.png"
+    },
+    {
+      "leach_word": "KS-TM-W1White,KS-TM-W1Pink,KS-TM-W1Black",
+      "deviceType": "1",
+      "alias": "",
+      "productName": null,
+      "deviceImg": null
+    },
+    {
+      "leach_word": "KS-WLT-W1",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "Rowing",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919353651.png"
+    },
+    {
+      "leach_word": "KS-WLT-W1,Boats",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "Rowing",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952919353651.png"
+    },
+    {
+      "leach_word": "KS-WLT-W20",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "WR20",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-21/17294949411673.png"
+    },
+    {
+      "leach_word": "KS-WM10",
+      "deviceType": "4",
+      "alias": "",
+      "productName": "WM10",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-10-21/17294949652833.png"
+    },
+    {
+      "leach_word": "ND1000,R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A",
+      "deviceType": "0",
+      "alias": "ND1000",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1",
+      "deviceType": "0",
+      "alias": "R1",
+      "productName": "R1 P",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952920746489.png"
+    },
+    {
+      "leach_word": "R1",
+      "deviceType": "0",
+      "alias": "R1",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A",
+      "deviceType": "0",
+      "alias": "R1S",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "",
+      "productName": "R1S",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-22/16953517639709.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "R1 Pro S",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2024-01-30/17065870591174.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "R1-H",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "RX WP-2",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "RX WP-2",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "STH 3050",
+      "productName": "R1 P",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952920746489.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "STH-3050",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "R1 Pro,RE,RH,KS-HCSY-BR1C,KS-SCST-BR1A,KS-HCSY-BR1A,KS-R1S",
+      "deviceType": "0",
+      "alias": "TT-238",
+      "productName": "R1 Pro",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952927094686.png"
+    },
+    {
+      "leach_word": "TT-250,KingSmith",
+      "deviceType": "0",
+      "alias": "TT-250",
+      "productName": "K12",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924727208.png"
+    },
+    {
+      "leach_word": "WalkingPad",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "C1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952924459169.png"
+    },
+    {
+      "leach_word": "WalkingPad",
+      "deviceType": "1",
+      "alias": "",
+      "productName": "P1",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952925222003.png"
+    },
+    {
+      "leach_word": "ZP-ZEALR1,KS-MC21,KS-SMC21C",
+      "deviceType": "0",
+      "alias": "FT-01",
+      "productName": "MC21-HUAWEI",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916239130.png"
+    },
+    {
+      "leach_word": "ZP-ZEALR1,KS-MC21,KS-SMC21C",
+      "deviceType": "0",
+      "alias": "MC21",
+      "productName": "MC21-HUAWEI",
+      "deviceImg": "https://cdn.awsde0.fds.api.mi-img.com/eu.api.ks.fit-live/admin/upload/2023-09-21/16952916239130.png"
+    }
+  ]
+}

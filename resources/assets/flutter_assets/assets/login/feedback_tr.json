@@ -1,0 +1,71 @@
+{
+  "login": [{
+    "groupTitle": "",
+    "children": [
+      {
+        "title": "Giriş Şifresini Kurtarma",
+        "subtitle": "Hesap şifrenizi hatırlamıyorsanız, şifrenizi sıfırlayabilirsiniz",
+        "detail": "Şifre Sıfırlama Adımları:\nGiriş sayfasında 'Şifremi Unuttum' seçeneğini bulun, şifre sıfırlama sayfasına gidin, e-posta adresinizi girdikten sonra 'E-posta Gönder' butonuna tıklayın. KS Fit, şifre sıfırlama bağlantısını bu e-posta adresine gönderecektir. E-postadaki talimatları takip ederek şifrenizi sıfırlayabilirsiniz."
+      },
+      {
+        "title": "E-posta kullanılamıyo",
+        "subtitle": "Eski e-posta adresinizdeki bir sorun nedeniyle giriş yapılamıyor, e-posta adresinizi değiştirmeniz gerekiyor",
+        "detail": "KS Fit bağlı e-posta adresinizi zamanında değiştirin. E-posta değiştirme adımları:\nHesap ve Güvenlik > Bağlı E-posta Adresini Değiştir yolunu izleyerek, sayfadaki talimatlara göre işlemi tamamlayabilirsiniz.\nHala çözüme ulaşamazsanız, sorun bildirimi göndermenizi veya KS Fit müşteri hizmetleriyle iletişime geçmenizi öneririz."
+      },
+      {
+        "title": "KS Fit tarafından gönderilen e-postaları alamıyorum",
+        "subtitle": "",
+        "detail": "E-postalarınızı spam (gereksiz) klasöründe kontrol edebilirsiniz. Bazı e-posta sağlayıcıları KS Fit e-postalarını yanlışlıkla spam olarak işaretleyebilir. Hala sorun devam ederse, sorun bildirimi gönderebilir veya bize kingsmithfitness@gmail.com adresinden ulaşabilirsiniz."
+      }
+    ]
+  },
+    {
+      "groupTitle": "Herkesin Sorduğu Sorular",
+      "children": [
+
+        {
+          "title": "KS Fit Hesabı Nasıl Oluşturulur",
+          "subtitle": "",
+          "detail": "KS Fit yalnızca e-posta adresiyle kayıt olmayı destekler.\n\nKayıt Adımları:\nKS Fit uygulamasına girdikten sonra, giriş sayfasında 'Kayıt Ol' seçeneğini bulun, tıkladıktan sonra kayıt sayfasına yönlendirileceksiniz. E-posta adresinizi ve şifrenizi girerek kaydınızı tamamlayabilirsiniz."
+        },
+        {
+          "title": "Üçüncü taraf hesaplar nasıl bağlanır veya değiştirilir",
+          "subtitle": "",
+          "detail": "1.Normal giriş yapabiliyorsanız:\nGiriş yaptıktan sonra 「Ben_Ayarlar_Hesap ve Güvenlik」 bölümüne giderek Google/Apple bağlantısını ekleyebilir veya değiştirebilirsiniz.\nNormal giriş yapamıyorsanız:\nBir önceki sayfadaki 「Hesabı Kurtar」 seçeneğine tıklayarak önce hesabınızı bulun, giriş yaptıktan sonra yukarıdaki işlemi gerçekleştirin."
+        },
+        {
+          "title": "Hesap nasıl silinir",
+          "subtitle": "",
+          "detail": "Giriş yaptıktan sonra 「Ben_Ayarlar_Hesap ve Güvenlik」 bölümüne giderek hesabınızı silebilirsiniz。"
+        }
+
+      ]
+    }],
+  "addDevice": [
+    {
+      "groupTitle": "",
+      "children": [
+        {
+          "title": "Uygulama bulunamadığında ne yapmalı?",
+          "subtitle": "",
+          "detail": "1. Cihazı kapatın, 5 saniye bekleyin ve tekrar açın.\n2. Arama sırasında:\n(1) Cihazın açık olduğunu ve bağlantı beklemesi modunda olduğunu (bluetooth ışığı yanıp sönen) ve yeterince yakın olduğunuzu kontrol edin.\n(2) Cihaz bağlantı beklemesi modunda değilse ve kimin bağladığını bilmiyorsanız, cihazı sıfırlamayı (sıfırlama seçeneği yoksa kapatın) deneyebilir ve tekrar arama yapabilirsiniz.\n(3) Uygulamanın aşağıdaki izinleri aldığını kontrol edin: konum, yakın cihazlar araması; ayarlar yolu: Ayarlar - Uygulama Yönetimi - KS Fit - İzin Yönetimi - Bu izinleri izin verilen olarak ayarlayın\n(4) Cihazınız bir kürek makinesiyse, kürek makinesini uykudan uyandırmak için kolu çekin ve arama sırasında ekranı açık tutun.\n(5) Cihazınız bir sporbisikletiyse, arama sırasında bisikletin pedalını çiğnemeye devam edin, böylece bluetooth ışığı yanıp sönecek.\n(6) Cihazınız bir akıllı ağırlık ise, arama sırasında ağırlığı sallayın veya paneli dokunun, böylece ağırlığı uykudan uyandırın.\n(8) Android telefonu kullanıyorsanız, bluetooth'u açın, yakın bluetooth cihazlarını arayın ve cihazınızın yakın bluetooth cihazlarının listesinde olduğunu kontrol edin; ayrıca cihazınızın \"bağlantılı cihazlar\" listesinde olup olmadığını kontrol etmelisiniz, eğer öyleyse, bağlantıyı kesin.\nEğer iOS telefonu kullanıyorsanız, \"nRF Connect\" uygulamasını indirin, uygulamayı açın ve cihazınızın yakın bluetooth kategorisinde olduğunu kontrol edin,\nCihazınız yakın bluetooth cihazlarının listesinde görünmüyorsa, cihazınızda bir sorun olabilir ve bu sorunu çözmek için müşteri hizmetleriyle iletişime geçebilirsiniz.\n3. Yukarıdaki durumlar dışındaki durumlarda, uygulamada kullanıcı geri bildirimi (günlük ile) gönderebilirsiniz. Geri bildirimin içeriği, aşağıdaki öğeleri içermelidir: sorun açıklaması, cihazın üzerindeki cihaz bilgilerinin fotoğrafı, iletişim bilgileri, günlük.\nGeri bildiriminizi aldıktan sonra, sorununuzu hızlı bir şekilde belirleyebileceğiz ve müşteri hizmetleri personeli de geri bildirimi aldıktan sonra sizinle aktif olarak iletişime geçecektir."
+        },
+        {
+          "title": "Bir cihaz Nasıl Eklenir?",
+          "subtitle": "",
+          "detail": "1. Öncelikle, cihazınızı güç kaynağına takın ve açın.\n2. KS Fit uygulamasını açın,「Egzersiz」sayfasına gidin, sağ üst köşedeki「+」yu tıklayarak「Cihaz Ekle」sayfasına girin.\n3.「Cihaz Ekle」sayfasına girdikten sonra, uygulama 30 saniye süreyle cihaz aramaya başlayacaktır.\n4. Arama sonuçlarında cihazınızı bulun ve「Bağlan」ı tıklayarak bağlantıyı kurun.\nArama sırasında cihazınızın güçlendirilmiş ve yeterince yakında olduğundan emin olun."
+        },
+        {
+          "title": "Kullanıcının cihaz adını bilmediği takdirde ne yapılmalıdır?",
+          "subtitle": "",
+          "detail": "Uygulamada görüntülenen cihaz adı, cihaz kilavuzundaki adıyla uyuşmayabilir.\n「Cihaz Ekle」sayfasında bu adıyla cihaz bulamazsanız, arama sonuçlarında görüntülenen başka bir cihaza bağlantı kurmaya çalışabilirsiniz.\nEğer sorunuz çözülememişse, lütfen müşteri hizmetleri ile iletişime geçin."
+        },
+        {
+          "title": "Cihaz bağlantısı başarısız olduğunda ne yapılır?",
+          "subtitle": "",
+          "detail": "Cihaz türünüze göre ilgili çözümü kontrol edin:\n1. Koşu Bandı/Yürüyüş Makinesi Kategorisi:\n1. Cihazı kapatabilir, 5 saniye bekleyebilir ve ardından tekrar açabilirsiniz.\n2. Bağlantı sırasında cihaz aşağıdaki koşulları sağlamalıdır:\n   (1) Cihazın açık olduğundan ve bağlanabilir durumda olduğundan (Bluetooth ışığı yanıp sönüyor) ve size yeterince yakın olduğundan emin olun.\n   (2) Telefonunuzun uygulamaya konum ve Bluetooth izinlerini verdiğinden ve Bluetooth’un her zaman açık olduğundan emin olun.\n3. Cihaz zaten kart sayfasında mevcutsa, “bağlantıyı kaldır” seçeneğini deneyin ve tekrar deneyin.\n4. Yukarıdaki durumlar hariç tutulduysa, uygulamada kullanıcı geri bildirimi (log ile birlikte) gönderebilirsiniz; geri bildirim şu bilgileri içermelidir: sorun açıklaması, cihaz gövdesindeki cihaz bilgilerinin fotoğrafları, iletişim bilgileri, log.\n   Geri bildiriminizi aldıktan sonra sorununuzu hızlıca tespit edebiliriz ve müşteri hizmetleri ekibimiz sizinle proaktif olarak iletişime geçecektir.\n2. Kürek Çekme Makinesi Kategorisi\n1. Cihazı kapatabilir, 5 saniye bekleyebilir ve ardından tekrar açabilirsiniz.\n2. Bağlantı sırasında cihaz aşağıdaki koşulları sağlamalıdır:\n   (1) Bağlantı sürecinde kürek çekme hareketini sürdürün.\n   (2) Cihazın açık olduğundan ve bağlanabilir durumda olduğundan (Bluetooth ışığı yanıp sönüyor) emin olun.\n   (3) Telefonunuzun uygulamaya konum ve Bluetooth izinlerini verdiğinden ve Bluetooth’un her zaman açık olduğundan emin olun.\n3. Yukarıdaki durumlar hariç tutulduysa, uygulamada kullanıcı geri bildirimi (log ile birlikte) gönderebilirsiniz; geri bildirim şu bilgileri içermelidir: sorun açıklaması, cihaz gövdesindeki cihaz bilgilerinin fotoğrafları, iletişim bilgileri, log.\n   Geri bildiriminizi aldıktan sonra sorununuzu hızlıca tespit edebiliriz ve müşteri hizmetleri ekibimiz sizinle proaktif olarak iletişime geçecektir.\n3. Dambıl Kategorisi\n1. Bağlantı sırasında cihaz aşağıdaki koşulları sağlamalıdır:\n   (1) Bağlantı sürecinde dambıllarla sallanma hareketini sürdürün.\n   (2) Cihazın açık olduğundan ve bağlanabilir durumda olduğundan (Bluetooth ışığı yanıp sönüyor) emin olun.\n   (3) Telefonunuzun uygulamaya konum ve Bluetooth izinlerini verdiğinden ve Bluetooth’un her zaman açık olduğundan emin olun.\n2. Yukarıdaki durumlar hariç tutulduysa, uygulamada kullanıcı geri bildirimi (log ile birlikte) gönderebilirsiniz; geri bildirim şu bilgileri içermelidir: sorun açıklaması, cihaz gövdesindeki cihaz bilgilerinin fotoğrafları, iletişim bilgileri, log.\n   Geri bildiriminizi aldıktan sonra sorununuzu hızlıca tespit edebiliriz ve müşteri hizmetleri ekibimiz sizinle proaktif olarak iletişime geçecektir.\n4. Bisiklet Kategorisi\n1. Cihazı kapatabilir, 5 saniye bekleyebilir ve ardından tekrar açabilirsiniz.\n2. Bağlantı sırasında cihaz aşağıdaki koşulları sağlamalıdır:\n   (1) Bağlantı sürecinde bisikleti pedal çevirmeye devam edin.\n   (2) Cihazın açık olduğundan ve bağlanabilir durumda olduğundan (Bluetooth ışığı yanıp sönüyor) emin olun.\n   (3) Telefonunuzun uygulamaya konum ve Bluetooth izinlerini verdiğinden ve Bluetooth’un her zaman açık olduğundan emin olun.\n3. Yukarıdaki durumlar hariç tutulduysa, uygulamada kullanıcı geri bildirimi (log ile birlikte) gönderebilirsiniz; geri bildirim şu bilgileri içermelidir: sorun açıklaması, cihaz gövdesindeki cihaz bilgilerinin fotoğrafları, iletişim bilgileri, log.\n   Geri bildiriminizi aldıktan sonra sorununuzu hızlıca tespit edebiliriz ve müşteri hizmetleri ekibimiz sizinle proaktif olarak iletişime geçecektir."
+        }
+      ]
+    }
+  ]
+}

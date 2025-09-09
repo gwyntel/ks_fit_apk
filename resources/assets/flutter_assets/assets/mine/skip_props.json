@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "id": "0001",
+      "name": "棒棒糖",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/bangbangtang.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0002",
+      "name": "卷饼",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/jvanbing.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0003",
+      "name": "汉堡包",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/hanbaobao.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0004",
+      "name": "煎蛋",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/jiandan.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0005",
+      "name": "饺子",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/jiaozi.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0006",
+      "name": "面包",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/mianbao.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0007",
+      "name": "苹果",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/pingguo.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0008",
+      "name": "热狗",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/regou.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0009",
+      "name": "薯条",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/shutiao.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0010",
+      "name": "西瓜",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/xigua.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0011",
+      "name": "香蕉",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/xiangjiao.png",
+      "clasz": "1"
+    },
+    {
+      "id": "0012",
+      "name": "茶水",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/chashui.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0013",
+      "name": "蛋白粉",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/danbaifen.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0014",
+      "name": "功能饮料",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/gongnengyinliao.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0015",
+      "name": "果冻",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/guodong.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0016",
+      "name": "果汁",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/guozhi.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0017",
+      "name": "咖啡",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/kafei.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0018",
+      "name": "矿泉水",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/kuangquanshui.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0019",
+      "name": "奶茶",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/naicha.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0020",
+      "name": "牛奶",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/niunai.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0021",
+      "name": "酸奶",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/suannai.png",
+      "clasz": "2"
+    },
+    {
+      "id": "0022",
+      "name": "风车",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/fengche.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0023",
+      "name": "橄榄球",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/ganlanqiu.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0024",
+      "name": "水枪",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/shuiqiang.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0025",
+      "name": "乒乓球",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/pingpangqiu.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0026",
+      "name": "轮滑",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/gunlun.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0027",
+      "name": "悠悠球",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/youyouqiu.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0028",
+      "name": "遥控车",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/yaokongche.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0029",
+      "name": "扑克",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/puke.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0030",
+      "name": "魔方",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/mofang.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0031",
+      "name": "积木",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/jimu.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0032",
+      "name": "游戏机",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/youxiji.png",
+      "clasz": "3"
+    },
+    {
+      "id": "0033",
+      "name": "牙刷",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/yashua.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0034",
+      "name": "香皂",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/xiangzao.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0035",
+      "name": "漱口水",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/sukoushui.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0036",
+      "name": "沐浴露",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/muyulu.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0037",
+      "name": "毛巾",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/maojin.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0038",
+      "name": "镜子",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/jingzi.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0039",
+      "name": "电吹风",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/chuifengji.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0040",
+      "name": "梳子",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/shuzi.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0041",
+      "name": "香水",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/xiangshui.png",
+      "clasz": "4"
+    },
+    {
+      "id": "0042",
+      "name": "还神丹",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/huanhundan.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0043",
+      "name": "古典乐",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/gudianyue.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0044",
+      "name": "安神液",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/anshenye.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0045",
+      "name": "焚香",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/fenxiang.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0046",
+      "name": "阅读",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/yuedu.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0047",
+      "name": "眼罩",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/yanzhao.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0048",
+      "name": "香薰",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/xiangxun.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0049",
+      "name": "睡帽",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/shuimao.png",
+      "clasz": "5"
+    },
+    {
+      "id": "0050",
+      "name": "枕头",
+      "image": "https://cdn.cnbj2.fds.api.mi-img.com/livexiaojin/HMeteors/Prop/zhentou.png",
+      "clasz": "5"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+package androidx.health.platform.client.proto;
+
+import androidx.health.platform.client.proto.Internal;
+
+/* loaded from: classes.dex */
+public enum NullValue implements Internal.EnumLite {
+    NULL_VALUE(0),
+    UNRECOGNIZED(-1);
+
+    public static final int NULL_VALUE_VALUE = 0;
+    private static final Internal.EnumLiteMap<NullValue> internalValueMap = new Internal.EnumLiteMap<NullValue>() { // from class: androidx.health.platform.client.proto.NullValue.1
+        @Override // androidx.health.platform.client.proto.Internal.EnumLiteMap
+        public NullValue findValueByNumber(int i2) {
+            return NullValue.forNumber(i2);
+        }
+    };
+    private final int value;
+
+    private static final class NullValueVerifier implements Internal.EnumVerifier {
+
+        /* renamed from: a, reason: collision with root package name */
+        static final Internal.EnumVerifier f4472a = new NullValueVerifier();
+
+        private NullValueVerifier() {
+        }
+
+        @Override // androidx.health.platform.client.proto.Internal.EnumVerifier
+        public boolean isInRange(int i2) {
+            return NullValue.forNumber(i2) != null;
+        }
+    }
+
+    NullValue(int i2) {
+        this.value = i2;
+    }
+
+    public static NullValue forNumber(int i2) {
+        if (i2 != 0) {
+            return null;
+        }
+        return NULL_VALUE;
+    }
+
+    public static Internal.EnumLiteMap<NullValue> internalGetValueMap() {
+        return internalValueMap;
+    }
+
+    public static Internal.EnumVerifier internalGetVerifier() {
+        return NullValueVerifier.f4472a;
+    }
+
+    @Override // androidx.health.platform.client.proto.Internal.EnumLite
+    public final int getNumber() {
+        if (this != UNRECOGNIZED) {
+            return this.value;
+        }
+        throw new IllegalArgumentException("Can't get the number of an unknown enum value.");
+    }
+
+    @Deprecated
+    public static NullValue valueOf(int i2) {
+        return forNumber(i2);
+    }
+}
