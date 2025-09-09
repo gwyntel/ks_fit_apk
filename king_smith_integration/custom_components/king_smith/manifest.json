@@ -1,0 +1,33 @@
+{
+    "domain": "king_smith",
+    "name": "King Smith Walking Pad",
+    "bluetooth": [
+        {
+            "local_name": "KS-AP-*"
+        },
+        {
+            "local_name": "KS-BL*"
+        },
+        {
+            "local_name": "KS-ST-*"
+        },
+        {
+            "local_name": "WalkingPad"
+        }
+    ],
+    "codeowners": [
+        "@supermeap123"
+    ],
+    "config_flow": true,
+    "dependencies": [
+        "bluetooth"
+    ],
+    "documentation": "https://github.com/gwyntel/king_smith",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/gwyntel/king_smith/issues",
+    "requirements": [
+        "bleak>=0.18.0",
+        "ph4-walkingpad>=0.0.7"
+    ],
+    "version": "0.1.2"
+}
