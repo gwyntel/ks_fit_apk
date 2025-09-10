@@ -38,7 +38,13 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
         raise ConfigEntryNotReady(f"Could not find Walkingpad with address {address}")
 
     name = entry.data.get(CONF_NAME) or DOMAIN
-    walking_pad = WalkingPadApi(name, ble_device)
+    model = entry.data.get("model", "other")
+    if model == "MC11":
+        from .walking_pad_mc11 import WalkingPadApiMc11
+        walking_pad = WalkingPadApiMc11(name, ble_device)
+    else:
+        walking_pad = WalkingPadApi(name, ble_device)
+
 
     hass.data[DOMAIN][entry.entry_id] = {
         "device": walking_pad,
